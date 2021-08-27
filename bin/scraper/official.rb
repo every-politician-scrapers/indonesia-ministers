@@ -38,11 +38,12 @@ class MemberList
   end
 
   class Members
-    def members
+    def member_items
       # the position column is left blank in the case of a replacement,
       # so need to get it from the previous row
-      (raw = super).each_with_index do |mem, index|
-        mem[:position] = raw[index-1][:position] if mem[:position].to_s.empty? rescue binding.pry
+      (raw = super.map(&:to_h)).each_with_index do |mem, index|
+        mem[:position] = raw[index - 1][:position] if mem[:position].empty?
+        mem[:position] = [mem[:position]].flatten.map { |posn| posn.split('/').map(&:tidy) }
       end
     end
 
