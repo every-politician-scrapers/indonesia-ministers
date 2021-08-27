@@ -1,3 +1,30 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q18342668,Retno Marsudi,Retno Marsudi,female,1962-11-27T00:00:00Z,11,,Q19827130,Minister of Foreign Affairs,Q18342668-1c7f33fb-4fe4-e48a-2346-d08092b18387
-Q56391957,Yaqut Cholil Qoumas,Yaqut Cholil Qoumas,male,1975-01-04T00:00:00Z,11,,Q104033936,Minister of Religious Affairs of Indonesia,Q56391957-8de87ae6-4be6-6660-7b6c-60a817aef292
+Q72061441,Abdul Halim Iskandar,Abdul Halim Iskandar,male,1962-07-14T00:00:00Z,11,,Q108299796,"Minister of Villages, Development of Disadvantaged Regions and Transmigration",Q72061441-7101C3EA-D827-43BB-9D42-48D3A6EAD5E4
+Q12470931,Agus Gumiwang Kartasasmita,Agus Gumiwang Kartasasmita,male,1969-01-03T00:00:00Z,11,,Q89101302,Indonesia's Minister of Industry and Trade,Q12470931-5C6305C5-A135-4104-AE0B-F0D73E5BB716
+Q12472460,Arifin Tasrif,Arifin Tasrif,male,1953-06-19T00:00:00Z,11,,Q108298100,Minister of Energy and Mineral Resources,Q12472460-A4827F11-193E-411A-8B1F-6E41600D3EB7
+Q65204620,Bahlil Lahadalia,Bahlil Lahadalia,male,1976-08-07T00:00:00Z,11,,Q108299939,Head of the Investment Coordinating Board,Q65204620-93C36A1E-5DF0-4B2C-B2D5-A1B486446FD4
+Q65204620,Bahlil Lahadalia,Bahlil Lahadalia,male,1976-08-07T00:00:00Z,11,,Q108299924,Minister of Investment,Q65204620-E32EB781-11C2-42FF-80DD-31079DD143A9
+Q18421298,Basuki Hadimuljono,Basuki Hadimuljono,male,1954-11-05T00:00:00Z,11,,Q108298684,Minister of Public Works and Public Housing,Q18421298-4B8DE96A-DD61-4179-BDB1-0E576BBBC4A5
+Q85989277,Budi Gunadi Sadikin,Budi Gunadi Sadikin,male,1964-05-06T00:00:00Z,11,,Q108298729,Minister of Health,Q85989277-81ADA59B-E553-4B18-BF56-C07D44E84FCD
+Q28723650,Budi Karya Sumadi,Budi Karya Sumadi,male,1956-12-18T00:00:00Z,11,,Q57946840,Minister of Transportation,Q28723650-78D1FC01-960F-4B59-80A6-1F670E1A8699
+Q5388188,Erick Thohir,Erick Thohir,male,1970-05-30T00:00:00Z,11,,Q108299837,Minister of State-Owned Enterprises,Q5388188-1485C9DE-22C7-451E-8FD9-1FBF6607201A
+Q72117992,I Gusti Ayu Bintang Darmawati,I Gusti Ayu Bintang Darmawati,female,1968-11-24T00:00:00Z,11,,Q108299778,Minister of Women’s Empowerment and Child Protection,Q72117992-8EE5381C-6030-47EE-AE8F-650095E76543
+Q17410595,Ida Fauziyah,Ida Fauziyah,female,1969-07-17T00:00:00Z,11,,Q108298641,Minister of Manpower,Q17410595-4F89C9ED-4E7A-4D5B-88B5-F15F6CF435C1
+Q72119052,Johnny G. Plate,Johnny G. Plate,male,1956-09-10T00:00:00Z,11,,Q57729161,Minister of Communication and Information,Q72119052-9C3A8A41-9C02-4AED-BB22-CBF7F09714B2
+Q12499368,Muhammad Lutfi,Muhammad Lutfi,male,1969-08-16T00:00:00Z,11,,Q108298162,Minister of Trade,Q12499368-05923746-1282-407D-BDFA-52D3635543E3
+Q25464675,Nadiem Makarim,Nadiem Makarim,male,1984-07-04T00:00:00Z,11,,Q12479877,"Minister of Education, Culture, Research and Technology",Q25464675-7CB6E271-D7FF-4517-9BF8-5EA8EEADDD7A
+Q2107268,Prabowo Subianto,Prabowo Subianto,male,1951-10-17T00:00:00Z,11,,Q29076377,Minister of Defence,Q2107268-7A0A1C7C-2DE6-4D64-9234-D5028EC1AFE4
+Q12506406,Pratikno,Pratikno,male,1962-02-13T00:00:00Z,11,,Q53938865,Minister of State Secretariat,Q12506406-0697D20F-BD24-4B64-83D7-86190B4D49A1
+Q18342668,Retno Marsudi,Retno Marsudi,female,1962-11-27T00:00:00Z,11,,Q19827130,Minister of Foreign Affairs,Q18342668-3FFCF786-5C21-495F-91BF-E851E2EAC22D
+Q73854259,Sakti Wahyu Trenggono,Sakti Wahyu Trenggono,male,1962-01-01T00:00:00Z,9,,Q108298341,Minister of of Maritime Affairs and Fisheries,Q73854259-9D3484F1-1B76-4208-8351-C6029BEB4CF1
+Q7416335,Sandiaga Uno,Sandiaga Uno,male,1969-06-28T00:00:00Z,11,,Q108299861,Minister of Tourism and Creative Economy,Q7416335-A5DBA1CD-89FE-4480-98DB-AB9F178B1EAA
+Q18421248,Siti Nurbaya Bakar,Siti Nurbaya Bakar,female,1956-07-28T00:00:00Z,11,,Q108298235,Minister of the Environment and Forestry,Q18421248-E5B65DE8-4B84-42B9-B102-1600809AB821
+Q3177708,Sri Mulyani Indrawati,Sri Mulyani Indrawati,female,1962-08-26T00:00:00Z,11,,Q57948304,Finance Minister of Indonesia,Q3177708-68B25B40-23F9-4B6E-B526-27E0AA7CB0BF
+Q12516581,Suharso Monoarfa,Suharso Monoarfa,male,1954-10-31T00:00:00Z,11,,Q108299521,Minister of National Development Planning of Indonesia,Q12516581-932BE4D1-CC96-499E-A23D-2CDB7213D7F8
+Q10860301,Syahrul Yasin Limpo,Syahrul Yasin Limpo,male,1955-03-16T00:00:00Z,11,,Q108298207,Minister of Agriculture,Q10860301-07FF7004-3582-4FA3-A04F-BCEBB89D4CCF
+Q12521705,Tito Karnavian,Tito Karnavian,male,1964-10-26T00:00:00Z,11,,Q12479867,Minister of Home Affairs,Q12521705-1ACFF3E3-A842-4D77-944D-FF9FA69BE64D
+Q12521725,Tjahjo Kumolo,Tjahjo Kumolo,male,1957-12-01T00:00:00Z,11,,Q108299788,Minister of State Apparatus Empowerment and Bureaucratic Reform,Q12521725-9F51D8C3-D71F-498C-8561-BA865768396E
+Q12522317,Tri Rismaharini,Tri Rismaharini,female,1961-11-20T00:00:00Z,11,,Q108298107,Minister of Social Affairs,Q12522317-F3B18232-DE2C-45FE-8F7E-A2A0A2CFA84E
+Q56391957,Yaqut Cholil Qoumas,Yaqut Cholil Qoumas,male,1975-01-04T00:00:00Z,11,,Q58856162,Minister of Religious Affairs,Q56391957-CC328E06-A623-4F4F-A2EE-52FDDA495890
+Q12525045,Yasonna Hamonangan Laoly,Yasonna Hamonangan Laoly,male,1953-05-27T00:00:00Z,11,,Q53920130,Minister of Law and Human Rights,Q12525045-E5132A88-7260-4FAC-B372-F735B9397F44
+Q72061950,Zainudin Amali,Zainudin Amali,male,1962-03-16T00:00:00Z,11,,Q108299899,Minister of Youth and Sports,Q72061950-B9AF873E-337E-44B1-88A9-E4E276A40428
