@@ -7,17 +7,47 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[3].text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      tds[1].text.tidy
+    end
+
+    field :start_date do
+      Date.parse(start_text)
+    end
+
+    field :end_date do
+      Date.parse(end_text) rescue nil
+    end
+
+    private
+
+    def tds
+      noko.css('td')
+    end
+
+    def start_text
+      tds[4].text.tidy
+    end
+
+    def end_text
+      tds[5].text.tidy
     end
   end
 
   class Members
+    def members
+      # the position column is left blank in the case of a replacement,
+      # so need to get it from the previous row
+      (raw = super).each_with_index do |mem, index|
+        mem[:position] = raw[index-1][:position] if mem[:position].to_s.empty? rescue binding.pry
+      end
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.wikitable')[1].xpath('.//tr[td]')
     end
   end
 end
