@@ -51,8 +51,23 @@ class MemberList
       raw
     end
 
+    def members
+      super + presidents
+    end
+
     def member_container
       noko.css('.wikitable')[1].xpath('.//tr[td]')
+    end
+
+    def presidents
+      [
+        { name: president_and_vp.first, start_date: nil, end_date: nil, position: 'President' },
+        { name: president_and_vp.last,  start_date: nil, end_date: nil, position: 'Vice President' }
+      ]
+    end
+
+    def president_and_vp
+      noko.css('.wikitable')[0].xpath('.//tr[td]').text.split("\n").reject(&:empty?)
     end
   end
 end
