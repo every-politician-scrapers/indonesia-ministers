@@ -67,7 +67,7 @@ class MemberList
     end
 
     def president_and_vp
-      noko.css('.wikitable')[0].xpath('.//tr[td]').text.split("\n").reject(&:empty?)
+      noko.css('.wikitable')[0].xpath('.//tr[td]//td').map(&:text).reject(&:empty?)
     end
   end
 end
