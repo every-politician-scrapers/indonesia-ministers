@@ -1,0 +1,44 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5453078,First Hatta Cabinet,,,1948-01-29,11,,,1949-08-04,11,Q23929770,Cabinet of Indonesia,,,,,,,Q7443024,Second Amir Sjarifuddin Cabinet,Q7533519,Sjafruddin Emergency Cabinet
+,Q7443349,Second Hatta Cabinet,,,1949-08-04,11,,,1949-12-14,11,Q23929770,Cabinet of Indonesia,,,,,,,Q7533519,Sjafruddin Emergency Cabinet,Q7314559,Republic of the United States of Indonesia Cabinet
+,Q2339595,Presidential Cabinet,1945-01-01,9,1945-01-01,9,,,1945-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,,,Q4251338,First Sjahrir Cabinet
+,Q4251338,First Sjahrir Cabinet,1945-01-01,9,1945-01-01,9,,,1946-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q2339595,Presidential Cabinet,Q7443546,Second Sjahrir Cabinet
+,Q7443546,Second Sjahrir Cabinet,1946-01-01,9,1946-01-01,9,,,1946-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4251338,First Sjahrir Cabinet,Q7784960,Third Sjahrir Cabinet
+,Q7784960,Third Sjahrir Cabinet,1946-01-01,9,1946-01-01,9,,,1947-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7443546,Second Sjahrir Cabinet,Q4200312,First Amir Sjarifuddin Cabinet
+,Q4200312,First Amir Sjarifuddin Cabinet,1947-01-01,9,1947-01-01,9,,,1947-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7784960,Third Sjahrir Cabinet,Q7443024,Second Amir Sjarifuddin Cabinet
+,Q7443024,Second Amir Sjarifuddin Cabinet,1947-01-01,9,1947-01-01,9,,,1948-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4200312,First Amir Sjarifuddin Cabinet,Q5453078,First Hatta Cabinet
+,Q7533519,Sjafruddin Emergency Cabinet,1948-12-19,11,,,1949-07-13,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q5453078,First Hatta Cabinet,Q7443349,Second Hatta Cabinet
+,Q7648825,Susanto Cabinet,1949-01-01,9,1949-01-01,9,,,1950-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7443349,Second Hatta Cabinet,Q5642327,Halim Cabinet
+,Q7314559,Republic of the United States of Indonesia Cabinet,1949-12-20,11,,,1950-08-15,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q7443349,Second Hatta Cabinet,Q6980270,Natsir Cabinet
+,Q7314559,Republic of the United States of Indonesia Cabinet,1949-12-20,11,,,1950-08-15,11,,,Q7188,government,,,,,,,Q7443349,Second Hatta Cabinet,Q6980270,Natsir Cabinet
+,Q5642327,Halim Cabinet,1950-01-01,9,1950-01-01,9,,,1950-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7648825,Susanto Cabinet,Q6980270,Natsir Cabinet
+,Q6980270,Natsir Cabinet,1950-01-01,9,1950-01-01,9,,,1951-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7314559,Republic of the United States of Indonesia Cabinet,Q7635858,Sukiman Cabinet
+,Q7635858,Sukiman Cabinet,1951-01-01,9,1951-01-01,9,,,1952-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q6980270,Natsir Cabinet,Q8022871,Wilopo Cabinet
+,Q8022871,Wilopo Cabinet,1952-01-01,9,1952-01-01,9,,,1953-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7635858,Sukiman Cabinet,Q5452276,First Ali Sastroamidjojo Cabinet
+,Q5452276,First Ali Sastroamidjojo Cabinet,1953-01-01,9,1953-01-01,9,,,1955-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q8022871,Wilopo Cabinet,Q4998774,Burhanuddin Harahap Cabinet
+,Q4998774,Burhanuddin Harahap Cabinet,1955-01-01,9,1955-01-01,9,,,1956-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5452276,First Ali Sastroamidjojo Cabinet,Q7443017,Second Ali Sastroamidjojo Cabinet
+,Q7443017,Second Ali Sastroamidjojo Cabinet,1956-01-01,9,1956-01-01,9,,,1957-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4998774,Burhanuddin Harahap Cabinet,Q5285386,Djuanda Cabinet
+,Q5285386,Djuanda Cabinet,1957-01-01,9,1957-01-01,9,,,1959-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7443017,Second Ali Sastroamidjojo Cabinet,Q5454095,First Working Cabinet
+,Q5454095,First Working Cabinet,1959-01-01,9,1959-01-01,9,,,1960-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5285386,Djuanda Cabinet,Q7443661,Second Working Cabinet
+,Q7443661,Second Working Cabinet,1960-02-18,11,,,1962-03-06,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q5454095,First Working Cabinet,Q7785016,Third Working Cabinet
+,Q7785016,Third Working Cabinet,1962-03-06,11,1962-01-01,9,1963-11-13,11,1963-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7443661,Second Working Cabinet,Q17050728,Fourth Working Cabinet
+,Q17050728,Fourth Working Cabinet,1963-11-13,11,,,1964-08-27,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q7785016,Third Working Cabinet,Q5318291,Dwikora Cabinet
+,Q5318291,Dwikora Cabinet,1964-08-27,11,1964-01-01,9,1966-02-22,11,1966-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q17050728,Fourth Working Cabinet,Q7318425,Revised Dwikora Cabinet
+,Q7318425,Revised Dwikora Cabinet,1966-02-24,11,1966-01-01,9,1966-03-27,11,1966-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5318291,Dwikora Cabinet,Q12488313,Second Revised Dwikora Cabinet
+,Q12488313,Second Revised Dwikora Cabinet,1966-03-31,11,1966-01-01,9,1966-07-25,11,1966-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7318425,Revised Dwikora Cabinet,Q4748123,Ampera Cabinet
+,Q4748123,Ampera Cabinet,1966-07-28,11,1966-01-01,9,1967-10-11,11,1967-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q12488313,Second Revised Dwikora Cabinet,Q7318423,Revised Ampera Cabinet
+,Q7318423,Revised Ampera Cabinet,1967-10-17,11,1967-01-01,9,1968-06-10,11,1968-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4748123,Ampera Cabinet,Q5452925,First Development Cabinet
+,Q5452925,First Development Cabinet,1968-06-10,11,1968-01-01,9,1973-03-28,11,1973-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7318423,Revised Ampera Cabinet,Q7443242,Second Development Cabinet
+,Q7443242,Second Development Cabinet,1973-03-28,11,,,1978-03-29,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q5452925,First Development Cabinet,Q7784821,Third Development Cabinet
+,Q7784821,Third Development Cabinet,1978-03-31,11,,,1983-03-19,11,,,Q23929770,Cabinet of Indonesia,,,,,,,Q7443242,Second Development Cabinet,Q5476060,Fourth Development Cabinet
+,Q5476060,Fourth Development Cabinet,1983-03-19,11,1983-01-01,9,1988-03-21,11,1988-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7784821,Third Development Cabinet,Q5447506,Fifth Development Cabinet
+,Q5447506,Fifth Development Cabinet,1988-03-23,11,1988-01-01,9,1993-03-17,11,1993-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5476060,Fourth Development Cabinet,Q7533139,Sixth Development Cabinet
+,Q7533139,Sixth Development Cabinet,1993-03-17,11,1993-01-01,9,1998-03-14,11,1998-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5447506,Fifth Development Cabinet,Q29349,Seventh Development Cabinet
+,Q29349,Seventh Development Cabinet,1998-03-16,11,1998-01-01,9,1998-05-21,11,1998-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q7533139,Sixth Development Cabinet,Q5266709,Development Reform Cabinet
+,Q5266709,Development Reform Cabinet,1998-05-23,11,1998-01-01,9,1999-10-20,11,1999-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q29349,Seventh Development Cabinet,Q4201917,National Unity Cabinet
+,Q4201917,National Unity Cabinet,1999-10-29,11,1999-01-01,9,2001-07-23,11,2001-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q5266709,Development Reform Cabinet,Q4201259,Mutual Assistance Cabinet
+,Q4201259,Mutual Assistance Cabinet,2001-08-10,11,2001-01-01,9,2004-10-20,11,2004-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4201917,National Unity Cabinet,Q4201190,United Indonesia Cabinet
+,Q4201190,United Indonesia Cabinet,2004-10-21,11,2004-01-01,9,2009-10-20,11,2009-01-01,9,Q23929770,Cabinet of Indonesia,,,,,,,Q4201259,Mutual Assistance Cabinet,Q4258723,Second United Indonesia Cabinet
+,Q4258723,Second United Indonesia Cabinet,2009-10-22,11,,,2014-10-20,11,,,Q23929770,Cabinet of Indonesia,,,,,Q18342125,First Working Cabinet (Joko Widodo),Q4201190,United Indonesia Cabinet,Q18342125,First Working Cabinet (Joko Widodo)
+,Q18342125,First Working Cabinet (Joko Widodo),2014-10-27,11,,,2019-10-20,11,,,Q23929770,Cabinet of Indonesia,,,Q4258723,Second United Indonesia Cabinet,Q71682639,Onward Indonesia Cabinet,Q4258723,Second United Indonesia Cabinet,,
+,Q71682639,Onward Indonesia Cabinet,2019-10-23,11,,,,,,,Q23929770,Cabinet of Indonesia,,,Q18342125,First Working Cabinet (Joko Widodo),,,,,,
