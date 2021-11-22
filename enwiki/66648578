@@ -1,0 +1,186 @@
+{
+  "title": "Budi Gunadi Sadikin",
+  "pageID": 66648578,
+  "categories": [
+    "Living people",
+    "Place of birth missing (living people)",
+    "Health ministers of Indonesia",
+    "Onward Indonesia Cabinet",
+    "1964 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Budi Gunadi Sadikin (born May 6, 1964) is an Indonesian politician.",
+              "formatting": {
+                "bold": [
+                  "Budi Gunadi Sadikin"
+                ]
+              }
+            },
+            {
+              "text": "he serves as Minister of Health in the Onward Indonesia Cabinet of President Joko Widodo.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joko Widodo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He previously served as President Director at Bank Mandiri.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bank Mandiri"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "2020",
+            "12",
+            "23"
+          ],
+          "post": ",",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Budi Gunadi Sadikin"
+          },
+          "image": {
+            "text": "Menkes-Budi-Gunadi-Sadikin-BGS.jpg"
+          },
+          "office": {
+            "text": "20th Health Minister of Indonesia",
+            "links": [
+              {
+                "text": "Health Minister of Indonesia",
+                "type": "internal",
+                "page": "Ministry of Health (Indonesia)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 December 2020"
+          },
+          "predecessor": {
+            "text": "Terawan Agus Putranto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terawan Agus Putranto"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Profil Budi Gunadi Sadikin, Jebolan Fisika Nuklir, Bankir, Lalu Menkes",
+          "url": "https://money.kompas.com/read/2020/12/23/071810026/profil-budi-gunadi-sadikin-jebolan-fisika-nuklir-bankir-lalu-menkes?page=all",
+          "author": "Muhammad Idris",
+          "agency": "Kompas.com",
+          "archive-url": "https://archive.is/hjLBq",
+          "archive-date": "2021-02-19",
+          "date": "2020-12-23",
+          "access-date": "2021-02-19",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "22 December 2020",
+          "title": "A Glimpse of Jokowi’s Six New Ministers: from Political Rival to Banker-turned-Health Minister",
+          "work": "Jakarta Globe",
+          "url": "https://jakartaglobe.id/news/a-glimpse-of-jokowis-six-new-ministers-from-political-rival-to-bankerturnedhealth-minister",
+          "url-status": "live",
+          "access-date": "6 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "22 December 2020",
+          "title": "Budi Gunadi Sadikin Appointed New Health Minister Replacing Terawan",
+          "work": "Tempo.co",
+          "url": "https://en.tempo.co/read/1416805/budi-gunadi-sadikin-appointed-new-health-minister-replacing-terawan",
+          "url-status": "live",
+          "access-date": "6 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Terawan Agus Putranto",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

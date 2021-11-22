@@ -1,0 +1,202 @@
+{
+  "title": "Sakti Wahyu Trenggono",
+  "pageID": 66648669,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "People from Semarang",
+    "Government ministers of Indonesia",
+    "Onward Indonesia Cabinet"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sakti Wahyu Trenggono (born 3 November 1962) is an Indonesian politician.",
+              "formatting": {
+                "bold": [
+                  "Sakti Wahyu Trenggono"
+                ]
+              }
+            },
+            {
+              "text": "he serves as Minister of Maritime Affairs and Fisheries in the Onward Indonesia Cabinet of President Joko Widodo.",
+              "links": [
+                {
+                  "text": "Minister of Maritime Affairs and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Maritime Affairs and Fisheries (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joko Widodo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "id",
+          "otherarticle": "Sakti Wahyu Trenggono",
+          "date": "March 2021",
+          "template": "expand language"
+        },
+        {
+          "year": "1962",
+          "month": "11",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "12",
+            "23"
+          ],
+          "post": ",",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sakti Wahyu Trenggono"
+          },
+          "image": {
+            "text": "Sakti Wahyu Trenggono, Menteri Kelautan dan Perikanan.jpg"
+          },
+          "office": {
+            "text": "8th Minister of Maritime Affairs and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Maritime Affairs and Fisheries",
+                "type": "internal",
+                "page": "Ministry of Maritime Affairs and Fisheries (Indonesia)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 December 2020"
+          },
+          "predecessor": {
+            "text": "Edhy Prabowo\n\nLuhut Binsar Pandjaitan (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edhy Prabowo"
+              },
+              {
+                "type": "internal",
+                "page": "Luhut Binsar Pandjaitan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 3, 1962"
+          },
+          "birth_place": {
+            "text": "Semarang, Central Java, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Semarang"
+              },
+              {
+                "type": "internal",
+                "page": "Central Java"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Mandate Party (2009–2013) Independent (since 2013)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Mandate Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "22 December 2020",
+          "title": "A Glimpse of Jokowi’s Six New Ministers: from Political Rival to Banker-turned-Health Minister",
+          "work": "Jakarta Globe",
+          "url": "https://jakartaglobe.id/news/a-glimpse-of-jokowis-six-new-ministers-from-political-rival-to-bankerturnedhealth-minister",
+          "url-status": "live",
+          "access-date": "6 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "22 December 2020",
+          "title": "Profile-Maritime Affairs and Fisheries Minister, Sakti Wahyu Trenggono",
+          "work": "Antaranews.com",
+          "url": "https://en.antaranews.com/news/164268/profile-maritime-affairs-and-fisheries-minister-sakti-wahyu-trenggono",
+          "url-status": "live",
+          "access-date": "6 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Edhy Prabowo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Maritime Affairs and Fisheries",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

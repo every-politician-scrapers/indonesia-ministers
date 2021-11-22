@@ -1,0 +1,172 @@
+{
+  "title": "Abdul Halim Iskandar",
+  "pageID": 65362867,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Place of birth missing (living people)",
+    "21st-century Indonesian politicians",
+    "Onward Indonesia Cabinet",
+    "National Awakening Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdul Halim Iskandar (born 14 July 1962) is an Indonesian politician.",
+              "formatting": {
+                "bold": [
+                  "Abdul Halim Iskandar"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Villages, Development of Disadvantaged Regions, and Transmigration in the 41st Cabinet of Indonesia.",
+              "links": [
+                {
+                  "text": "Minister of Villages, Development of Disadvantaged Regions, and Transmigration",
+                  "type": "internal",
+                  "page": "Ministry of Villages, Development of Disadvantaged Regions, and Transmigration"
+                },
+                {
+                  "text": "41st Cabinet of Indonesia",
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He is affiliated with the National Awakening Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Awakening Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "7",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2019",
+            "10",
+            "23"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdul Halim Iskandar"
+          },
+          "image": {
+            "text": "Kemendesa - Abdul Halim Iskandar.jpg"
+          },
+          "office": {
+            "text": "Minister of Villages, Development of Disadvantaged Regions, and Transmigration",
+            "links": [
+              {
+                "text": "Minister of Villages, Development of Disadvantaged Regions, and Transmigration",
+                "type": "internal",
+                "page": "Ministry of Villages, Development of Disadvantaged Regions, and Transmigration"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 October 2019"
+          },
+          "predecessor": {
+            "text": "Eko Putro Sandjojo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eko Putro Sandjojo"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Awakening Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Awakening Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 14, 1962"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "23 October 2019",
+          "title": "BREAKING: Jokowi announces his new Cabinet. Here’s the line up",
+          "work": "The Jakarta Post",
+          "url": "https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "url-status": "live",
+          "access-date": "12 September 2020",
+          "archive-url": "https://web.archive.org/web/20200607083117/https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "archive-date": "7 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "23 October 2019",
+          "title": "Profil Lengkap Abdul Halim Iskandar, dari Santri hingga Jadi Menteri Desa",
+          "url": "https://regional.kompas.com/read/2019/10/23/13270971/profil-lengkap-abdul-halim-iskandar-dari-santri-hingga-jadi-menteri-desa?page=all",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200726004454/https://regional.kompas.com/read/2019/10/23/13270971/profil-lengkap-abdul-halim-iskandar-dari-santri-hingga-jadi-menteri-desa?page=all",
+          "archive-date": "26 July 2020",
+          "access-date": "19 September 2020",
+          "website": "KOMPAS.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

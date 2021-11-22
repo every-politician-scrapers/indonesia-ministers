@@ -1,0 +1,200 @@
+{
+  "title": "Muhammad Syarifuddin",
+  "pageID": 51337818,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Chief Justices of the Supreme Court of Indonesia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Muhammad Syarifuddin (born 17 October 1954) is an Indonesian justice who serves as the 14th and current Chief Justice of the Supreme Court of Indonesia since 30 April 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of the Supreme Court of Indonesia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Muhammad Syarifuddin"
+                ]
+              }
+            },
+            {
+              "text": "He also serves as the Deputy Chief Justice of the Supreme Court Indonesia for judicial affairs, and previously served as the Supreme Court's head of supervision.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Chief Justice of the Supreme Court Indonesia"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Indonesia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian Supreme Court justice",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1954",
+          "month": "10",
+          "day": "17",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Muhammad Syarifuddin"
+          },
+          "image": {
+            "text": "M. Syarifuddin.jpg"
+          },
+          "order": {
+            "text": "14th"
+          },
+          "office": {
+            "text": "Chief Justice of the Supreme Court of Indonesia"
+          },
+          "term_start": {
+            "text": "30 April 2020"
+          },
+          "predecessor": {
+            "text": "Muhammad Hatta Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Hatta Ali"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Chief Justice of the Supreme Court of Indonesia, Judicial Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Chief Justice of the Supreme Court of Indonesia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 May 2016"
+          },
+          "predecessor1": {
+            "text": "Mohammad Saleh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Saleh"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 17, 1954"
+          },
+          "birth_place": {
+            "text": "Baturaja, South Sumatra, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baturaja"
+              },
+              {
+                "type": "internal",
+                "page": "South Sumatra"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Indonesian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Jadi Ketua MA, Syarifuddin Bacakan Sumpah Jabatan di Depan Jokowi",
+          "language": "id",
+          "url": "https://news.detik.com/berita/d-4996955/jadi-ketua-ma-syarifuddin-bacakan-sumpah-jabatan-di-depan-jokowi",
+          "author": "Andhika Prasetia",
+          "work": "Detik.com",
+          "date": "30 April 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "before": "Muhammad Hatta Ali",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Justice of the Supreme Court of Indonesia",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Mohammad Saleh",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Chief Justice of the Supreme Court of Indonesia Judicial Affairs",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

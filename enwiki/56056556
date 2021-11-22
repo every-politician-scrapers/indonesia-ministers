@@ -1,0 +1,789 @@
+{
+  "title": "Airlangga Hartarto",
+  "pageID": 56056556,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Gadjah Mada University alumni",
+    "People from Surabaya",
+    "Golkar politicians",
+    "Politicians from East Java",
+    "Monash University alumni",
+    "University of Melbourne alumni",
+    "Indonesian businesspeople",
+    "Government ministers of Indonesia",
+    "21st-century Indonesian politicians",
+    "Working Cabinet (Joko Widodo)",
+    "Members of the People's Representative Council, 2004",
+    "Members of the People's Representative Council, 2009",
+    "Members of the People's Representative Council, 2014",
+    "Onward Indonesia Cabinet",
+    "Industry ministers of Indonesia",
+    "People named in the Pandora Papers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Airlangga Hartarto (born 1 October 1962) is an Indonesian politician and businessman.",
+              "links": [
+                {
+                  "text": "Indonesian",
+                  "type": "internal",
+                  "page": "Indonesia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Airlangga Hartarto"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Coordinating Minister for Economic Affairs in President Joko Widodo's Onward Indonesia Cabinet, appointed on 23 October 2019.",
+              "links": [
+                {
+                  "text": "Coordinating Minister for Economic Affairs",
+                  "type": "internal",
+                  "page": "Coordinating Ministry for Economic Affairs (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joko Widodo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He is also the chairman of Golkar Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Golkar Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician and businessman",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "10",
+          "day": "1",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Airlangga Hartarto"
+          },
+          "image": {
+            "text": "Airlangga Hartarto.jpg"
+          },
+          "office": {
+            "text": "17th Coordinating Minister for Economic Affairs of Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coordinating Minister for Economic Affairs of Indonesia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 October 2019"
+          },
+          "president": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Darmin Nasution",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Darmin Nasution"
+              }
+            ]
+          },
+          "office1": {
+            "text": "25th Minister of Industry of Indonesia",
+            "links": [
+              {
+                "text": "Minister of Industry of Indonesia",
+                "type": "internal",
+                "page": "Ministry of Industry (Indonesia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 July 2016"
+          },
+          "term_end1": {
+            "text": "20 October 2019"
+          },
+          "president1": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Saleh Husin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saleh Husin"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Agus Gumiwang Kartasasmita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agus Gumiwang Kartasasmita"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of Golkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Golkar"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 December 2017"
+          },
+          "predecessor2": {
+            "text": "Setya Novanto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Setya Novanto"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of People's Representative Council from West Java 5th District",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Representative Council"
+              },
+              {
+                "type": "internal",
+                "page": "West Java"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 October 2004"
+          },
+          "term_end3": {
+            "text": "27 July 2016"
+          },
+          "birth_date": {
+            "text": "October 1, 1962"
+          },
+          "birth_place": {
+            "text": "Surabaya, East Java, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Surabaya"
+              },
+              {
+                "type": "internal",
+                "page": "East Java"
+              },
+              {
+                "type": "internal",
+                "page": "Indonesia"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Indonesian"
+          },
+          "nationality": {
+            "text": "Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indonesia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Golkar Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Golkar Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Yanti K. Isfandiary"
+          },
+          "relations": {
+            "text": "Hartarto Sastrosoenarto (Father)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hartarto Sastrosoenarto"
+              }
+            ]
+          },
+          "children": {
+            "text": "Adanti (1989), Ravindra (1991), Audi (1992), Dinesvara (1993), Bianda (1998), Latascha (2006), Maisara (2007), Natalie (2008)"
+          },
+          "grandchildren": {
+            "text": "Ophelia (2018), Endaru (2020)"
+          },
+          "alma_mater": {
+            "text": "SMA (High-school) Kolese Kanisius University of Gadjah Mada Monash University University of Melbourne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "SMA (High-school) Kolese Kanisius"
+              },
+              {
+                "type": "internal",
+                "page": "University of Gadjah Mada"
+              },
+              {
+                "type": "internal",
+                "page": "Monash University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Melbourne"
+              }
+            ]
+          },
+          "cabinet": {
+            "text": "Working Cabinet",
+            "links": [
+              {
+                "text": "Working Cabinet",
+                "type": "internal",
+                "page": "Working Cabinet (Joko Widodo)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://nasional.kontan.co.id/news/airlangga-hartarto-jadi-menko-perekonomian-ini-kata-para-pengamat",
+          "title": "Airlangga Hartarto jadi Menko Perekonomian, ini kata para pengamat",
+          "publisher": "Kontan.co.id",
+          "date": "23 October 2019",
+          "accessdate": "23 October 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Airlangga Hartarto",
+          "url": "http://profile.metrotvnews.com/read/274/airlangga-hartarto",
+          "accessdate": "15 December 2017",
+          "publisher": "metrotvnews.com",
+          "date": "14 December 2017",
+          "archive-url": "https://web.archive.org/web/20171214104811/http://profile.metrotvnews.com/read/274/airlangga-hartarto",
+          "archive-date": "14 December 2017",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Airlangga was born in the East Java capital of Surabaya on 1 October 1962.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East Java"
+                },
+                {
+                  "type": "internal",
+                  "page": "Surabaya"
+                }
+              ]
+            },
+            {
+              "text": "His father Hartarto Sastrosoenarto, an engineer and politician, served as a minister in various portfolios for former president Suharto for 15 years from 1983 to 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Suharto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Airlangga was active in the boy scouts, attending national and international jamborees."
+            },
+            {
+              "text": "He completed high school at Kanisius College in Jakarta in 1981.",
+              "links": [
+                {
+                  "text": "Kanisius College",
+                  "type": "internal",
+                  "page": "Canisius College, Jakarta"
+                }
+              ]
+            },
+            {
+              "text": "He received a bachelor's degree in mechanical engineering from Gadjah Mada University in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gadjah Mada University"
+                }
+              ]
+            },
+            {
+              "text": "He completed the AMP at  Wharton School of the University of Pennsylvania  and later received a master's degree in business administration from Monash University as well as a master's degree in management technology from the University of Melbourne.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wharton School of the University of Pennsylvania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Monash University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Melbourne"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he was awarded an honorary doctorate in Development Policy by The KDI School of Public Policy and Management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "KDI School of Public Policy and Management"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Klarifikasi dari Putera Menko Hartarto",
+          "url": "https://www.library.ohio.edu/indopubs/1998/05/27/0003.html",
+          "website": "Indonesia Docs, Southeast Asia Collection - Ohio University",
+          "publisher": "Ohio University Libraries",
+          "access-date": "18 December 2017",
+          "archive-url": "https://web.archive.org/web/20171224043953/https://www.library.ohio.edu/indopubs/1998/05/27/0003.html",
+          "archive-date": "24 December 2017",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Profil Airlangga Hartarto",
+          "url": "https://m.merdeka.com/airlangga-hartarto/profil/",
+          "accessdate": "17 December 2017",
+          "publisher": "Merdeka.com",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wardhani",
+          "first1": "Dewanti A.",
+          "title": "Jokowi's new Cabinet: Who's the boss now?",
+          "url": "http://www.thejakartapost.com/longform/2016/07/28/whos-the-boss-now.html",
+          "accessdate": "15 December 2017",
+          "publisher": "The Jakarta Post",
+          "date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ghibran",
+          "first1": "Ibrahim",
+          "title": "Airlangga Bakal Terima Gelar Doktor Kehormatan dari Kampus Ternama Korea",
+          "url": "https://news.detik.com/berita/d-4599046/airlangga-bakal-terima-gelar-doktor-kehormatan-dari-kampus-ternama-korea",
+          "website": "DetikNews",
+          "publisher": "DetikNews",
+          "accessdate": "31 October 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Business career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Airlangga has been involved in numerous businesses, ranging from fertilizer distribution to paper packaging and construction machinery."
+            },
+            {
+              "text": "Following are some of his corporate roles."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Owner of fertilizer distributor PT Graha Curah Niaga."
+          },
+          {
+            "text": "President Commissioner and Chairman of PT Fajar Surya Wisesa, a paper packaging manufacturer (1988–2016). The company was founded by Airlangga and Winarko Sulistyo in 1988. Airlangga's older brother Gunadharma in a 1998 email to activist George Aditjondro described the publicly listed company as a \"small competitor of Sinar Mas Group\"."
+          },
+          {
+            "text": "President Director of PT Jakarta Prima Cranes (1991)."
+          },
+          {
+            "text": "Chairman of PT Ciptadana Sekuritas asset management firm (1994). The company was founded in 1990 and is now called PT Ciptadana Capital."
+          },
+          {
+            "text": "In 2002, Airlangga resigned from the Board of Directors of Indonesian Investment Fund Limited, an open-ended equity mutual fund launched and run by PT Ciptadana Asset Management. Bermuda-registered Indonesian Investment Fund Limited was among companies listed in the Paradise Papers set of leaked documents related to offshore investments."
+          },
+          {
+            "text": "President Director of PT Bisma Narendra (1994). Founded in 1994, the company provides metal coating and allied services."
+          },
+          {
+            "text": "Commissioner of PT Sorini Agro Asia Corporindo (2004). The company buys tapioca starch and sells its derivatives."
+          },
+          {
+            "text": "President Commissioner of PT Essar Dhananjaya, a manufacturer of steel coils and sheets."
+          },
+          {
+            "text": "Commissioner of PT Hitachi Construction Machinery Indonesia."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Airlangga Hartarto",
+          "url": "http://www.indonesiaeconomicforum.com/article/read/airlangga-hartarto",
+          "website": "Indonesia Economic Forum 2017",
+          "publisher": "Indonesia Economic Forum 2017",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "FajarPaper Annual Report 2013",
+          "url": "https://cdn.indonesia-investments.com/bedrijfsprofiel/544/fajar-surya-wisesa-annual-report-2013-fasw-lapotan-tahunan-company-profile-indonesia-investments.pdf",
+          "publisher": "PT Fajar Surya Wisesa Tbk",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Klarifikasi dari Putera Menko Hartarto",
+          "url": "https://www.library.ohio.edu/indopubs/1998/05/27/0003.html",
+          "website": "Indonesia Docs, Southeast Asia Collection - Ohio University",
+          "publisher": "Ohio University Libraries",
+          "access-date": "18 December 2017",
+          "archive-url": "https://web.archive.org/web/20171224043953/https://www.library.ohio.edu/indopubs/1998/05/27/0003.html",
+          "archive-date": "24 December 2017",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Data Pengurus Badan Usaha: Jakarta Prima Cranes",
+          "url": "http://lpjk.org/modules/detail_proses_registrasi_badan_usaha.php?action=Pengurus&ID_Badan_Usaha=8933934&ID_Propinsi=09",
+          "website": "National Construction Services Development Board",
+          "publisher": "Lembaga Pengembangan Jasa Konstruksi (LPJK)",
+          "accessdate": "18 December 2017}}{{Dead link|date=June 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Airlangga Hartarto Jadi Menteri Perindustrian, Ini Profilnya",
+          "url": "http://nasional.kompas.com/read/2016/07/27/11533371/airlangga.hartarto.jadi.menteri.perindustrian.ini.profilnya",
+          "accessdate": "18 December 2017",
+          "publisher": "Kompas.com",
+          "date": "27 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Company Overview of PT Ciptadana Capital",
+          "url": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=39666995",
+          "website": "Bloomberg",
+          "publisher": "Bloomberg",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Indonesian Inv Fund Re: Directorate",
+          "url": "https://www.investegate.co.uk/indonesian-inv-fund/rns/re--directorate/200209051222428039A/",
+          "website": "Financial Express",
+          "publisher": "Financial Express",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Indonesian Investment Fund Limited",
+          "url": "https://offshoreleaks.icij.org/nodes/82007734",
+          "website": "ICIJ Offshore Leaks Database",
+          "publisher": "The International Consortium of Investigative Journalists",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Resmi Jadi Ketua Umum Golkar, Ini Profil Airlangga Hartarto",
+          "url": "https://www.radarmalang.id/resmi-jadi-ketua-umum-golkar-ini-profil-airlangga-hartarto",
+          "accessdate": "18 December 2017",
+          "publisher": "RadarMalang",
+          "date": "14 December 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Airlangga Hartarto",
+          "url": "https://cn.weforum.org/people/airlangga-hartarto/",
+          "website": "World Economic Forum",
+          "publisher": "World Economic Forum",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Board of Directors, Commissioners",
+          "url": "http://www.hitachi-cmid.com/bod.htm",
+          "website": "PT Hitachi Construction Machinery Indonesia",
+          "publisher": "PT Hitachi Construction Machinery Indonesia",
+          "accessdate": "18 December 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Airlangga joined Golkar Party in 1998."
+            },
+            {
+              "text": "In 2004, he became a member of the House of Representatives as a member of Golkar."
+            },
+            {
+              "text": "He served as deputy treasurer of Golkar from 2004–2009."
+            },
+            {
+              "text": "In his second term as a legislator in the 2009-2014 period, he chaired House Commission VI on industry, trade, investment and state-owned enterprises."
+            },
+            {
+              "text": "During this time, he introduced the 2014 Industry Law."
+            },
+            {
+              "text": "In his third term as a legislator, which commenced in 2014, he served in House Commission VII on mineral resources, environment, research and technology."
+            },
+            {
+              "text": "In April 2015, he was transferred to Commission X on education, tourism, creative economy, culture, sports and youth."
+            },
+            {
+              "text": "In January 2016, he became a member of Commission XI on financial affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed to cabinet as industry minister on 27 July 2016 by President Joko Widodo."
+            },
+            {
+              "text": "On 13 December 2017, he was selected to become Golkar chairman, replacing Setya Novanto, who had been arrested and put on trial for alleged corruption.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Setya Novanto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019, Airlangga returned to Jokowi's Onward Indonesia Cabinet as Coordinating Minister of Economic Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Interview with Mr. Airlangga Hartarto",
+          "url": "http://unityindiversity5a.weebly.com/interviews.html",
+          "website": "Unity in Diversity",
+          "publisher": "weebly.com",
+          "accessdate": "17 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Wardhani",
+          "first1": "Dewanti A.",
+          "title": "Jokowi's new Cabinet: Who's the boss now?",
+          "url": "http://www.thejakartapost.com/longform/2016/07/28/whos-the-boss-now.html",
+          "accessdate": "15 December 2017",
+          "publisher": "The Jakarta Post",
+          "date": "28 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Airlangga Hartarto, Wakil Golkar di Kabinet Jokowi",
+          "url": "http://www.pikiran-rakyat.com/nasional/2016/07/27/airlangga-hartarto-wakil-golkar-di-kabinet-jokowi-375902",
+          "accessdate": "17 December 2017",
+          "publisher": "Pikiran Rakyat",
+          "date": "27 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Maulia",
+          "first1": "Erwida",
+          "title": "Indonesia's second largest party replaces chairman after graft indictment",
+          "url": "https://asia.nikkei.com/Politics-Economy/Policy-Politics/Indonesia-s-second-largest-party-replaces-chairman-after-graft-indictment",
+          "accessdate": "17 December 2017",
+          "publisher": "Nikkei Asian Review",
+          "date": "14 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Post",
+          "first": "The Jakarta",
+          "title": "BREAKING: Jokowi announces his new Cabinet. Here's the line up",
+          "url": "https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "access-date": "2020-10-04",
+          "website": "The Jakarta Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Airlangga is the younger brother of businessman Gunadharma Hartarto (1961-2004)."
+            },
+            {
+              "text": "His other siblings are Indira Asoka, Gautama and Maya Dewi."
+            },
+            {
+              "text": "Airlangga is married to Yanti K. Isfandiary and they have eight children: Adanti, Ravindra, Audi, Dines, Bianda, Latascha, Maisara and Natalie."
+            },
+            {
+              "text": "3 out of the 8 children are now married."
+            },
+            {
+              "text": "Airlangga also has 2 grandchildren named Ophelia and Endaru."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Nurmansyah",
+          "first1": "Rizki",
+          "title": "Mantan Menperin dan Ayahanda Menteri Airlangga Hartarto Wafat",
+          "url": "https://www.suara.com/news/2017/05/15/053500/mantan-menperin-dan-ayahanda-menteri-airlangga-hartarto-wafat",
+          "accessdate": "18 December 2017",
+          "publisher": "Suara.com",
+          "date": "15 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Inilah Sosok Airlangga Hartarto, Alumni UGM yang Kini Jadi Ketua Umum Golkar Gantikan Setya Novanto",
+          "url": "http://jogja.tribunnews.com/2017/12/14/inilah-sosok-airlangga-hartarto-alumni-ugm-yang-kini-jadi-ketua-umum-golkar-gantikan-setya-novanto?page=2",
+          "accessdate": "18 December 2017",
+          "publisher": "TRIBUNnews.com",
+          "date": "14 December 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "leaders of indonesian political parties"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
