@@ -63,9 +63,11 @@
                   "page": "Indonesian Military Academy"
                 },
                 {
-                  "text": "Adhi Makayasa",
-                  "type": "internal",
-                  "page": ":id:Adhi Makayasa"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             },
@@ -104,9 +106,11 @@
               "text": "During his military career, General Moeldoko has received many awards and distinctions such as the notable Indonesian Military Distinguished Service Star (Bintang Dharma) from President Susilo Bambang Yudhoyono and Singapore's prestigious military award, the Pingat Jasa Gemilang (Tentera) (Military Meritorious Service Medal).",
               "links": [
                 {
-                  "text": "Bintang Dharma",
-                  "type": "internal",
-                  "page": ":id:Bintang Dharma"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
                   "type": "internal",
@@ -131,29 +135,40 @@
               "text": "In addition, he has been distinguished in Indonesia with the National Police Meritorious Service Star (Bintang Bhayangkara), Defence Meritorious Service Star - 2nd and 3rd Class (Bintang Sewindu Angkatan Perang), Army Meritorious Service Star – 2nd and 3rd Class (Bintang Kartika Eka Paksi Pratama), Dharma Santala Medal, Medal of 24 years’ loyalty Service, Timor Military Campaign Medal (Operation Lotus), and Malaysia/Borneo Military Campaign Medal (Satyalancana Wira Dharma).",
               "links": [
                 {
-                  "text": "Bintang Bhayangkara",
-                  "type": "internal",
-                  "page": ":id:Bintang Bhayangkara"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
-                  "text": "Bintang Sewindu Angkatan Perang",
-                  "type": "internal",
-                  "page": ":id:Bintang Sewindu Angkatan Perang"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
-                  "text": "Bintang Kartika Eka Paksi Pratama",
-                  "type": "internal",
-                  "page": ":id:Bintang Kartika Eka Paksi Pratama"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
                   "text": "Operation Lotus",
-                  "type": "internal",
-                  "page": ":id:Operasi Seroja"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
-                  "text": "Satyalancana Wira Dharma",
-                  "type": "internal",
-                  "page": ":id:Satyalancana Wira Dharma"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             }
@@ -324,8 +339,11 @@
             "links": [
               {
                 "text": "Budiman",
-                "type": "internal",
-                "page": ":id:Budiman (TNI-AD)"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
@@ -358,9 +376,11 @@
             "text": "Major General Muhammad Munir",
             "links": [
               {
-                "text": "Muhammad Munir",
-                "type": "internal",
-                "page": ":id:Muhammad Munir"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
@@ -369,8 +389,11 @@
             "links": [
               {
                 "text": "Commander of Military District XII/Tanjungpura",
-                "type": "internal",
-                "page": ":id:Komando Daerah Militer XII/Tanjungpura"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
@@ -393,8 +416,11 @@
             "links": [
               {
                 "text": "Major General Geerhan Lantara",
-                "type": "internal",
-                "page": ":id:Geerhan Lantara"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
@@ -866,9 +892,11 @@
               "text": "(Bintang Dharma)",
               "links": [
                 {
-                  "text": "Bintang Dharma",
-                  "type": "internal",
-                  "page": ":id:Bintang Dharma"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             },
@@ -885,9 +913,11 @@
               "text": "(Bintang Yudha Dharma)",
               "links": [
                 {
-                  "text": "Bintang Yudha Dharma",
-                  "type": "internal",
-                  "page": ":id:Bintang Yudha Dharma"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             },
@@ -895,9 +925,11 @@
               "text": "(Bintang Kartika Eka Paksi Pratama)",
               "links": [
                 {
-                  "text": "Bintang Kartika Eka Paksi Pratama",
-                  "type": "internal",
-                  "page": ":id:Bintang Kartika Eka Paksi Pratama"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             },
@@ -905,9 +937,11 @@
               "text": "(Bintang Yudha Dharma)",
               "links": [
                 {
-                  "text": "Bintang Yudha Dharma",
-                  "type": "internal",
-                  "page": ":id:Bintang Yudha Dharma"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             },
@@ -916,8 +950,11 @@
               "links": [
                 {
                   "text": "Bintang Kartika Eka Paksi",
-                  "type": "internal",
-                  "page": ":id: Bintang Kartika Eka Paksi"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             }
@@ -988,8 +1025,7 @@
               "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Campaign_Medal?width=300",
               "url": "https://wikipedia.org/wiki/Special:Redirect/file/Campaign_Medal"
             }
-          ],
-          "pos": "Medals and decorations"
+          ]
         }
       ],
       "lists": [
@@ -1008,9 +1044,11 @@
             "text": "National Police Meritorious Service Star. (Bintang Bhayangkara)",
             "links": [
               {
-                "text": "Bintang Bhayangkara",
-                "type": "internal",
-                "page": ":id:Bintang Bhayangkara"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
@@ -1047,9 +1085,11 @@
             "text": "[E] Malaysia/Borneo Military Campaign Medal (Satyalancana Wira Dharma)",
             "links": [
               {
-                "text": "Satyalancana Wira Dharma",
-                "type": "internal",
-                "page": ":id:Satyalancana Wira Dharma"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },

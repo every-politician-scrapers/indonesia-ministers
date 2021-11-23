@@ -788,8 +788,11 @@
               "links": [
                 {
                   "text": "id",
-                  "type": "internal",
-                  "page": ":id:Kertas Kraft Aceh"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
                   "text": "state-owned firm",

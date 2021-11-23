@@ -333,8 +333,11 @@
               },
               {
                 "text": "National Defense Body",
-                "type": "internal",
-                "page": ":id:Lembaga Ketahanan Nasional"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           }
@@ -469,9 +472,11 @@
               "text": "During this period, he was elected leader of KNPI's (National Committee of Indonesian Youth) Central Java chapter.",
               "links": [
                 {
-                  "text": "KNPI",
-                  "type": "internal",
-                  "page": ":id:KNPI"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
                   "type": "internal",
@@ -484,8 +489,11 @@
               "links": [
                 {
                   "text": "National Defense Body",
-                  "type": "internal",
-                  "page": ":id:Lembaga Ketahanan Nasional"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 }
               ]
             }
