@@ -299,8 +299,11 @@
                 },
                 {
                   "text": "id",
-                  "type": "internal",
-                  "page": ":id:SMA Negeri 5 Surabaya"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "id"
+                  }
                 },
                 {
                   "type": "internal",

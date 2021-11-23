@@ -335,6 +335,18 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Rekayasa Industri",
+          "lan1": "id",
+          "template": "ill"
+        },
+        {
+          "text": "Pupuk Indonesia Holding Company",
+          "lan1": "id",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "Arifin Tasrif, Dubes RI untuk Jepang yang kini menjadi Menteri ESDM",
