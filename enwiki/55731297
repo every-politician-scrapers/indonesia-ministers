@@ -141,10 +141,10 @@
           "template": "indonesian name"
         },
         {
-          "df": "y",
           "year": "1973",
           "month": "9",
           "day": "6",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -162,11 +162,11 @@
           "caption": {
             "text": "Official portrait, 2019"
           },
-          "office": {
-            "text": "Speaker of the People's Representative Council"
-          },
           "order": {
             "text": "19th"
+          },
+          "office": {
+            "text": "Speaker of the People's Representative Council"
           },
           "term_start": {
             "text": "1 October 2019"
@@ -177,31 +177,6 @@
               {
                 "type": "internal",
                 "page": "Bambang Soesatyo"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Azis Syamsuddin (2019–2021) Lodewijk Freidrich Paulus (2021–) Sufmi Dasco Ahmad Rachmad Gobel Muhaimin Iskandar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Azis Syamsuddin"
-              },
-              {
-                "type": "internal",
-                "page": "Lodewijk Freidrich Paulus"
-              },
-              {
-                "type": "internal",
-                "page": "Sufmi Dasco Ahmad"
-              },
-              {
-                "type": "internal",
-                "page": "Rachmad Gobel"
-              },
-              {
-                "type": "internal",
-                "page": "Muhaimin Iskandar"
               }
             ]
           },
@@ -249,20 +224,33 @@
             ]
           },
           "office2": {
-            "text": "Member of People's Representative Council from Central Java 5th district",
+            "text": "Member of People's Representative Council",
             "links": [
               {
                 "type": "internal",
                 "page": "People's Representative Council"
-              },
-              {
-                "type": "internal",
-                "page": "Central Java"
               }
             ]
           },
           "term_start2": {
             "text": "1 October 2019"
+          },
+          "president2": {
+            "text": "Joko Widodo"
+          },
+          "constituency2": {
+            "text": "Central Java V",
+            "links": [
+              {
+                "text": "Central Java V",
+                "type": "internal",
+                "page": "List of Indonesian national electoral districts",
+                "anchor": "Central Java V (8 seats)"
+              }
+            ]
+          },
+          "majority2": {
+            "text": "404,304 (2,4%)"
           },
           "term_start3": {
             "text": "2 October 2009"
@@ -270,8 +258,25 @@
           "term_end3": {
             "text": "26 October 2014"
           },
-          "successor3": {
-            "text": "Alfia Reziani"
+          "president3": {
+            "text": "Susilo Bambang Yudhoyono",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susilo Bambang Yudhoyono"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Central Java V",
+            "links": [
+              {
+                "text": "Central Java V",
+                "type": "internal",
+                "page": "List of Indonesian national electoral districts",
+                "anchor": "Central Java V (8 seats)"
+              }
+            ]
           },
           "birth_date": {
             "text": "September 6, 1973"
@@ -294,7 +299,7 @@
               {
                 "text": "Indonesian",
                 "type": "internal",
-                "page": "Indonesia"
+                "page": "Indonesians"
               }
             ]
           },
