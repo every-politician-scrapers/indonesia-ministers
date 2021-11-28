@@ -420,7 +420,16 @@
         {
           "sentences": [
             {
-              "text": "After graduating from Brown University in 2006, Nadiem decided to come back home to Indonesia and worked at McKinsey & Co. Nadiem worked as a McKinsey consultant for 3 years."
+              "text": "After graduating from Brown University in 2006, Nadiem decided to come back home to Indonesia and worked at McKinsey & Company.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "McKinsey & Company"
+                }
+              ]
+            },
+            {
+              "text": "Nadiem worked as a McKinsey consultant for 3 years."
             }
           ]
         }
@@ -443,7 +452,7 @@
         {
           "sentences": [
             {
-              "text": "Nadiem became Co-Founder and Managing Director for Zalora Indonesia in 2011.",
+              "text": "Nadiem became co-founder and managing director for Zalora Indonesia in 2011.",
               "links": [
                 {
                   "text": "Zalora",
@@ -524,7 +533,13 @@
         {
           "sentences": [
             {
-              "text": "In 2010 Nadiem created Gojek, which is today a decacorn company with a valuation of over US$10 billion."
+              "text": "In 2010 Nadiem created Gojek, which is today a decacorn company with a valuation of over US$10 billion.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gojek"
+                }
+              ]
             },
             {
               "text": "Gojek was first established as a call centre, offering only courier delivery and two-wheeled ride-hailing services."
@@ -592,7 +607,7 @@
         {
           "sentences": [
             {
-              "text": "In 21 October 2019, Gojek announced that Nadiem would leave the company to join president-elect Jokowi's Onward Indonesia Cabinet.",
+              "text": "On 21 October 2019, Gojek announced that Nadiem would leave the company to join president-elect Jokowi's Onward Indonesia Cabinet.",
               "links": [
                 {
                   "type": "internal",
@@ -714,7 +729,7 @@
       "lists": [
         [
           {
-            "text": "In 2016, Nadiem received the The Straits Times Asian of the Year award and was the first Indonesian to receive the award since it was first established in 2012.",
+            "text": "In 2016, Nadiem received The Straits Times Asian of the Year award and was the first Indonesian to receive the award since it was first established in 2012.",
             "links": [
               {
                 "type": "internal",
@@ -747,7 +762,7 @@
             ]
           },
           {
-            "text": "In 2017, Gojek made it to Fortune’s Top 50 Companies That Changed The World, ranking 17th worldwide. In 2019 Gojek once again made it to Fortune's Top 50 Companies That Changed The World, and was the only Southeast Asian company to have been included twice in the list - this year leaping to number 11 out of 52 global companies."
+            "text": "In 2017, Gojek made it to Fortune's Top 50 Companies That Changed The World, ranking 17th worldwide. In 2019 Gojek once again made it to Fortune's Top 50 Companies That Changed The World, and was the only Southeast Asian company to have been included twice in the list - this year leaping to number 11 out of 52 global companies."
           },
           {
             "text": "In November 2019, Nadiem was the only Indonesian to be included on 100 Next list for Leaders category by the Time magazine. Time's 100 Next list this year is to recognize the influence of rising stars who are shaping the future in their respective fields.",
