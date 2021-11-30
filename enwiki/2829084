@@ -184,7 +184,7 @@
                 {
                   "text": "deadly riots",
                   "type": "internal",
-                  "page": "May_2019_Jakarta_protests_and_riots"
+                  "page": "May 2019 Jakarta protests and riots"
                 }
               ]
             }
@@ -215,7 +215,7 @@
         },
         {
           "date": "November 2020",
-          "template": "engvara"
+          "template": "use american english"
         },
         {
           "date": "December 2019",
@@ -478,7 +478,7 @@
             ]
           },
           "commands": {
-            "text": "Kopassus Kostrad",
+            "text": "Kopassus\nKostrad",
             "links": [
               {
                 "type": "internal",
@@ -491,7 +491,7 @@
             ]
           },
           "battles": {
-            "text": "Indonesian invasion of East Timor Insurgency in East Timor Insurgency in Papua\n* Mapenduma hostage crisis",
+            "text": "Indonesian invasion of East Timor\nInsurgency in East Timor\nInsurgency in Papua\n* Mapenduma hostage crisis",
             "links": [
               {
                 "type": "internal",
