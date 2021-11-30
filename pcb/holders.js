@@ -31,6 +31,7 @@ module.exports = (...positions) => {
     WHERE {
       INCLUDE %statements .
       ?startNode wikibase:timeValue ?startV ; wikibase:timePrecision ?startP .
+      FILTER (?startV < NOW())
       BIND (
         COALESCE(
           IF(?startP = 11, SUBSTR(STR(?startV), 1, 10), 1/0),
