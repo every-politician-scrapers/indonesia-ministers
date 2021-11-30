@@ -182,6 +182,9 @@
           "office1": {
             "text": "Ministry of National Development Planning of Indonesia"
           },
+          "[object Object]": {
+            "text": "Coordinating Ministry for Economic Affairs"
+          },
           "order1": {
             "text": "14th"
           },
@@ -428,42 +431,6 @@
           "data": {},
           "inline": {}
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "indonesia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "List of longest-serving ministers in Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "List of longest-serving ministers in Indonesia"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

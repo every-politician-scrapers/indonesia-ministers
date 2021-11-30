@@ -374,24 +374,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "united development party"
-        },
-        {
-          "template": "leaders of indonesian political parties"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }

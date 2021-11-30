@@ -127,39 +127,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Yohana Yembise",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Women Empowerment and Child Protection",
-          "years": "2019–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "indonesia-politician-stub"
-        }
-      ]
     }
   ]
 }

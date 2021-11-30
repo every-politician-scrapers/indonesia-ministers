@@ -164,39 +164,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Edhy Prabowo",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Maritime Affairs and Fisheries",
-          "years": "2020–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "indonesia-politician-stub"
-        }
-      ]
     }
   ]
 }

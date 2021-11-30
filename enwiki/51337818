@@ -155,46 +155,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-legal"
-        },
-        {
-          "before": "Muhammad Hatta Ali",
-          "template": "s-bef"
-        },
-        {
-          "title": "Chief Justice of the Supreme Court of Indonesia",
-          "years": "2020–present",
-          "template": "s-ttl"
-        },
-        {
-          "rows": "2",
-          "template": "s-inc"
-        },
-        {
-          "before": "Mohammad Saleh",
-          "template": "s-bef"
-        },
-        {
-          "title": "Deputy Chief Justice of the Supreme Court of Indonesia Judicial Affairs",
-          "years": "2016–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "indonesia-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -258,31 +258,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Refereneces",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "list": [
-            "Biography",
-            "Indonesia",
-            "Business",
-            "Politics",
-            "Society"
-          ],
-          "template": "portal bar"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "indonesia-politician-stub"
-        }
-      ]
     }
   ]
 }
