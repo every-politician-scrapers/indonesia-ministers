@@ -333,8 +333,11 @@
               },
               {
                 "text": "National Defense Body",
-                "type": "internal",
-                "page": ":id:Lembaga Ketahanan Nasional"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           }

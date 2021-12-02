@@ -238,9 +238,11 @@
                 "page": "Air Chief Marshal"
               },
               {
-                "text": "Agus Supriatna",
-                "type": "internal",
-                "page": ":id:Agus Supriatna"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               }
             ]
           },
