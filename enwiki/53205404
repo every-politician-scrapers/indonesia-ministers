@@ -175,15 +175,6 @@
           "term_start": {
             "text": "20 October 2019"
           },
-          "[object Object]": {
-            "text": "predecessor \t   = Jusuf Kalla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jusuf Kalla"
-              }
-            ]
-          },
           "office1": {
             "text": "Chairman of the Indonesian Ulema Council",
             "links": [
@@ -343,13 +334,19 @@
             "links": [
               {
                 "text": "Tebuireng Islamic Boarding School",
-                "type": "internal",
-                "page": ":id:Pondok Pesantren Tebuireng"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               },
               {
                 "text": "Bogor Ibn Khaldun University",
-                "type": "internal",
-                "page": ":id:Universitas Ibn Khaldun Bogor"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "id"
+                }
               },
               {
                 "type": "internal",
