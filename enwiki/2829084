@@ -414,11 +414,28 @@
             "text": "Titiek Suharto (m. 1983-1998)"
           },
           "children": {
-            "text": "Didit Hediprasetyo",
+            "text": "Regowo Didit Hediprasetyo",
             "links": [
               {
                 "type": "internal",
-                "page": "Didit Hediprasetyo"
+                "page": "Regowo Didit Hediprasetyo"
+              }
+            ]
+          },
+          "nephew": {
+            "text": "Rahayu Saraswati Djojohadikusumo Budi Satrio Djiwindono Namira Aliya Djojohadikusumo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rahayu Saraswati Djojohadikusumo"
+              },
+              {
+                "type": "internal",
+                "page": "Budi Satrio Djiwindono"
+              },
+              {
+                "type": "internal",
+                "page": "Namira Aliya Djojohadikusumo"
               }
             ]
           },
