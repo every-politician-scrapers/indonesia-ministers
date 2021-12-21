@@ -247,26 +247,11 @@
           "caption": {
             "text": "Prabowo as Minister of Defense (2019)"
           },
-          "birthname": {
-            "text": "Prabowo Subianto Djojohadikusumo"
-          },
-          "birth_date": {
-            "text": "October 17, 1951"
-          },
-          "birth_place": {
-            "text": "Jakarta, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakarta"
-              }
-            ]
-          },
           "office": {
-            "text": "26th Minister of Defense of Indonesia",
+            "text": "26th Minister of Defense",
             "links": [
               {
-                "text": "Minister of Defense of Indonesia",
+                "text": "Minister of Defense",
                 "type": "internal",
                 "page": "Ministry of Defense (Indonesia)"
               }
@@ -282,7 +267,7 @@
             ]
           },
           "term_start": {
-            "text": "23 October 2019"
+            "text": "October 23, 2019"
           },
           "predecessor": {
             "text": "Ryamizard Ryacudu",
@@ -297,21 +282,23 @@
             "text": "Leader of Gerindra",
             "links": [
               {
-                "text": "Gerindra",
+                "text": "Leader of Gerindra",
                 "type": "internal",
                 "page": "Great Indonesia Movement Party"
               }
             ]
           },
           "term_start1": {
-            "text": "20 September 2014"
+            "text": "September 20, 2014"
           },
           "predecessor1": {
             "text": "Suhardi",
             "links": [
               {
+                "text": "Suhardi",
                 "type": "internal",
-                "page": "Suhardi"
+                "page": "Great Indonesia Movement Party",
+                "anchor": "History"
               }
             ]
           },
@@ -319,15 +306,11 @@
             "text": "22nd Commander of Kostrad",
             "links": [
               {
+                "text": "Commander of Kostrad",
                 "type": "internal",
-                "page": "Kostrad"
+                "page": "Commander of Army Strategic Command (Indonesia)"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Kostrad"
-              ]
-            }
+            ]
           },
           "president2": {
             "text": "Suharto",
@@ -339,45 +322,56 @@
             ]
           },
           "term_start2": {
-            "text": "20 March 1998"
+            "text": "March 20"
           },
           "term_end2": {
-            "text": "22 May 1998"
+            "text": "May 22, 1998"
           },
           "predecessor2": {
-            "text": "Soegijono"
+            "text": "Soegijono",
+            "links": [
+              {
+                "text": "Soegijono",
+                "type": "internal",
+                "page": "Commander of Army Strategic Command (Indonesia)"
+              }
+            ]
           },
           "successor2": {
-            "text": "Johny Lumintang"
+            "text": "Johny Lumintang",
+            "links": [
+              {
+                "text": "Johny Lumintang",
+                "type": "internal",
+                "page": "Commander of Army Strategic Command (Indonesia)"
+              }
+            ]
           },
           "office3": {
             "text": "15th General Commander of Kopassus",
             "links": [
               {
+                "text": "General Commander of Kopassus",
                 "type": "internal",
-                "page": "Kopassus"
+                "page": "Kopassus",
+                "anchor": "Command Structure"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Kopassus"
-              ]
-            }
+            ]
           },
           "president3": {
-            "text": "Soeharto",
+            "text": "Suharto",
             "links": [
               {
                 "type": "internal",
-                "page": "Soeharto"
+                "page": "Suharto"
               }
             ]
           },
           "term_start3": {
-            "text": "1 December 1995"
+            "text": "December 1, 1995"
           },
           "term_end3": {
-            "text": "20 March 1998"
+            "text": "March 20, 1998"
           },
           "predecessor3": {
             "text": "Subagyo Hadi Siswoyo"
@@ -388,6 +382,21 @@
               {
                 "type": "internal",
                 "page": "Muchdi Purwopranjono"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Prabowo Subianto Djojohadikusumo"
+          },
+          "birth_date": {
+            "text": "October 17, 1951"
+          },
+          "birth_place": {
+            "text": "Jakarta, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jakarta"
               }
             ]
           },
@@ -414,28 +423,20 @@
             "text": "Titiek Suharto (m. 1983-1998)"
           },
           "children": {
-            "text": "Regowo Didit Hediprasetyo",
+            "text": "Didit Hediprasetyo",
             "links": [
               {
                 "type": "internal",
-                "page": "Regowo Didit Hediprasetyo"
+                "page": "Didit Hediprasetyo"
               }
             ]
           },
-          "nephew": {
-            "text": "Rahayu Saraswati Djojohadikusumo Budi Satrio Djiwindono Namira Aliya Djojohadikusumo",
+          "relatives": {
+            "text": "Rahayu Saraswati Djojohadikusumo (nephew)",
             "links": [
               {
                 "type": "internal",
                 "page": "Rahayu Saraswati Djojohadikusumo"
-              },
-              {
-                "type": "internal",
-                "page": "Budi Satrio Djiwindono"
-              },
-              {
-                "type": "internal",
-                "page": "Namira Aliya Djojohadikusumo"
               }
             ]
           },
