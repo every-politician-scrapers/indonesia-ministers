@@ -503,47 +503,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Lee",
-          "first1": "Christian",
-          "title": "Luhut as Jokowi's Envoy; Can Military Esprit de Corps Ease Rising Political Tensions?",
-          "url": "https://jakartaglobe.id/context/luhut-as-jokowis-envoy-can-military-esprit-de-corps-ease-rising-political-tensions/",
-          "accessdate": "15 January 2020",
-          "publisher": "Jakarta Globe",
-          "date": "22 April 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.tobabara.com/en/company-overview/shareholder-profile.php",
-          "title": "Toba Sejahtra",
-          "access-date": "25 May 2016",
-          "archive-url": "https://web.archive.org/web/20160529132902/http://www.tobabara.com/en/company-overview/shareholder-profile.php",
-          "archive-date": "29 May 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

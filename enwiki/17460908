@@ -307,64 +307,6 @@
             "text": "Sign Sri Mulyani.png"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Sri Mulyani returns",
-          "newspaper": "The Jakarta Post",
-          "location": "Jakarta",
-          "date": "July 27, 2016",
-          "url": "http://www.thejakartapost.com/news/2016/07/27/sri-mulyani-returns.html",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Editorial: The Indonesian 'tragedy'",
-          "newspaper": "The Jakarta Post",
-          "location": "Jakarta",
-          "date": "May 5, 2010",
-          "url": "http://www.thejakartapost.com/news/2010/05/06/editorial-the-indonesian-%E2%80%98tragedy%E2%80%99.html",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20100510004646/http://www.thejakartapost.com/news/2010/05/06/editorial-the-indonesian-%E2%80%98tragedy%E2%80%99.html",
-          "archive-date": "May 10, 2010",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Asia's shining example",
-          "first": "Tim",
-          "last": "Colebatch",
-          "newspaper": "The Age (Australia)",
-          "date": "August 5, 2008",
-          "url": "http://www.theage.com.au/opinion/asias-shining-example-20080804-3pw6.html?page=-1",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "As Good As It Gets",
-          "first": "Solenn",
-          "last": "Honorine",
-          "author2": "George Wehrfritz",
-          "newspaper": "Newsweek",
-          "date": "January 10, 2009",
-          "url": "http://www.newsweek.com/id/178817",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The World's 100 Most Powerful Women",
-          "url": "https://www.forbes.com/power-women/list/#tab:overall",
-          "work": "Forbes",
-          "access-date": "24 June 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -423,45 +423,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.wapresri.go.id/en/profil-wapres/",
-          "title": "Vice President's Profile",
-          "website": "wapresri.go.id",
-          "access-date": "20 October 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://mui.or.id/kepengurusan-mui/",
-          "title": "Kepengurusan MUI {{!}} Majelis Ulama Indonesia",
-          "website": "mui.or.id",
-          "access-date": "30 November 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nu.or.id/post/read/95373/nama-kecil-kh-maruf-amin",
-          "title": "Nama Kecil KH Ma’ruf Amin",
-          "work": "Nahdlatul Ulama",
-          "date": "7 September 2018",
-          "accessdate": "2 November 2021",
-          "language": "id",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Cinta Beda Usia 31 Tahun Maruf Amin-Wury Estu Handayani",
-          "url": "https://www.tagar.id/cinta-beda-usia-31-tahun-maruf-aminwury-estu-handayani",
-          "access-date": "9 May 2020",
-          "website": "Tagar.id",
-          "date": "21 October 2019",
-          "author": "Siti Afifiyah",
-          "language": "id",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

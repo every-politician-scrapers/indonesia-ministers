@@ -184,39 +184,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "jokowi-tunjuk-calon-kapolri-komjen-lsp-pks-seperti-pola-tito",
-          "url": "https://news.detik.com/berita/d-5332392/jokowi-tunjuk-calon-kapolri-komjen-lsp-pks-seperti-pola-tito",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "resmi-dilantik-jadi-kapolri-ini-pr-lsp",
-          "url": "https://rri.co.id/nasional/hukum/967448/resmi-dilantik-jadi-kapolri-ini-pr-lsp",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "listyo-sigit-prabowo-menguat-jadi-calon-kapolri-begini-respons-pimpinan-dpr",
-          "url": "https://www.tribunnews.com/nasional/2021/01/12/listyo-sigit-prabowo-menguat-jadi-calon-kapolri-begini-respons-pimpinan-dpr",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Jokowi Inaugurates Listyo Sigit Prabowo as New National Police Chief",
-          "url": "https://go.kompas.com/read/2021/01/27/203630174/jokowi-inaugurates-listyo-sigit-prabowo-as-new-national-police-chief",
-          "accessdate": "11 February 2021",
-          "work": "Kompas",
-          "date": "14 January 2021",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
