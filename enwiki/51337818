@@ -128,36 +128,6 @@
             "text": "Indonesian"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Jadi Ketua MA, Syarifuddin Bacakan Sumpah Jabatan di Depan Jokowi",
-          "language": "id",
-          "url": "https://news.detik.com/berita/d-4996955/jadi-ketua-ma-syarifuddin-bacakan-sumpah-jabatan-di-depan-jokowi",
-          "author": "Andhika Prasetia",
-          "work": "Detik.com",
-          "date": "30 April 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

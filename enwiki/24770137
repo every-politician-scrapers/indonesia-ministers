@@ -502,68 +502,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://news.detik.com/berita/d-4158417/siapa-nama-panjang-mahfud-md-ini-jawabannya",
-          "website": "Detik.com",
-          "date": "9 August 2018",
-          "title": "Siapa Nama Panjang Mahfud Md? Ini Jawabannya",
-          "author": "Bagus Prihantoro Nugroho",
-          "language": "id",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.mahkamahkonstitusi.go.id/index.php?page=web.ProfilHakim&id=7#item-5",
-          "publisher": "Constitutional Court of Indonesia",
-          "access-date": "7 February 2018",
-          "title": "Profil Hakim Prof. Dr. Moh. Mahfud MD., S.H.",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nasional.kompas.com/read/2019/10/23/08341321/mahfud-md-ditunjuk-jadi-menko-polhukam",
-          "title": "Mahfud MD ditunjuk jadi Menko Polhukam",
-          "trans-title": "Mahfud MD appointed as Minister for political, legal and security affairs",
-          "publisher": "Kompas",
-          "date": "23 October 2019",
-          "accessdate": "23 October 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.straitstimes.com/asia/se-asia/indonesian-president-jokowi-announces-new-cabinet",
-          "title": "Indonesian President Jokowi announces new Cabinet",
-          "publisher": "The Straits Times",
-          "date": "23 October 2019",
-          "accessdate": "23 October 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Liputan6.com",
-          "date": "2019-10-23",
-          "title": "Profil Mahfud MD, Menko Polhukam Sipil Pertama",
-          "url": "https://www.liputan6.com/news/read/4093219/profil-mahfud-md-menko-polhukam-sipil-pertama",
-          "access-date": "2021-10-13",
-          "website": "liputan6.com",
-          "language": "id",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
