@@ -25,13 +25,6 @@
           "sentences": [
             {
               "text": "Pratikno (born 13 February 1962) is an Indonesian politician and academician.",
-              "links": [
-                {
-                  "text": "Indonesian",
-                  "type": "internal",
-                  "page": "Indonesia"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Pratikno"

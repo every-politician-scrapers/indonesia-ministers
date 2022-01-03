@@ -30,13 +30,6 @@
           "sentences": [
             {
               "text": "Airlangga Hartarto (born 1 October 1962) is an Indonesian politician and businessman.",
-              "links": [
-                {
-                  "text": "Indonesian",
-                  "type": "internal",
-                  "page": "Indonesia"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Airlangga Hartarto"
