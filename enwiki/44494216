@@ -23,6 +23,13 @@
         {
           "sentences": [
             {
+              "text": "}}}}"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Luhut Binsar Pandjaitan (born 28 September 1947) is an Indonesian politician, businessman and retired four-star Army general, serving as Coordinating Minister for Maritime Affairs and Investment since October 2019.",
               "links": [
                 {
@@ -174,25 +181,24 @@
             ]
           },
           "alma_mater": {
-            "text": "George Washington University Indonesian Military Academy 1970 SMAK 1 PENABUR Bandung",
+            "text": "Indonesian Military Academy George Washington University National Defense University",
             "links": [
+              {
+                "type": "internal",
+                "page": "Indonesian Military Academy"
+              },
               {
                 "type": "internal",
                 "page": "George Washington University"
               },
               {
                 "type": "internal",
-                "page": "Indonesian Military Academy"
-              },
-              {
-                "text": "SMAK 1 PENABUR Bandung",
-                "type": "internal",
-                "page": "BPK PENABUR"
+                "page": "National Defense University"
               }
             ]
           },
           "awards": {
-            "text": "Adhi Makayasa – Tri Sakti Wiratama 1970"
+            "text": "Adhi Makayasa"
           },
           "birth_date": {
             "text": "September 28, 1947"
@@ -211,7 +217,7 @@
             ]
           },
           "branch": {
-            "text": "Insignia of the Indonesian Army.svg Indonesian Army",
+            "text": "Flag of the Indonesian Army.svg Indonesian Army",
             "links": [
               {
                 "type": "internal",
@@ -220,13 +226,8 @@
             ]
           },
           "children": {
-            "text": "Paulina Panjaitan David Panjaitan Paulus Panjaitan Kerri Panjaitan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paulus Panjaitan"
-              }
-            ]
+            "text": "4",
+            "number": 4
           },
           "office": {
             "text": "5th Coordinating Minister of Maritime and Investment Affairs",
@@ -465,8 +466,11 @@
           "suboffice11": {
             "text": "Chairman of the High-speed Train Committee for Jakarta-Bandung"
           },
+          "nickname": {
+            "text": "LBJ"
+          },
           "rank": {
-            "text": "Pdu jendtni komando.png General",
+            "text": "22-TNI_Army-GEN.svg General",
             "links": [
               {
                 "type": "internal",
@@ -475,12 +479,8 @@
             ]
           },
           "unit": {
-            "text": "Special Forces Kopassus Detachment 81 Counter-Terrorist",
+            "text": "Infantry (Kopassus)",
             "links": [
-              {
-                "type": "internal",
-                "page": "Special Forces"
-              },
               {
                 "type": "internal",
                 "page": "Kopassus"
@@ -490,11 +490,37 @@
           "serviceyears": {
             "text": "1970–1999"
           },
-          "spouse": {
-            "text": "Devi Simatupang"
+          "commands": {
+            "text": "Detachment 81 Counter-Terrorist"
           },
-          "party": {
-            "text": "Golkar",
+          "battles": {
+            "text": "Communist insurgency in Sarawak Operation Seroja Insurgency in East Timor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist insurgency in Sarawak"
+              },
+              {
+                "text": "Operation Seroja",
+                "type": "internal",
+                "page": "Indonesian invasion of East Timor"
+              },
+              {
+                "text": "Insurgency in East Timor",
+                "type": "internal",
+                "page": "Indonesian Occupation of East Timor"
+              }
+            ]
+          }
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "spouse             = Devi Simatupang"
+          },
+          {
+            "text": "party              = Golkar",
             "links": [
               {
                 "type": "internal",
@@ -502,7 +528,7 @@
               }
             ]
           }
-        }
+        ]
       ]
     }
   ]
