@@ -29,17 +29,17 @@
         {
           "sentences": [
             {
-              "text": "Prabowo Subianto Djojohadikusumo (born 17 October 1951) is an Indonesian politician, businessman and former Army lieutenant General who is the currently-appointed Minister of Defense of the Republic of Indonesia.",
+              "text": "Prabowo Subianto Djojohadikusumo (born 17 October 1951) is an Indonesian politician, businessman and former army lieutenant general who is the currently-appointed Minister of Defense of the Republic of Indonesia.",
               "links": [
                 {
-                  "text": "Army",
+                  "text": "army",
                   "type": "internal",
                   "page": "Indonesian Army"
                 },
                 {
-                  "text": "lieutenant General",
+                  "text": "lieutenant general",
                   "type": "internal",
-                  "page": "lieutenant General"
+                  "page": "lieutenant general"
                 },
                 {
                   "text": "Minister of Defense of the Republic of Indonesia",
