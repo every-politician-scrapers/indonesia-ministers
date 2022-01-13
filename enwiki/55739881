@@ -223,7 +223,16 @@
             "text": "1 October 1999"
           },
           "term_end 2": {
-            "text": "1 October 2014"
+            "text": "27 October 2014"
+          },
+          "sucessor2": {
+            "text": "Tuti Nusandari Roosdiono",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tuti Nusandari Roosdiono"
+              }
+            ]
           },
           "term_start3": {
             "text": "1 October 1987"
