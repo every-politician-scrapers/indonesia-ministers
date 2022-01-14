@@ -23,13 +23,6 @@
         {
           "sentences": [
             {
-              "text": "}}}}"
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "Luhut Binsar Pandjaitan (born 28 September 1947) is an Indonesian politician, businessman and retired four-star Army general, serving as Coordinating Minister for Maritime Affairs and Investment since October 2019.",
               "links": [
                 {
@@ -511,16 +504,12 @@
                 "page": "Indonesian Occupation of East Timor"
               }
             ]
-          }
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "spouse             = Devi Simatupang"
           },
-          {
-            "text": "party              = Golkar",
+          "spouse": {
+            "text": "Devi Simatupang"
+          },
+          "party": {
+            "text": "Golkar",
             "links": [
               {
                 "type": "internal",
@@ -528,7 +517,7 @@
               }
             ]
           }
-        ]
+        }
       ]
     }
   ]
