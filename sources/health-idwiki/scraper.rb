@@ -4,30 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-  # Indonesian dates
-  class Indonesian < WikipediaDate
-    REMAP = {
-      'Petahana'    => '',
-      'Januari'     => 'January',
-      'Februari'    => 'February',
-      'Maret'       => 'March',
-      'April'       => 'April',
-      'Mei'         => 'May',
-      'Juni'        => 'June',
-      'Juli'        => 'July',
-      'Agustus'     => 'August',
-      'September'   => 'September',
-      'Oktober'     => 'October',
-      'November'    => 'November',
-      'Desember'    => 'December',
-    }.freeze
-
-    def remap
-      super.merge(REMAP)
-    end
-  end
-
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -44,10 +20,6 @@ class OfficeholderList < OfficeholderListBase
 
     def tds
       noko.css('th,td')
-    end
-
-    def date_class
-      Indonesian
     end
 
     def empty?
