@@ -36,17 +36,8 @@
 +++,Amir Machmud,Q4252072,1969-01-28,1973-03-28
 +++,Amir Machmud,Q4252072,1973-03-28,1978-03-29
 +++,Amir Machmud,Q4252072,1978-03-29,1982-10-01
-+++,Sudharmono,Q76317,1982-10-01,1983-03-19
-+++,Soepardjo Rustam,Q12515771,1983-03-19,1988-03-21
-+++,Rudini,Q12508994,1988-03-21,1993-03-17
-+++,Yogie Suardi Memet,Q12525261,1993-03-17,1998-03-14
-+++,R. Hartono,Q12507527,1998-03-14,1998-05-21
-+++,Syarwan Hamid,Q12518364,1998-05-23,1999-09-27
-+++,Feisal Tanjung,Q12482854,1999-10-01,1999-10-20
-+++,Suryadi Sudirja,Q13097203,1999-10-29,2001-07-23
-+++,Hari Sabarno,Q12485293,2001-08-10,2004-10-20
-+++,Mohammad Ma'ruf,Q11042774,2004-10-21,2007-03-02
-+++,Widodo Adi Sutjipto,Q4902218,2007-03-02,2007-08-29
-+++,Mardiyanto,Q3502316,2007-08-29,2009-10-20
-+++,"Gamawan Fauzi S.H, M.M",Q5519592,2009-10-22,2014-10-20
+->,Soedharmono->Sudharmono,Q76317,1982-10-01,1983-03-19
+->,Soerjadi Soedirdja->Suryadi Sudirja,Q13097203,1999-10-29,2001-07-23
+->,Widodo A. S.->Widodo Adi Sutjipto,Q4902218,2007-03-02,2007-08-29
+->,"Gamawan Fauzi->Gamawan Fauzi S.H, M.M",Q5519592,2009-10-22,2014-10-20
 ->,Tjahjo Kumolo->Tjahjo KumoloS.H,Q12521725,2014-10-27,2019-10-18->2019-10-20
