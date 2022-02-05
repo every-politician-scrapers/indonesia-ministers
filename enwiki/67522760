@@ -4,7 +4,8 @@
   "categories": [
     "1976 births",
     "Living people",
-    "Indonesian politicians"
+    "Indonesian politicians",
+    "People from Maluku (province)"
   ],
   "sections": [
     {
@@ -14,70 +15,34 @@
         {
           "sentences": [
             {
-              "text": "Bahlil Lahadalia is an Indonesian businessman and politician, serving as Minister of Investment since 28 April 2021 and concurrently serving as head of the Indonesian Investment Coordinating Board (BKPM).",
+              "text": "Bahlil Lahadalia is an Indonesian businessman and politician.",
               "formatting": {
                 "bold": [
                   "Bahlil Lahadalia"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is a former chairman of the Indonesian Young Entrepreneurs Association."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He owns PT Rifa Capital Holding Company and 10 other companies, active mostly in the transportation and property sectors."
             },
             {
-              "text": "He was born and attended schools in Maluku, before moving to Fak-Fak, where his father is from, until deciding to study economics in Jayapura.",
+              "text": "He has been serving as Minister of Investment since April 2021, dual-hatted as head of the Indonesian Investment Coordinating Board (BKPM), which he had served since October 2019.",
               "links": [
                 {
-                  "text": "Maluku",
+                  "text": "Minister of Investment",
                   "type": "internal",
-                  "page": "Maluku (province)"
-                },
-                {
-                  "text": "Fak-Fak",
-                  "type": "internal",
-                  "page": "Fakfak Regency"
+                  "page": "Ministry of Investment (Indonesia)"
                 },
                 {
                   "type": "internal",
-                  "page": "Jayapura"
+                  "page": "Indonesian Investment Coordinating Board"
                 }
               ]
             },
             {
-              "text": "He was active in the Muslim Students' Association in Papua.",
-              "links": [
-                {
-                  "text": "Muslim Students' Association",
-                  "type": "internal",
-                  "page": "Muslim Students' Association (Indonesia)"
-                },
-                {
-                  "text": "Papua",
-                  "type": "internal",
-                  "page": "Papua (province)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In October 2019, he was appointed head of BKPM."
-            },
-            {
-              "text": "He was sworn in as Indonesia's first minister of investment on 28 April 2021, following the creation of the Investment Ministry."
+              "text": "He has also served as Minister of Energy and Mineral Resources ad interim since 3 February 2022.",
+              "formatting": {
+                "italic": [
+                  "ad interim"
+                ]
+              }
             }
           ]
         }
@@ -139,10 +104,10 @@
             ]
           },
           "office1": {
-            "text": "Ministry of Investment",
+            "text": "Minister of Investment",
             "links": [
               {
-                "text": "Ministry of Investment",
+                "text": "Minister of Investment",
                 "type": "internal",
                 "page": "Ministry of Investment (Indonesia)"
               }
