@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Bahlil Lahadalia is an Indonesian businessman and politician.",
+              "text": "Bahlil Lahadalia (born 7 August 1976) is an Indonesian businessman and politician.",
               "formatting": {
                 "bold": [
                   "Bahlil Lahadalia"
@@ -56,6 +56,7 @@
           "year": "1976",
           "month": "8",
           "day": "7",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -68,13 +69,8 @@
             "text": "August 7, 1976"
           },
           "birth_place": {
-            "text": "🇮🇩 Banda Islands, Central Maluku Regency, Maluku",
+            "text": "Banda Islands, Central Maluku Regency, Maluku, Indonesia",
             "links": [
-              {
-                "text": "🇮🇩",
-                "type": "internal",
-                "page": "indonesia"
-              },
               {
                 "type": "internal",
                 "page": "Banda Islands"
@@ -86,7 +82,7 @@
               {
                 "text": "Maluku",
                 "type": "internal",
-                "page": "Maluku Islands"
+                "page": "Maluku (province)"
               }
             ]
           },
@@ -94,12 +90,11 @@
             "text": "Kepala BKPM Bahlil Lahadalia, 2.jpg"
           },
           "nationality": {
-            "text": "🇮🇩 Indonesia",
+            "text": "Indonesia",
             "links": [
               {
-                "text": "Indonesia",
                 "type": "internal",
-                "page": "indonesia"
+                "page": "Indonesia"
               }
             ]
           },
