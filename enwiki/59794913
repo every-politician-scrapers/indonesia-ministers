@@ -93,6 +93,10 @@
       ],
       "templates": [
         {
+          "description": "Indonesian politician and rector",
+          "template": "short description"
+        },
+        {
           "date": "May 2019",
           "template": "use dmy dates"
         },
@@ -102,10 +106,6 @@
           "month": "7",
           "day": "29",
           "template": "birth date and age"
-        },
-        {
-          "description": "Indonesian politician and rector",
-          "template": "short description"
         }
       ],
       "infoboxes": [
