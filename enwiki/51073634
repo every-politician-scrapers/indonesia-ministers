@@ -1,279 +1,34 @@
 {
-  "title": "Tito Karnavian",
-  "pageID": 51073634,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "Indonesian police officers",
-    "People from Palembang",
-    "Indonesian Muslims",
-    "Indonesian people of Malay descent",
-    "Onward Indonesia Cabinet",
-    "Government ministers of Indonesia",
-    "Nanyang Technological University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Muhammad Tito Karnavian (born 26 October 1964) is an Indonesian politician and retired police general who is currently serving as Minister of Home Affairs of the Republic of Indonesia since 23 October 2019.",
-              "links": [
-                {
-                  "text": "Minister of Home Affairs of the Republic of Indonesia",
-                  "type": "internal",
-                  "page": "Ministry of Home Affairs (Indonesia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Muhammad Tito Karnavian"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he was Chief of the Indonesian National Police from 13 July 2016 until 23 October 2019, and was confirmed unanimously in the People's Representative Council, replacing Badrodin Haiti.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief of the Indonesian National Police"
-                },
-                {
-                  "type": "internal",
-                  "page": "Badrodin Haiti"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1964",
-          "month": "10",
-          "day": "26",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Police-General (Ret.)",
-            "links": [
-              {
-                "text": "Police-General",
-                "type": "internal",
-                "page": "General"
-              }
-            ]
-          },
-          "name": {
-            "text": "Muhammad Tito Karnavian"
-          },
-          "image": {
-            "text": "Mendagri Tito Karnavian.jpg"
-          },
-          "imagesize": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Tito as Minister of Home Affairs"
-          },
-          "office": {
-            "text": "29th Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Indonesia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 October 2019"
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Ma'ruf Amin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ma'ruf Amin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Tjahjo Kumolo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tjahjo Kumolo"
-              }
-            ]
-          },
-          "office1": {
-            "text": "23rd Chief of National Police of Indonesia"
-          },
-          "president1": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 July 2016"
-          },
-          "term_end1": {
-            "text": "22 October 2019"
-          },
-          "predecessor1": {
-            "text": "Badrodin Haiti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Badrodin Haiti"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ari Dono Sukmanto (Acting) Idham Azis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Idham Azis"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chief of National Agency for Combating Terrorism (BNPT)",
-            "links": [
-              {
-                "text": "Chief of National Agency for Combating Terrorism (BNPT)",
-                "type": "internal",
-                "page": "Badan Nasional Penanggulangan Terorisme"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 March 2016"
-          },
-          "term_end2": {
-            "text": "13 July 2016"
-          },
-          "predecessor2": {
-            "text": "Saud Usman Nasution"
-          },
-          "successor2": {
-            "text": "Suhardi Alius"
-          },
-          "birth_date": {
-            "text": "October 26, 1964"
-          },
-          "birth_place": {
-            "text": "Palembang, South Sumatera, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Palembang"
-              },
-              {
-                "type": "internal",
-                "page": "South Sumatera"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tri Suswati"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "\"Akpol\" (Indonesian National Police Academy) (1987) University of Exeter (1993) Nanyang Technological University (2013)",
-            "links": [
-              {
-                "text": "\"Akpol\" (Indonesian National Police Academy)",
-                "type": "internal",
-                "page": "Police academy",
-                "anchor": "Indonesia"
-              },
-              {
-                "type": "internal",
-                "page": "University of Exeter"
-              },
-              {
-                "type": "internal",
-                "page": "Nanyang Technological University"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "🇮🇩 Indonesia",
-            "links": [
-              {
-                "text": "Indonesia",
-                "type": "internal",
-                "page": "indonesia"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1987–2019"
-          },
-          "rank": {
-            "text": "PDU JEN.png Police-General",
-            "links": [
-              {
-                "text": "Police-General",
-                "type": "internal",
-                "page": "General"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Insignia of the Indonesian National Police.svg Indonesian National Police",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indonesian National Police"
-              }
-            ]
-          },
-          "unit": {
-            "text": "\"Reserse\" (Crime investigation)",
-            "links": [
-              {
-                "text": "\"Reserse\" (Crime investigation)",
-                "type": "internal",
-                "page": "Criminal Investigation Agency (Indonesia)"
-              }
-            ]
-          },
-          "awards": {
-            "text": "\"Adhi Makayasa\" (1987)"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Police-General (Ret.)",
+  "name": "Muhammad Tito Karnavian",
+  "image": "Mendagri Tito Karnavian.jpg",
+  "imagesize": "200px",
+  "caption": "Tito as Minister of Home Affairs",
+  "office": "29th Minister of Home Affairs",
+  "term_start": "23 October 2019",
+  "president": "Joko Widodo",
+  "vicepresident": "Ma'ruf Amin",
+  "predecessor": "Tjahjo Kumolo",
+  "office1": "23rd Chief of National Police of Indonesia",
+  "president1": "Joko Widodo",
+  "term_start1": "13 July 2016",
+  "term_end1": "22 October 2019",
+  "predecessor1": "Badrodin Haiti",
+  "successor1": "Ari Dono Sukmanto (Acting) Idham Azis",
+  "office2": "Chief of National Agency for Combating Terrorism (BNPT)",
+  "term_start2": "16 March 2016",
+  "term_end2": "13 July 2016",
+  "predecessor2": "Saud Usman Nasution",
+  "successor2": "Suhardi Alius",
+  "birth_date": "October 26, 1964",
+  "birth_place": "Palembang, South Sumatera, Indonesia",
+  "spouse": "Tri Suswati",
+  "children": "3",
+  "alma_mater": "\"Akpol\" (Indonesian National Police Academy) (1987) University of Exeter (1993) Nanyang Technological University (2013)",
+  "allegiance": "🇮🇩 Indonesia",
+  "serviceyears": "1987–2019",
+  "rank": "PDU JEN.png Police-General",
+  "branch": "Insignia of the Indonesian National Police.svg Indonesian National Police",
+  "unit": "\"Reserse\" (Crime investigation)",
+  "awards": "\"Adhi Makayasa\" (1987)"
 }

@@ -1,225 +1,25 @@
 {
-  "title": "Yaqut Cholil Qoumas",
-  "pageID": 66200407,
-  "categories": [
-    "1975 births",
-    "People from Rembang Regency",
-    "Government ministers of Indonesia",
-    "Members of the People's Representative Council, 2014",
-    "Members of the People's Representative Council, 2019",
-    "Indonesian Muslims",
-    "National Awakening Party politicians",
-    "Members of Indonesian regency councils",
-    "Onward Indonesia Cabinet",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yaqut Cholil Qoumas (born 4 January 1975) is an Indonesian cleric and politician who currently serves as the Minister of Religious Affairs under Joko Widodo, appointed since 23 December 2020.",
-              "links": [
-                {
-                  "text": "Minister of Religious Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Religious Affairs (Indonesia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Joko Widodo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yaqut Cholil Qoumas"
-                ]
-              }
-            },
-            {
-              "text": "He previously chaired the Ansor Youth Movement and was a member of the People's Representative Council, both between 2015 and 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ansor Youth Movement"
-                },
-                {
-                  "type": "internal",
-                  "page": "People's Representative Council"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        },
-        {
-          "text": "Nusron Wahid",
-          "lan1": "id",
-          "template": "ill"
-        },
-        {
-          "year": "1975",
-          "month": "1",
-          "day": "4",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yaqut Cholil Qoumas"
-          },
-          "image": {
-            "text": "Yaqut Cholil Qoumas, Menteri Agama.png"
-          },
-          "office": {
-            "text": "24th Minister of Religious Affairs",
-            "links": [
-              {
-                "text": "Minister of Religious Affairs",
-                "type": "internal",
-                "page": "Ministry of Religious Affairs (Indonesia)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Fachrul Razi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fachrul Razi"
-              }
-            ]
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 December 2020"
-          },
-          "office1": {
-            "text": "General Chairman of GP Ansor",
-            "links": [
-              {
-                "text": "GP Ansor",
-                "type": "internal",
-                "page": "Ansor Youth Movement"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Nusron Wahid"
-          },
-          "term_start1": {
-            "text": "27 November 2015"
-          },
-          "term_end1": {
-            "text": "23 December 2020"
-          },
-          "office2": {
-            "text": "Member of People's Representative Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Representative Council"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 January 2015"
-          },
-          "term_end2": {
-            "text": "23 December 2020"
-          },
-          "predecessor2": {
-            "text": "Muhammad Hanif Dhakiri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammad Hanif Dhakiri"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Regent of Rembang",
-            "links": [
-              {
-                "text": "Rembang",
-                "type": "internal",
-                "page": "Rembang Regency"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2005",
-            "number": 2005
-          },
-          "term_end3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "predecessor3": {
-            "text": "Nasirul Mahasin"
-          },
-          "successor3": {
-            "text": "Abdul Hafidz"
-          },
-          "birth_date": {
-            "text": "January 4, 1975"
-          },
-          "birth_place": {
-            "text": "Rembang, Central Java, Indonesia",
-            "links": [
-              {
-                "text": "Rembang",
-                "type": "internal",
-                "page": "Rembang Regency"
-              },
-              {
-                "type": "internal",
-                "page": "Central Java"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "party": {
-            "text": "National Awakening Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Awakening Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Indonesia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yaqut Cholil Qoumas",
+  "image": "Yaqut Cholil Qoumas, Menteri Agama.png",
+  "office": "24th Minister of Religious Affairs",
+  "predecessor": "Fachrul Razi",
+  "president": "Joko Widodo",
+  "term_start": "23 December 2020",
+  "office1": "General Chairman of GP Ansor",
+  "predecessor1": "Nusron Wahid",
+  "term_start1": "27 November 2015",
+  "term_end1": "23 December 2020",
+  "office2": "Member of People's Representative Council",
+  "term_start2": "27 January 2015",
+  "term_end2": "23 December 2020",
+  "predecessor2": "Muhammad Hanif Dhakiri",
+  "office3": "Deputy Regent of Rembang",
+  "term_start3": "2005",
+  "term_end3": "2010",
+  "predecessor3": "Nasirul Mahasin",
+  "successor3": "Abdul Hafidz",
+  "birth_date": "January 4, 1975",
+  "birth_place": "Rembang, Central Java, Indonesia",
+  "party": "National Awakening Party",
+  "alma_mater": "University of Indonesia"
 }

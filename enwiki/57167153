@@ -1,141 +1,16 @@
 {
-  "title": "Siti Nurbaya Bakar",
-  "pageID": 57167153,
-  "categories": [
-    "1956 births",
-    "Bogor Agricultural University alumni",
-    "Government ministers of Indonesia",
-    "Living people",
-    "Working Cabinet (Joko Widodo)",
-    "People from Jakarta",
-    "Onward Indonesia Cabinet"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Siti Nurbaya Bakar (born 28 August 1956) is the Minister of Environment and Forestry in Indonesian President Joko Widodo's Working Cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joko Widodo"
-                },
-                {
-                  "text": "Working Cabinet",
-                  "type": "internal",
-                  "page": "Working Cabinet (Joko Widodo)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Siti Nurbaya Bakar"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1956",
-          "month": "7",
-          "day": "28",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Siti Nurbaya Bakar"
-          },
-          "image": {
-            "text": "KIM Siti Nurbaya Bakar.jpg"
-          },
-          "caption": {
-            "text": "Portrait in 2019"
-          },
-          "office": {
-            "text": "Minister of Environment & Forestry"
-          },
-          "order": {
-            "text": "10th"
-          },
-          "term_start": {
-            "text": "27 October 2014"
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Zulkifli Hasan Balthasar Kambuaya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zulkifli Hasan"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 28, 1956"
-          },
-          "birth_place": {
-            "text": "Jakarta, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakarta"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rusli Rachman"
-          },
-          "children": {
-            "text": "Meitra Mivida, Ananda Tohpati"
-          },
-          "alma_mater": {
-            "text": "Bogor Agricultural University University of Siegen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bogor Agricultural University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Siegen"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Siti Nurbaya Bakar",
+  "image": "KIM Siti Nurbaya Bakar.jpg",
+  "caption": "Portrait in 2019",
+  "office": "Minister of Environment & Forestry",
+  "order": "10th",
+  "term_start": "27 October 2014",
+  "president": "Joko Widodo",
+  "predecessor": "Zulkifli Hasan Balthasar Kambuaya",
+  "birth_date": "July 28, 1956",
+  "birth_place": "Jakarta, Indonesia",
+  "nationality": "Indonesia",
+  "spouse": "Rusli Rachman",
+  "children": "Meitra Mivida, Ananda Tohpati",
+  "alma_mater": "Bogor Agricultural University University of Siegen"
 }

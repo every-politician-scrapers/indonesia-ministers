@@ -1,159 +1,17 @@
 {
-  "title": "Arifin Tasrif",
-  "pageID": 62138971,
-  "categories": [
-    "1953 births",
-    "Living people",
-    "People from Jakarta",
-    "Bandung Institute of Technology alumni",
-    "Government ministers of Indonesia",
-    "Ambassadors of Indonesia to Japan",
-    "Minangkabau people",
-    "Onward Indonesia Cabinet"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Arifin Tasrif (born in Jakarta 19 June 1953) is an Indonesian executive who is the Minister for Energy & Mineral Resources in Joko Widodo's Onward Indonesia Cabinet.",
-              "links": [
-                {
-                  "text": "Minister for Energy & Mineral Resources",
-                  "type": "internal",
-                  "page": "Ministry of Energy and Mineral Resources (Indonesia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Joko Widodo"
-                },
-                {
-                  "type": "internal",
-                  "page": "Onward Indonesia Cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Arifin Tasrif"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1953",
-          "month": "6",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Arifin Tasrif"
-          },
-          "image": {
-            "text": "Portrait of Arifin Tasrif.jpg"
-          },
-          "caption": {
-            "text": "Portrait in 2019 as minister"
-          },
-          "office": {
-            "text": "Minister for Energy & Mineral Resources",
-            "links": [
-              {
-                "text": "Minister for Energy & Mineral Resources",
-                "type": "internal",
-                "page": "Ministry of Energy and Mineral Resources (Indonesia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 October 2019"
-          },
-          "predecessor": {
-            "text": "Ignasius Jonan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ignasius Jonan"
-              }
-            ]
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Ambassador of Indonesia to Japan",
-            "links": [
-              {
-                "text": "Ambassador of Indonesia to Japan",
-                "type": "internal",
-                "page": "Indonesia–Japan relations"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 March 2017"
-          },
-          "term_end1": {
-            "text": "23 October 2019"
-          },
-          "predecessor1": {
-            "text": "Yusron Ihza Mahendra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yusron Ihza Mahendra"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Heri Akhmadi"
-          },
-          "birth_date": {
-            "text": "June 19, 1953"
-          },
-          "birth_place": {
-            "text": "Jakarta, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakarta"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Bandung Institute of Technology",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bandung Institute of Technology"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Arifin Tasrif",
+  "image": "Portrait of Arifin Tasrif.jpg",
+  "caption": "Portrait in 2019 as minister",
+  "office": "Minister for Energy & Mineral Resources",
+  "term_start": "23 October 2019",
+  "predecessor": "Ignasius Jonan",
+  "president": "Joko Widodo",
+  "office1": "Ambassador of Indonesia to Japan",
+  "term_start1": "13 March 2017",
+  "term_end1": "23 October 2019",
+  "predecessor1": "Yusron Ihza Mahendra",
+  "successor1": "Heri Akhmadi",
+  "birth_date": "June 19, 1953",
+  "birth_place": "Jakarta, Indonesia",
+  "alma_mater": "Bandung Institute of Technology"
 }

@@ -1,524 +1,65 @@
 {
-  "title": "Luhut Binsar Pandjaitan",
-  "pageID": 44494216,
-  "categories": [
-    "Living people",
-    "1947 births",
-    "Indonesian Christians",
-    "People from North Sumatra",
-    "George Washington University alumni",
-    "People of Batak descent",
-    "Working Cabinet (Joko Widodo)",
-    "Onward Indonesia Cabinet",
-    "Trade ministers of Indonesia",
-    "Government ministers of Indonesia",
-    "Industry ministers of Indonesia",
-    "People named in the Pandora Papers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Luhut Binsar Pandjaitan (born 28 September 1947) is an Indonesian politician, businessman and retired four-star Army general, serving as Coordinating Minister for Maritime Affairs and Investment since October 2019.",
-              "links": [
-                {
-                  "text": "Indonesian",
-                  "type": "internal",
-                  "page": "Indonesian people"
-                },
-                {
-                  "text": "Coordinating Minister for Maritime Affairs and Investment",
-                  "type": "internal",
-                  "page": "Coordinating Ministry for Maritime Affairs and Investments (Indonesia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luhut Binsar Pandjaitan"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Coordinating Minister for Maritime Affairs from July 2016 to October 2019, Coordinating Minister for Political, Legal, and Security Affairs from August 2015 to July 2016 and Chief of Staff to President Joko Widodo.",
-              "links": [
-                {
-                  "text": "Coordinating Minister for Political, Legal, and Security Affairs",
-                  "type": "internal",
-                  "page": "Coordinating Minister for Political and Security Affairs of Indonesia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Joko Widodo"
-                }
-              ]
-            },
-            {
-              "text": "He was also Minister of Trade and Industry in President Abdurrahman Wahid's cabinet and Indonesian Ambassador to Singapore from 1999 to 2000.",
-              "links": [
-                {
-                  "text": "Minister of Trade and Industry",
-                  "type": "internal",
-                  "page": "Ministry of Trade (Indonesia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Abdurrahman Wahid"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "National Unity Cabinet"
-                },
-                {
-                  "type": "internal",
-                  "page": "Singapore"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Luhut's military positions included Commander of the Army's elite Special Forces (Kopassus) Group 3, Commander of the Infantry Weaponry Center (Pussenif) and head of the Army Education and Training Command (Kodiklat).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kopassus"
-                }
-              ]
-            },
-            {
-              "text": "He was the founding commander of Detachment 81 (now Sat-81/Gultor), the counter-terrorism unit of Kopassus, where his deputy was Prabowo Subianto.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prabowo Subianto"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "After retiring from the military, in 2004 he founded Toba Sejahtra Group, which has interests in natural resources (oil, gas and mining), electricity generation (coal, gas and geothermal) and agriculture (palm oil)."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Luhut is chairman of Del Foundation, which has established schools and a technology college for underprivileged students."
-            },
-            {
-              "text": "He is also the founder of Luhur Bakti Pertiwi Foundation, which nurtures young Indonesian talents."
-            },
-            {
-              "text": "In 2011, Luhut received Ernst & Young's Entrepreneur of the Year Award in the Social Development category.",
-              "links": [
-                {
-                  "text": "Ernst & Young's Entrepreneur of the Year Award",
-                  "type": "internal",
-                  "page": "Ernst & Young Entrepreneur of the Year Awards"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2015",
-          "template": "engvarb"
-        },
-        {
-          "date": "May 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1947",
-          "month": "9",
-          "day": "28",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Luhut Binsar Pandjaitan"
-          },
-          "image": {
-            "text": "KIM Luhut B. Pandjaitan.jpg"
-          },
-          "caption": {
-            "text": "Luhut in 2019"
-          },
-          "allegiance": {
-            "text": "🇮🇩 Indonesia",
-            "links": [
-              {
-                "text": "Indonesia",
-                "type": "internal",
-                "page": "indonesia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Indonesian Military Academy George Washington University National Defense University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indonesian Military Academy"
-              },
-              {
-                "type": "internal",
-                "page": "George Washington University"
-              },
-              {
-                "type": "internal",
-                "page": "National Defense University"
-              }
-            ]
-          },
-          "awards": {
-            "text": "Adhi Makayasa"
-          },
-          "birth_date": {
-            "text": "September 28, 1947"
-          },
-          "birth_place": {
-            "text": "Silaen, North Sumatra, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "North Sumatra"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Flag of the Indonesian Army.svg Indonesian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indonesian Army"
-              }
-            ]
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "office": {
-            "text": "5th Coordinating Minister of Maritime and Investment Affairs",
-            "links": [
-              {
-                "text": "Coordinating Minister of Maritime and Investment Affairs",
-                "type": "internal",
-                "page": "Coordinating Ministry for Maritime Affairs and Investments (Indonesia)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 July 2016"
-          },
-          "predecessor": {
-            "text": "Rizal Ramli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rizal Ramli"
-              }
-            ]
-          },
-          "office1": {
-            "text": "13th Coordinating Minister of Political, Legal and Security Affairs",
-            "links": [
-              {
-                "text": "Coordinating Minister of Political, Legal and Security Affairs",
-                "type": "internal",
-                "page": "Coordinating Ministry for Political, Legal, and Security Affairs (Indonesia)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 August 2015"
-          },
-          "term_end1": {
-            "text": "27 July 2016"
-          },
-          "predecessor1": {
-            "text": "Tedjo Edhy Purdijanto"
-          },
-          "successor1": {
-            "text": "Wiranto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wiranto"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Energy and Mineral Resources Acting",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Acting"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 August 2016"
-          },
-          "term_end2": {
-            "text": "14 October 2016"
-          },
-          "predecessor2": {
-            "text": "Arcandra Tahar"
-          },
-          "successor2": {
-            "text": "Ignasius Jonan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ignasius Jonan"
-              }
-            ]
-          },
-          "order3": {
-            "text": "1st Presidential Chief of Staff",
-            "links": [
-              {
-                "text": "Presidential Chief of Staff",
-                "type": "internal",
-                "page": "Presidential Staff Office (Indonesia)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "31 December 2014"
-          },
-          "term_end3": {
-            "text": "2 September 2015"
-          },
-          "predecessor3": {
-            "text": "Position Established"
-          },
-          "successor3": {
-            "text": "Teten Masduki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teten Masduki"
-              }
-            ]
-          },
-          "office4": {
-            "text": "19th Minister of Industry and Trade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Industry and Trade"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Abdurrahman Wahid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdurrahman Wahid"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "24 August 2000"
-          },
-          "term_end4": {
-            "text": "23 July 2001"
-          },
-          "predecessor4": {
-            "text": "Jusuf Kalla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jusuf Kalla"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Rini Soemarno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rini Soemarno"
-              }
-            ]
-          },
-          "office5": {
-            "text": "15th Ambassador to Singapore"
-          },
-          "term_start5": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end5": {
-            "text": "2000",
-            "number": 2000
-          },
-          "predecessor5": {
-            "text": "Herman Bernhard Leopold Mantiri"
-          },
-          "successor5": {
-            "text": "Johan S. Syahperi"
-          },
-          "office6": {
-            "text": "Other roles"
-          },
-          "subterm6": {
-            "text": "2018–"
-          },
-          "suboffice6": {
-            "text": "Chairman of the National Team for Increasing the Use of Domestic Production"
-          },
-          "subterm7": {
-            "text": "2020–"
-          },
-          "suboffice7": {
-            "text": "Deputy Chairman of the COVID-19 Handling and National Economic Recovery"
-          },
-          "subterm8": {
-            "text": "2021–"
-          },
-          "suboffice8": {
-            "text": "Chairman of the National Priority Lake Rescue Steering Committee"
-          },
-          "subterm9": {
-            "text": "2021–"
-          },
-          "suboffice9": {
-            "text": "Coordinator for the PPKM Emergency for Java-Bali",
-            "links": [
-              {
-                "text": "PPKM Emergency",
-                "type": "internal",
-                "page": "Community Activities Restrictions Enforcement"
-              }
-            ]
-          },
-          "subterm10": {
-            "text": "2021–"
-          },
-          "suboffice10": {
-            "text": "Chairman of the Proudly Made Indonesia National Movement Team"
-          },
-          "subterm11": {
-            "text": "2021–"
-          },
-          "suboffice11": {
-            "text": "Chairman of the High-speed Train Committee for Jakarta-Bandung"
-          },
-          "nickname": {
-            "text": "LBJ"
-          },
-          "rank": {
-            "text": "22-TNI_Army-GEN.svg General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "General"
-              }
-            ]
-          },
-          "unit": {
-            "text": "Infantry (Kopassus)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kopassus"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1970–1999"
-          },
-          "commands": {
-            "text": "Detachment 81 Counter-Terrorist"
-          },
-          "battles": {
-            "text": "Communist insurgency in Sarawak Operation Seroja Insurgency in East Timor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Communist insurgency in Sarawak"
-              },
-              {
-                "text": "Operation Seroja",
-                "type": "internal",
-                "page": "Indonesian invasion of East Timor"
-              },
-              {
-                "text": "Insurgency in East Timor",
-                "type": "internal",
-                "page": "Indonesian Occupation of East Timor"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Devi Simatupang"
-          },
-          "party": {
-            "text": "Golkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Golkar"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Luhut Binsar Pandjaitan",
+  "image": "KIM Luhut B. Pandjaitan.jpg",
+  "caption": "Luhut in 2019",
+  "allegiance": "🇮🇩 Indonesia",
+  "alma_mater": "Indonesian Military Academy George Washington University National Defense University",
+  "awards": "Adhi Makayasa",
+  "birth_date": "September 28, 1947",
+  "birth_place": "Silaen, North Sumatra, Indonesia",
+  "branch": "Flag of the Indonesian Army.svg Indonesian Army",
+  "children": "4",
+  "office": "5th Coordinating Minister of Maritime and Investment Affairs",
+  "president": "Joko Widodo",
+  "term_start": "27 July 2016",
+  "predecessor": "Rizal Ramli",
+  "office1": "13th Coordinating Minister of Political, Legal and Security Affairs",
+  "president1": "Joko Widodo",
+  "term_start1": "12 August 2015",
+  "term_end1": "27 July 2016",
+  "predecessor1": "Tedjo Edhy Purdijatno",
+  "successor1": "Wiranto",
+  "office2": "Minister of Energy and Mineral Resources Acting",
+  "president2": "Joko Widodo",
+  "term_start2": "15 August 2016",
+  "term_end2": "14 October 2016",
+  "predecessor2": "Arcandra Tahar",
+  "successor2": "Ignasius Jonan",
+  "order3": "1st Presidential Chief of Staff",
+  "term_start3": "31 December 2014",
+  "term_end3": "2 September 2015",
+  "predecessor3": "Position Established",
+  "successor3": "Teten Masduki",
+  "office4": "19th Minister of Industry and Trade",
+  "president4": "Abdurrahman Wahid",
+  "term_start4": "24 August 2000",
+  "term_end4": "23 July 2001",
+  "predecessor4": "Jusuf Kalla",
+  "successor4": "Rini Soemarno",
+  "office5": "15th Ambassador to Singapore",
+  "term_start5": "1999",
+  "term_end5": "2000",
+  "predecessor5": "Herman Bernhard Leopold Mantiri",
+  "successor5": "Johan S. Syahperi",
+  "office6": "Other roles",
+  "subterm6": "2018–",
+  "suboffice6": "Chairman of the National Team for Increasing the Use of Domestic Production",
+  "subterm7": "2020–",
+  "suboffice7": "Deputy Chairman of the COVID-19 Handling and National Economic Recovery",
+  "subterm8": "2021–",
+  "suboffice8": "Chairman of the National Priority Lake Rescue Steering Committee",
+  "subterm9": "2021–",
+  "suboffice9": "Coordinator for the PPKM Emergency for Java-Bali",
+  "subterm10": "2021–",
+  "suboffice10": "Chairman of the Proudly Made Indonesia National Movement Team",
+  "subterm11": "2021–",
+  "suboffice11": "Chairman of the High-speed Train Committee for Jakarta-Bandung",
+  "nickname": "LBJ",
+  "rank": "22-TNI_Army-GEN.svg General",
+  "unit": "Infantry (Kopassus)",
+  "serviceyears": "1970–1999",
+  "commands": "Detachment 81 Counter-Terrorist",
+  "battles": "Communist insurgency in Sarawak Operation Seroja Insurgency in East Timor",
+  "spouse": "Devi Simatupang",
+  "party": "Golkar"
 }
