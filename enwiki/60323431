@@ -1,209 +1,23 @@
 {
-  "title": "Nadiem Makarim",
-  "pageID": 60323431,
-  "categories": [
-    "Brown University alumni",
-    "Harvard Business School alumni",
-    "Indonesian businesspeople",
-    "1984 births",
-    "Indonesian Muslims",
-    "Indonesian people of Arab descent",
-    "Indonesian people of Yemeni descent",
-    "Minangkabau people",
-    "Hadhrami people",
-    "Living people",
-    "Education ministers of Indonesia",
-    "Onward Indonesia Cabinet",
-    "Winners of the Nikkei Asia Prize",
-    "People educated at a United World College"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nadiem Anwar Makarim (born 4 July 1984) is the current minister of education, culture, research, and technology of the Republic of Indonesia.",
-              "links": [
-                {
-                  "text": "minister of education, culture, research, and technology",
-                  "type": "internal",
-                  "page": "Ministry of Education, Culture, Research and Technology (Indonesia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nadiem Anwar Makarim"
-                ]
-              }
-            },
-            {
-              "text": "In 2010, he founded Gojek, Indonesia's first startup valued over US$10 billion.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gojek"
-                }
-              ]
-            },
-            {
-              "text": "In October 2019, he was appointed as Minister of Education and Culture by President Joko Widodo on his second term's cabinet and subsequently resigned from his post at Gojek.",
-              "links": [
-                {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "President of Indonesia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Joko Widodo"
-                },
-                {
-                  "text": "his second term's cabinet",
-                  "type": "internal",
-                  "page": "Onward Indonesia Cabinet"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian minister",
-          "template": "short description"
-        },
-        {
-          "date": "December 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1984",
-          "month": "7",
-          "day": "4",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "order2": {
-            "text": "29th"
-          },
-          "office2": {
-            "text": "Ministry of Education and Culture (Indonesia)#List of ministers"
-          },
-          "image": {
-            "text": "KIM_Nadiem_Anwar_Makarim.jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "name": {
-            "text": "Nadiem Makarim"
-          },
-          "president2": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Muhadjir Effendy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhadjir Effendy"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "23 October 2019"
-          },
-          "birth_date": {
-            "text": "July 4, 1984"
-          },
-          "birth_place": {
-            "text": "Singapore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Singapore"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Nadiem Anwar Makarim"
-          },
-          "nationality": {
-            "text": "Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Franka Franklin"
-          },
-          "alma_mater": {
-            "text": "Harvard University\nBrown University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              },
-              {
-                "type": "internal",
-                "page": "Brown University"
-              }
-            ]
-          },
-          "termend2": {
-            "text": "28 April 2021"
-          },
-          "successor2": {
-            "text": "Office abolished",
-            "formatting": {
-              "italic": [
-                "Office abolished"
-              ]
-            }
-          },
-          "order": {
-            "text": "1st"
-          },
-          "office": {
-            "text": "Ministry of Education, Culture, Research, and Technology (Indonesia)#List of ministers"
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "preceded": {
-            "text": "Office created",
-            "formatting": {
-              "italic": [
-                "Office created"
-              ]
-            }
-          },
-          "termstart": {
-            "text": "28 April 2021"
-          }
-        }
-      ]
-    }
-  ]
+  "order2": "29th",
+  "office2": "Ministry of Education and Culture (Indonesia)#List of ministers",
+  "image": "KIM_Nadiem_Anwar_Makarim.jpg",
+  "image_size": "200px",
+  "name": "Nadiem Makarim",
+  "president2": "Joko Widodo",
+  "predecessor2": "Muhadjir Effendy",
+  "termstart2": "23 October 2019",
+  "birth_date": "July 4, 1984",
+  "birth_place": "Singapore",
+  "birth_name": "Nadiem Anwar Makarim",
+  "nationality": "Indonesia",
+  "spouse": "Franka Franklin",
+  "alma_mater": "Harvard University\nBrown University",
+  "termend2": "28 April 2021",
+  "successor2": "Office abolished",
+  "order": "1st",
+  "office": "Ministry of Education, Culture, Research, and Technology (Indonesia)#List of ministers",
+  "president": "Joko Widodo",
+  "preceded": "Office created",
+  "termstart": "28 April 2021"
 }

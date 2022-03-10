@@ -1,250 +1,28 @@
 {
-  "title": "Retno Marsudi",
-  "pageID": 44220253,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Indonesian Muslims",
-    "Foreign ministers of Indonesia",
-    "Ambassadors of Indonesia to the Netherlands",
-    "Ambassadors of Indonesia to Iceland",
-    "Ambassadors of Indonesia to Norway",
-    "Female foreign ministers",
-    "Indonesian women diplomats",
-    "Women government ministers of Indonesia",
-    "Javanese people",
-    "Gadjah Mada University alumni",
-    "People from Semarang",
-    "Women ambassadors",
-    "Working Cabinet (Joko Widodo)",
-    "Onward Indonesia Cabinet",
-    "The Hague University of Applied Sciences alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Retno Lestari Priansari Marsudi (born 27 November 1962) is an Indonesian diplomat who has been serving as the Minister for Foreign Affairs in the Cabinet of Joko Widodo since 2014.",
-              "links": [
-                {
-                  "text": "diplomat",
-                  "type": "internal",
-                  "page": "diplomat"
-                },
-                {
-                  "text": "Minister for Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Indonesia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Joko Widodo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Retno Lestari Priansari Marsudi"
-                ]
-              }
-            },
-            {
-              "text": "She is the first female minister appointed to the post."
-            },
-            {
-              "text": "She was previously the Indonesian Ambassador to the Netherlands from 2012 to 2014, as well as Ambassador to Iceland and Norway from 2005 to 2008.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Netherlands"
-                },
-                {
-                  "type": "internal",
-                  "page": "Iceland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Norway"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indonesian diplomat and politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1962",
-          "month": "11",
-          "day": "27",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Retno Marsudi"
-          },
-          "image": {
-            "text": "Secretary Tillerson Shakes Hands With Indonesian Foreign Minister Marsudi Before Their Meeting in Washington (34290251502) (cropped).jpg"
-          },
-          "order": {
-            "text": "17th"
-          },
-          "office": {
-            "text": "Foreign Minister of Indonesia"
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 October 2014"
-          },
-          "predecessor": {
-            "text": "Marty Natalegawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marty Natalegawa"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Ambassador of Indonesia to the Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Netherlands"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 January 2012"
-          },
-          "term_end2": {
-            "text": "16 January 2015"
-          },
-          "predecessor2": {
-            "text": "Junus Effendy Habibie"
-          },
-          "successor2": {
-            "text": "I Gusti Agung Wesaka Puja"
-          },
-          "president2": {
-            "text": "Susilo Bambang Yudhoyono",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Susilo Bambang Yudhoyono"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Ambassador of Indonesia to Iceland & Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iceland"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2005",
-            "number": 2005
-          },
-          "term_end3": {
-            "text": "2008",
-            "number": 2008
-          },
-          "predecessor3": {
-            "text": "Hatanto Reksodiputro"
-          },
-          "successor3": {
-            "text": "Esti Andayani"
-          },
-          "president3": {
-            "text": "Susilo Bambang Yudhoyono",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Susilo Bambang Yudhoyono"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Retno Lestari Priansari"
-          },
-          "birth_date": {
-            "text": "November 27, 1962"
-          },
-          "birth_place": {
-            "text": "Semarang, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Semarang"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "party": {
-            "text": "non-partisan"
-          },
-          "spouse": {
-            "text": "Agus Marsudi"
-          },
-          "children": {
-            "text": "Dyota Bagas"
-          },
-          "alma_mater": {
-            "text": "Gadjah Mada University (S.I.P.) The Hague University of Applied Sciences (LL.M.)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gadjah Mada University"
-              },
-              {
-                "text": "S.I.P.",
-                "type": "internal",
-                "page": "Bachelor of Science"
-              },
-              {
-                "type": "internal",
-                "page": "The Hague University of Applied Sciences"
-              },
-              {
-                "text": "LL.M.",
-                "type": "internal",
-                "page": "Master of Laws"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Retno Marsudi",
+  "image": "Secretary Tillerson Shakes Hands With Indonesian Foreign Minister Marsudi Before Their Meeting in Washington (34290251502) (cropped).jpg",
+  "order": "17th",
+  "office": "Foreign Minister of Indonesia",
+  "president": "Joko Widodo",
+  "term_start": "27 October 2014",
+  "predecessor": "Marty Natalegawa",
+  "office2": "Ambassador of Indonesia to the Netherlands",
+  "term_start2": "13 January 2012",
+  "term_end2": "16 January 2015",
+  "predecessor2": "Junus Effendy Habibie",
+  "successor2": "I Gusti Agung Wesaka Puja",
+  "president2": "Susilo Bambang Yudhoyono",
+  "office3": "Ambassador of Indonesia to Iceland & Norway",
+  "term_start3": "2005",
+  "term_end3": "2008",
+  "predecessor3": "Hatanto Reksodiputro",
+  "successor3": "Esti Andayani",
+  "president3": "Susilo Bambang Yudhoyono",
+  "birth_name": "Retno Lestari Priansari",
+  "birth_date": "November 27, 1962",
+  "birth_place": "Semarang, Indonesia",
+  "party": "non-partisan",
+  "spouse": "Agus Marsudi",
+  "children": "Dyota Bagas",
+  "alma_mater": "Gadjah Mada University (S.I.P.) The Hague University of Applied Sciences (LL.M.)"
 }

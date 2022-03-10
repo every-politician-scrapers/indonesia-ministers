@@ -1,204 +1,25 @@
 {
-  "title": "Agus Gumiwang Kartasasmita",
-  "pageID": 60528859,
-  "categories": [
-    "Living people",
-    "1969 births",
-    "People from Jakarta",
-    "Industry ministers of Indonesia",
-    "Working Cabinet (Joko Widodo)",
-    "California Miramar University alumni",
-    "Onward Indonesia Cabinet",
-    "Members of the People's Representative Council, 2009",
-    "Members of the People's Representative Council, 2014",
-    "Social affairs ministers of Indonesia",
-    "Sundanese people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Agus Gumiwang Kartasasmita (born 3 January 1969) is an Indonesian politician.",
-              "formatting": {
-                "bold": [
-                  "Agus Gumiwang Kartasasmita"
-                ]
-              }
-            },
-            {
-              "text": "He is the current Minister of Industry in the Republic of Indonesia, appointed on 24 August 2019.",
-              "links": [
-                {
-                  "text": "Republic of Indonesia",
-                  "type": "internal",
-                  "page": "Indonesia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "template": "br"
-        },
-        {
-          "year": "1969",
-          "month": "1",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "description": "Indonesian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Agus Gumiwang Kartasasmita"
-          },
-          "office": {
-            "text": "Minister of Industry"
-          },
-          "order": {
-            "text": "26th"
-          },
-          "term_start": {
-            "text": "23 October 2019"
-          },
-          "president": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Airlangga Hartarto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Airlangga Hartarto"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Social Affairs"
-          },
-          "order2": {
-            "text": "29th"
-          },
-          "term_start2": {
-            "text": "24 August 2018"
-          },
-          "term_end2": {
-            "text": "20 October 2019"
-          },
-          "president2": {
-            "text": "Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Idrus Marham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Idrus Marham"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Juliari Batubara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juliari Batubara"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of People's Representative Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Representative Council"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Susilo Bambang Yudhoyono Joko Widodo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Susilo Bambang Yudhoyono"
-              },
-              {
-                "type": "internal",
-                "page": "Joko Widodo"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 October 2009"
-          },
-          "term_end3": {
-            "text": "24 August 2018"
-          },
-          "birth_date": {
-            "text": "January 3, 1969"
-          },
-          "birth_place": {
-            "text": "Jakarta, Indonesia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakarta"
-              },
-              {
-                "type": "internal",
-                "page": "Indonesia"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Ginandjar Kartasasmita",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ginandjar Kartasasmita"
-              }
-            ]
-          },
-          "party": {
-            "text": "Golkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Golkar"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Loemongga Haoemasan"
-          },
-          "image": {
-            "text": "Menteri Perindustrian Agus G. Kartasasmita.jpg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Agus Gumiwang Kartasasmita",
+  "office": "Minister of Industry",
+  "order": "26th",
+  "term_start": "23 October 2019",
+  "president": "Joko Widodo",
+  "predecessor": "Airlangga Hartarto",
+  "office2": "Minister of Social Affairs",
+  "order2": "29th",
+  "term_start2": "24 August 2018",
+  "term_end2": "20 October 2019",
+  "president2": "Joko Widodo",
+  "predecessor2": "Idrus Marham",
+  "successor2": "Juliari Batubara",
+  "office3": "Member of People's Representative Council",
+  "president3": "Susilo Bambang Yudhoyono Joko Widodo",
+  "term_start3": "1 October 2009",
+  "term_end3": "24 August 2018",
+  "birth_date": "January 3, 1969",
+  "birth_place": "Jakarta, Indonesia",
+  "parents": "Ginandjar Kartasasmita",
+  "party": "Golkar",
+  "spouse": "Loemongga Haoemasan",
+  "image": "Menteri Perindustrian Agus G. Kartasasmita.jpg"
 }
