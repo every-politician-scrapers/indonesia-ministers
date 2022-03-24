@@ -65,7 +65,7 @@ Q15620237,Hikmat Tomet,spouse,Q7296050,Ratu Atut Chosiyah
 Q15646541,Puan Maharani,child,Q100573485,Diah Pikatan Orissa Putri Hapsari
 Q15646541,Puan Maharani,child,Q100573617,Praba Diwangkara Caraka Putra Soma
 Q15646541,Puan Maharani,father,Q4201140,Taufiq Kiemas
-Q15646541,Puan Maharani,mother,Q76179,Megawati Sukarnoputri
+Q15646541,Puan Maharani,mother,Q76179,Megawati Soekarnoputri
 Q15646541,Puan Maharani,relative,Q17410937,Muhammad Prananda Prabowo
 Q15646541,Puan Maharani,relative,Q64823485,Muhammad Rizki Pratama
 Q15646541,Puan Maharani,spouse,Q96602131,Hapsoro Sukmonohadi
@@ -79,6 +79,9 @@ Q16187552,Inggrid Kansil,spouse,Q12518358,Syarief Hasan
 Q16188358,Lukman Hakim Saifudin,father,Q14404735,Saifuddin Zuhri
 Q16188358,Lukman Hakim Saifudin,sibling,Q100699623,Farida Salahuddin Wahid
 Q17410716,Venna Melinda,child,Q17410444,Verrell Bramasta
+Q17410716,Venna Melinda,child,Q85988967,Athalla Naufal
+Q17410716,Venna Melinda,spouse,Q12482880,Ferry Irawan
+Q17410716,Venna Melinda,spouse,Q97306827,Ivan Fadilla Soedjoko
 Q17410820,Nabiel Al Musawa,sibling,Q15229052,Habib Munzir Al-Musawa
 Q17410841,Achmad Dimyati Natakusumah,child,Q109449644,Rizka Amalia R Natakusumah
 Q17410841,Achmad Dimyati Natakusumah,child,Q93388029,Rizki Aulia Rahman Natakusumah
@@ -144,7 +147,7 @@ Q3701615,Basuki Tjahaja Purnama,spouse,Q31173620,Veronica Tan
 Q4119908,Abdurrahman Mohammad Fachir,child,Q28723648,Ifa Fachir
 Q4201140,Taufiq Kiemas,child,Q15646541,Puan Maharani
 Q4201140,Taufiq Kiemas,child,Q17410937,Muhammad Prananda Prabowo
-Q4201140,Taufiq Kiemas,spouse,Q76179,Megawati Sukarnoputri
+Q4201140,Taufiq Kiemas,spouse,Q76179,Megawati Soekarnoputri
 Q4213590,Irwan Prayitno,relative,Q108855892,Irfan Aulia Syaiful
 Q4213590,Irwan Prayitno,sibling,Q65208760,Adib Alfikri
 Q4213590,Irwan Prayitno,sibling,Q85992210,Khairul Ikhwan
@@ -166,7 +169,7 @@ Q4264069,Guruh Sukarnoputra,sibling,Q12507600,Rachmawati Sukarnoputri
 Q4264069,Guruh Sukarnoputra,sibling,Q12517042,Sukmawati Soekarnoputri
 Q4264069,Guruh Sukarnoputra,sibling,Q15646490,Kartika Sari Dewi Soekarno
 Q4264069,Guruh Sukarnoputra,sibling,Q49247960,Guntur Soekarnoputra
-Q4264069,Guruh Sukarnoputra,sibling,Q76179,Megawati Sukarnoputri
+Q4264069,Guruh Sukarnoputra,sibling,Q76179,Megawati Soekarnoputri
 Q4273018,Anang Hermansyah,child,Q106347888,Arsya Hermansyah
 Q4273018,Anang Hermansyah,child,Q106348075,Arsy Hermansyah
 Q4273018,Anang Hermansyah,child,Q106348293,Azriel Akbar Hermansyah
@@ -235,20 +238,20 @@ Q76167,Abdurrahman Wahid,sibling,Q12511575,Salahuddin Wahid
 Q76167,Abdurrahman Wahid,sibling,Q16188244,Lily Chodidjah Wahid
 Q76167,Abdurrahman Wahid,sibling,Q56392155,Hasyim Wahid
 Q76167,Abdurrahman Wahid,spouse,Q4264061,Sinta Nuriyah
-Q76179,Megawati Sukarnoputri,child,Q15646541,Puan Maharani
-Q76179,Megawati Sukarnoputri,child,Q17410937,Muhammad Prananda Prabowo
-Q76179,Megawati Sukarnoputri,child,Q64823485,Muhammad Rizki Pratama
-Q76179,Megawati Sukarnoputri,father,Q165848,wind wave
-Q76179,Megawati Sukarnoputri,mother,Q468519,Fatmawati
-Q76179,Megawati Sukarnoputri,sibling,Q12507600,Rachmawati Sukarnoputri
-Q76179,Megawati Sukarnoputri,sibling,Q12517042,Sukmawati Soekarnoputri
-Q76179,Megawati Sukarnoputri,sibling,Q15646490,Kartika Sari Dewi Soekarno
-Q76179,Megawati Sukarnoputri,sibling,Q4264069,Guruh Sukarnoputra
-Q76179,Megawati Sukarnoputri,sibling,Q49247960,Guntur Soekarnoputra
-Q76179,Megawati Sukarnoputri,sibling,Q64623726,Taufan Sukarnoputra
-Q76179,Megawati Sukarnoputri,spouse,Q19748675,Surindro Supjarso
-Q76179,Megawati Sukarnoputri,spouse,Q4201140,Taufiq Kiemas
-Q76179,Megawati Sukarnoputri,spouse,Q95153926,Hassan Gamal Ahmad Hasan
+Q76179,Megawati Soekarnoputri,child,Q15646541,Puan Maharani
+Q76179,Megawati Soekarnoputri,child,Q17410937,Muhammad Prananda Prabowo
+Q76179,Megawati Soekarnoputri,child,Q64823485,Muhammad Rizki Pratama
+Q76179,Megawati Soekarnoputri,father,Q165848,wind wave
+Q76179,Megawati Soekarnoputri,mother,Q468519,Fatmawati
+Q76179,Megawati Soekarnoputri,sibling,Q12507600,Rachmawati Sukarnoputri
+Q76179,Megawati Soekarnoputri,sibling,Q12517042,Sukmawati Soekarnoputri
+Q76179,Megawati Soekarnoputri,sibling,Q15646490,Kartika Sari Dewi Soekarno
+Q76179,Megawati Soekarnoputri,sibling,Q4264069,Guruh Sukarnoputra
+Q76179,Megawati Soekarnoputri,sibling,Q49247960,Guntur Soekarnoputra
+Q76179,Megawati Soekarnoputri,sibling,Q64623726,Taufan Sukarnoputra
+Q76179,Megawati Soekarnoputri,spouse,Q19748675,Surindro Supjarso
+Q76179,Megawati Soekarnoputri,spouse,Q4201140,Taufiq Kiemas
+Q76179,Megawati Soekarnoputri,spouse,Q95153926,Hassan Gamal Ahmad Hasan
 Q76354,Jusuf Kalla,child,Q104172719,Muchlisa Kalla
 Q76354,Jusuf Kalla,child,Q104172721,Muswira Kalla
 Q76354,Jusuf Kalla,child,Q104172722,Imelda Kalla
