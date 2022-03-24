@@ -1,8 +1,11 @@
 {
   "name": "Joko Widodo",
   "image": "Joko Widodo 2019 official portrait.jpg",
+  "image_size": "220px",
+  "alt": "Official portrait of Joko Widodo in 2019",
   "caption": "Official portrait, 2019",
-  "office": "7th President of Indonesia",
+  "order": "7th",
+  "office": "President of Indonesia",
   "term_start": "20 October 2014",
   "vicepresident": "Jusuf Kalla (2014–2019) Ma'ruf Amin (2019–present)",
   "predecessor": "Susilo Bambang Yudhoyono",
