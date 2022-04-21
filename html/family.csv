@@ -13,6 +13,7 @@ Q10860301,Syahrul Yasin Limpo,spouse,Q97670113,Ayu Sri Harahap
 Q109541000,Juniwati T. Masjchun S,spouse,Q12497248,Masjchun Sofwan
 Q12470931,Agus Gumiwang Kartasasmita,spouse,Q12495072,Loemongga
 Q12471140,Airlangga Hartarto,child,Q104166536,Adanti
+Q12471140,Airlangga Hartarto,father,Q12485357,Hartarto Sastrosoenarto
 Q12471140,Airlangga Hartarto,spouse,Q104166497,Yanti K. Isfandiary
 Q12477379,Budi Gunawan,child,Q96987994,Mochamad Herviano
 Q12482544,Epyardi Asda,child,Q96989450,Athari Gauthi Ardi
@@ -127,6 +128,7 @@ Q2840640,Alwi Shihab,relative,Q4273048,Najwa Shihab
 Q2840640,Alwi Shihab,sibling,Q55238732,Muhammad Quraish Shihab
 Q2840640,Alwi Shihab,sibling,Q56511458,Ahmad Nizar Shihab
 Q2840640,Alwi Shihab,sibling,Q56524376,Umar Shihab
+Q3107476,Juwono Sudarsono,father,Q25471319,Sudarsono
 Q31174016,Mochamad Hasbi Asyidiki Jayabaya,father,Q25469499,Mulyadi Jayabaya
 Q31174016,Mochamad Hasbi Asyidiki Jayabaya,sibling,Q25465872,Iti Octavia Jayabaya
 Q3234938,Mulan Jameela,child,Q106696637,Safeea Ahmad
@@ -178,6 +180,7 @@ Q4273018,Anang Hermansyah,child,Q106348293,Azriel Akbar Hermansyah
 Q4273018,Anang Hermansyah,child,Q13097978,Aurel Hermansyah
 Q4273018,Anang Hermansyah,spouse,Q4210071,Ashanty
 Q4273018,Anang Hermansyah,spouse,Q4917827,Krisdayanti
+Q4694586,Agum Gumelar,child,Q106977528,Zeke Khaseli
 Q4904525,Biem Benyamin,father,Q818410,Benyamin Sueb
 Q4917827,Krisdayanti,child,Q106348293,Azriel Akbar Hermansyah
 Q4917827,Krisdayanti,child,Q106361229,Kellen Alexander Lemos
