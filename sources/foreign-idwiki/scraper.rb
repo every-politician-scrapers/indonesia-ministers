@@ -17,14 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no img color name kabinet start end].freeze
     end
-
-    def tds
-      noko.css('th,td')
-    end
-
-    def empty?
-      tds[4].text == tds[5].text
-    end
   end
 end
 
