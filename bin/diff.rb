@@ -6,7 +6,7 @@ require 'pry'
 
 # Restrict to only current members
 # TODO: update the SPARQL to include all in the current term instead
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def external
     super.delete_if { |row| row[:end_date] }
   end
