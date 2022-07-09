@@ -2,9 +2,11 @@
   "name": "Sandiaga Uno",
   "office": "13th Minister of Tourism and Creative Economy",
   "term_start": "23 December 2020",
-  "predecessor": "Wishnutama",
   "president": "Joko Widodo",
-  "office1": "Vice Governor of Jakarta",
+  "predecessor": "Wishnutama",
+  "1blankname": "Deputy",
+  "1namedata": "Angela Tanoesoedibjo",
+  "office1": "14th Vice Governor of Jakarta",
   "term_start1": "16 October 2017",
   "term_end1": "18 September 2018",
   "predecessor1": "Djarot Saiful Hidayat",
@@ -15,7 +17,6 @@
   "birth_name": "Sandiaga Salahuddin Uno",
   "occupation": "Businessman\n\nInvestor\n\nPolitician",
   "nationality": "Indonesian",
-  "party": "Gerindra (2019–)",
-  "otherparty": "Gerindra (2015–2018)",
+  "party": "Gerindra (2015–2018, 2019–)",
   "alma_mater": "Wichita State University (BBA) \n\nGeorge Washington University (MBA) \n\nPelita Harapan University (DM)"
 }

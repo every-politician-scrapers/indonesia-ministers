@@ -1,5 +1,4 @@
 {
-  "honorific-prefix": "Police-General (Ret.)",
   "name": "Muhammad Tito Karnavian",
   "imagesize": "200px",
   "office": "29th Minister of Home Affairs",
@@ -28,5 +27,7 @@
   "rank": "PDU JEN.png Police-General",
   "branch": "Insignia of the Indonesian National Police.svg Indonesian National Police",
   "unit": "\"Reserse\" (Crime investigation)",
-  "awards": "\"Adhi Makayasa\" (1987)"
+  "awards": "\"Adhi Makayasa\" (1987)",
+  "honorific_prefix": "Police-General (Ret.) Dato' Paduka Seri",
+  "honorific_suffix": "DPKT PGPP DUBC"
 }

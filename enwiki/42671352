@@ -1,5 +1,4 @@
 {
-  "honorific-prefix": "General (Ret.)",
   "name": "Moeldoko",
   "office1": "3rd Presidential Chief of Staff",
   "president1": "Joko Widodo",
@@ -43,5 +42,7 @@
   "children": "Randy Bimantoro\nJoanina Rachma",
   "alma_mater": "Indonesian Military Academy (AKABRI) - 1981",
   "party": "Independent",
-  "otherparty": "Hanura (2016–2018)"
+  "otherparty": "Hanura (2016–2018)",
+  "honorific_prefix": "General (Ret.) Dato' Paduka Seri",
+  "honorific_suffix": "PGAT PJG DPKT DSO"
 }
