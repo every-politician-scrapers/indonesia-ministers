@@ -1,0 +1,233 @@
+{
+  "title": "Olly Dondokambey",
+  "pageID": 57227124,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "People from Manado",
+    "Indonesian Democratic Party of Struggle politicians",
+    "Governors of North Sulawesi"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Olly Dondokambey (born 18 November 1961) is an Indonesian politician and the governor of North Sulawesi province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Sulawesi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Olly Dondokambey"
+                ]
+              }
+            },
+            {
+              "text": "Dondokambey held the office since 12 February 2016."
+            },
+            {
+              "text": "Before elected governor, he was a representative from North Sulawesi to People's Representative Council of the Republic of Indonesia for two periods serving from 2004 till 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Sulawesi"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Representative Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1961",
+          "month": "11",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Olly Dondokambey"
+          },
+          "image": {
+            "text": "Olly Dondokambey.jpg"
+          },
+          "office": {
+            "text": "12th Governor of North Sulawesi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Sulawesi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 February 2021"
+          },
+          "deputy": {
+            "text": "Steven Kandouw"
+          },
+          "predecessor": {
+            "text": "Edwin Silangen (daily caretaker)"
+          },
+          "term_start1": {
+            "text": "12 February 2016"
+          },
+          "term_end1": {
+            "text": "12 February 2021"
+          },
+          "deputy1": {
+            "text": "Steven Kandouw"
+          },
+          "predecessor1": {
+            "text": "Soni Sumarsono (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Soni Sumarsono"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Edwin Silangen (daily caretaker)"
+          },
+          "birth_date": {
+            "text": "November 18, 1961"
+          },
+          "birth_place": {
+            "text": "Manado, North Sulawesi, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manado"
+              },
+              {
+                "type": "internal",
+                "page": "Indonesia"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Indonesian"
+          },
+          "party": {
+            "text": "Indonesian Democratic Party of Struggle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indonesian Democratic Party of Struggle"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Olly Dondokambey",
+          "url": "https://tirto.id/m/olly-dondokambey-o1",
+          "access-date": "10 July 2020",
+          "website": "tirto.id",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electronic ID Scandal",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2018, he was implicated in the government electronic ID scandal centering around Setya Novanto.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Setya Novanto"
+                }
+              ]
+            },
+            {
+              "text": "Novanto gave a list of names of his co-conspirators to the Corruption Eradication Commission, Dondokambey being included.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Corruption Eradication Commission"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On the 53rd anniversary of the province's establishment in 2017, he inaugurated a new provincial parliament building."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current governors of indonesian provinces"
+        }
+      ]
+    }
+  ]
+}

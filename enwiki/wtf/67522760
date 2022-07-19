@@ -1,0 +1,559 @@
+{
+  "title": "Bahlil Lahadalia",
+  "pageID": 67522760,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Indonesian politicians",
+    "People from Maluku (province)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bahlil Lahadalia (born 7 August 1976) is an Indonesian businessman and politician.",
+              "formatting": {
+                "bold": [
+                  "Bahlil Lahadalia"
+                ]
+              }
+            },
+            {
+              "text": "He has been serving as Minister of Investment since April 2021, dual-hatted as head of the Indonesian Investment Coordinating Board (BKPM), which he had served since October 2019.",
+              "links": [
+                {
+                  "text": "Minister of Investment",
+                  "type": "internal",
+                  "page": "Ministry of Investment (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indonesian Investment Coordinating Board"
+                }
+              ]
+            },
+            {
+              "text": "He has also served as Minister of Energy and Mineral Resources ad interim since 3 February 2022.",
+              "formatting": {
+                "italic": [
+                  "ad interim"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian businessman and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "8",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bahlil Lahadalia"
+          },
+          "birth_date": {
+            "text": "August 7, 1976"
+          },
+          "birth_place": {
+            "text": "Banda Islands, Central Maluku Regency, Maluku, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banda Islands"
+              },
+              {
+                "type": "internal",
+                "page": "Central Maluku Regency"
+              },
+              {
+                "text": "Maluku",
+                "type": "internal",
+                "page": "Maluku (province)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Kepala BKPM Bahlil Lahadalia, 2.jpg"
+          },
+          "nationality": {
+            "text": "Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indonesia"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Investment",
+            "links": [
+              {
+                "text": "Minister of Investment",
+                "type": "internal",
+                "page": "Ministry of Investment (Indonesia)"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "28 April 2021"
+          },
+          "predecessor1": {
+            "text": "Marzuki Usman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marzuki Usman"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Chairman of Indonesia Investment Coordinating Board",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indonesia Investment Coordinating Board"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "23 October 2019"
+          },
+          "predecessor2": {
+            "text": "Thomas Trikasih Lembong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thomas Trikasih Lembong"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Rayda",
+          "first1": "Nivell",
+          "title": "Indonesia's Jokowi announces second Cabinet reshuffle in 4 months",
+          "url": "https://www.channelnewsasia.com/news/asia/indonesia-jokowi-cabinet-reshuffle-investment-ministry-nadiem-14626016",
+          "access-date": "3 May 2021",
+          "publisher": "Channel News Asia",
+          "date": "28 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Hamdani",
+          "first": "Trio",
+          "date": "2022-02-04",
+          "title": "Jokowi Tunjuk Bahlil Lahadalia Jadi Menteri ESDM Ad Interim",
+          "url": "https://finance.detik.com/energi/d-5927745/jokowi-tunjuk-bahlil-lahadalia-jadi-menteri-esdm-ad-interim",
+          "access-date": "2022-02-04",
+          "website": "detikfinance",
+          "language": "id-ID",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Arief",
+          "first": "Tegar",
+          "date": "2022-02-04",
+          "title": "Bahlil Lahadalia Menjabat Menteri ESDM Ad Interim {{!}} Ekonomi",
+          "url": "https://ekonomi.bisnis.com/read/20220204/9/1496643/bahlil-lahadalia-menjabat-menteri-esdm-ad-interim",
+          "access-date": "2022-02-04",
+          "website": "Bisnis.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Kencana",
+          "first": "Maulandy Rizky Bayu",
+          "date": "2022-02-04",
+          "title": "Bahlil Lahadalia Ditunjuk Jadi Menteri ESDM Ad Interim, Arifin Tasrif Isoman",
+          "url": "https://www.liputan6.com/bisnis/read/4877943/bahlil-lahadalia-ditunjuk-jadi-menteri-esdm-ad-interim-arifin-tasrif-isoman",
+          "access-date": "2022-02-04",
+          "website": "liputan6.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in and had most of his education in Maluku, from elementary to junior high school before moving to Fak-Fak,( where his father is from) to take high school.",
+              "links": [
+                {
+                  "text": "Maluku",
+                  "type": "internal",
+                  "page": "Maluku (province)"
+                },
+                {
+                  "text": "Fak-Fak",
+                  "type": "internal",
+                  "page": "Fakfak Regency"
+                }
+              ]
+            },
+            {
+              "text": "He decided to study economics in Jayapura at Port Numbay Economy College, a local private college.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jayapura"
+                }
+              ]
+            },
+            {
+              "text": "However, as he revealed during a guest lecture in University of Brawijaya, he graduated very late at age of 26 years old, as his education was interrupted due to his involvement in the May 1998 riots.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Brawijaya"
+                },
+                {
+                  "text": "May 1998 riots",
+                  "type": "internal",
+                  "page": "May 1998 riots of Indonesia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his time as a student, he was active in the Muslim Students' Association in Papua, and he eventually reached the position of General Treasurer of the National Leadership of the Muslim Students' Association.",
+              "links": [
+                {
+                  "text": "Muslim Students' Association",
+                  "type": "internal",
+                  "page": "Muslim Students' Association (Indonesia)"
+                },
+                {
+                  "text": "Papua",
+                  "type": "internal",
+                  "page": "Papua (province)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Kencana",
+          "first": "Maulandy Rizky Bayu",
+          "date": "2021-04-28",
+          "title": "Profil Bahlil Lahadalia, Mantan Sopir Angkot Kini Jadi Menteri Investasi Pertama Era Jokowi",
+          "url": "https://www.liputan6.com/bisnis/read/4544365/profil-bahlil-lahadalia-mantan-sopir-angkot-kini-jadi-menteri-investasi-pertama-era-jokowi",
+          "access-date": "2022-02-04",
+          "website": "liputan6.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Widyatama",
+          "first": "Agus",
+          "date": "2021-08-23",
+          "title": "Kisah Inspiratif Bahlil Lahadalia, Anak Kuli yang Kini Jabat Menteri Investasi",
+          "url": "https://feb.ub.ac.id/id/kisah-inspiratif-bahlil-lahadalia-anak-kuli-yang-kini-jabat-menteri-investasi.html",
+          "url-status": "live",
+          "access-date": "2011-02-04",
+          "website": "Fakultas Ekonomi dan Bisnis Universitas Brawijaya",
+          "language": "id",
+          "archive-url": "https://web.archive.org/web/20220204073118/https://feb.ub.ac.id/id/kisah-inspiratif-bahlil-lahadalia-anak-kuli-yang-kini-jabat-menteri-investasi.html",
+          "archive-date": "2022-02-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Santoso",
+          "first": "Yusuf Imam",
+          "date": "2021-03-18",
+          "title": "Curhatan Bahlil yang pernah jadi anggota HMI hingga kini jadi Kepala BKPM",
+          "url": "https://nasional.kontan.co.id/news/curhatan-bahlil-yang-pernah-jadi-anggota-hmi-hingga-kini-jadi-kepala-bkpm",
+          "access-date": "2022-02-04",
+          "website": "kontan.co.id",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Sophanudin",
+          "first": "Agus",
+          "date": "2021-04-28",
+          "title": "Pernah Jabat Bendum PB HMI Sampai Menteri Investasi, Ini Kisah Bahlil Lahadalia",
+          "url": "https://pasundannews.com/pernah-jabat-bendum-pb-hmi-sampai-menteri-investasi-ini-kisah-bahlil-lahadilia/",
+          "access-date": "2022-02-04",
+          "website": "PASUNDANNEWS",
+          "language": "id-ID",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early and businesses careers",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "His first job was as a cake seller when he was a pre-teen."
+            },
+            {
+              "text": "He later became a bus conductor when he was just a teenager, and eventually became a public transportation driver when he was in senior high school.",
+              "links": [
+                {
+                  "text": "bus conductor",
+                  "type": "internal",
+                  "page": "bus conductor"
+                }
+              ]
+            },
+            {
+              "text": "Years later, after he had graduated from Port Numbay, he was hired as a worker of Sucofindo, a state-run company.",
+              "links": [
+                {
+                  "text": "Sucofindo",
+                  "type": "internal",
+                  "page": ":id:Sucofindo"
+                }
+              ]
+            },
+            {
+              "text": "With his friends, he later founded three companies named PT Rifa Capital, PT Bersama Papua Unggul, and PT Dwijati Sukses."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He owns PT Rifa Capital Holding Company and 10 other companies, and is active mostly in the transportation and property sectors."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a former chairman of the Indonesian Young Entrepreneurs Association."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a businessman, at some point in time, he met Joko Widodo who was a fellow businessman at that time and befriended him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joko Widodo"
+                }
+              ]
+            },
+            {
+              "text": "The friendship they shared was very close to the point Joko Widodo himself considered him a brother."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Putri",
+          "first": "Winda Destiana",
+          "date": "2019-10-23",
+          "title": "Dipanggil Jokowi ke Istana, Ini Gurita Bisnis Eks Sopir Angkot yang Dulu Busung Lapar",
+          "url": "https://lifepal.co.id/media/bahlil-lahadalia-punya-bisnis-yang-menggurita/",
+          "access-date": "2022-02-04",
+          "website": "Lifepal Media",
+          "language": "id-ID",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Profil Bahlil Lahandalia",
+          "url": "https://bisnis.tempo.co/read/1457148/akan-dilantik-jadi-menteri-investasi-begini-rekam-jejak-bahlil-lahadalia/full&view=ok",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Farisa",
+          "first": "Fitria Chusna",
+          "date": "2021-04-28",
+          "title": "Profil Bahlil Lahadalia: dari Sopir Angkot, Kepala BKPM, Kini Menteri Investasi",
+          "url": "https://nasional.kompas.com/read/2021/04/28/15412291/profil-bahlil-lahadalia-dari-sopir-angkot-kepala-bkpm-kini-menteri-investasi",
+          "access-date": "2022-02-04",
+          "website": "KOMPAS.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Egeham",
+          "first": "Lizsa",
+          "title": "Jadi Menteri Jokowi, Bahlil Lahadalia: Saya dari Papua Barat",
+          "website": "liputan6.com",
+          "date": "2019-10-23",
+          "url": "https://www.liputan6.com/news/read/4093170/jadi-menteri-jokowi-bahlil-lahadalia-saya-dari-papua-barat",
+          "language": "id",
+          "access-date": "2021-05-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governmental careers",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During 2019 Indonesian presidential election, Lahadalia supported Joko Widodo for his run for second term of his presidency.",
+              "links": [
+                {
+                  "text": "2019 Indonesian presidential election",
+                  "type": "internal",
+                  "page": "2019 Indonesian general election"
+                }
+              ]
+            },
+            {
+              "text": "He became Director of Directorate for Young Voters Raiser of the Joko Widodo - Ma'ruf Amin presidential campaign team, National Campaign Team of the Working Indonesia Coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ma'ruf Amin"
+                },
+                {
+                  "text": "presidential campaign team",
+                  "type": "internal",
+                  "page": "Joko Widodo 2019 presidential campaign"
+                }
+              ]
+            },
+            {
+              "text": "For his work for Joko Widodo campaign in defending his presidency, in October 2019, he was appointed head of BKPM (Indonesian: Badan Koordinasi Penanaman Modal, English: Indonesia Investment Coordinating Board).",
+              "formatting": {
+                "italic": [
+                  "Badan Koordinasi Penanaman Modal"
+                ]
+              }
+            },
+            {
+              "text": "He was sworn in as Indonesia's first minister of investment on 28 April 2021, following the creation of the Ministry of Investment.",
+              "links": [
+                {
+                  "text": "Ministry of Investment",
+                  "type": "internal",
+                  "page": "Ministry of Investment (Indonesia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 4 February 2022, Arifin Tasrif, the Minister of Energy and Mineral Resources suddenly replaced with Lahadalia as ad interim minister for undisclosed health-related issue reason.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arifin Tasrif"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ad interim"
+                ]
+              }
+            },
+            {
+              "text": "The change is effective from 3 February 2022."
+            },
+            {
+              "text": "It later revealed that Tasrif is infected with COVID-19, and the change of the ministry is just temporary."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Maulaa",
+          "first": "Mahbub Ridhoo",
+          "title": "Profil Bahlil Lahadalia, Pikul Kelapa untuk Sekolah hingga Jadi Menteri Investasi - Pikiran-Rakyat.com",
+          "url": "https://www.pikiran-rakyat.com/nasional/pr-011840955/profil-bahlil-lahadalia-pikul-kelapa-untuk-sekolah-hingga-jadi-menteri-investasi",
+          "access-date": "2021-04-28",
+          "website": "www.pikiran-rakyat.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Farisa",
+          "first1": "Fitria Chusna",
+          "title": "Profil Bahlil Lahadalia: dari Sopir Angkot, Kepala BKPM, Kini Menteri Investasi",
+          "url": "https://nasional.kompas.com/read/2021/04/28/15412291/profil-bahlil-lahadalia-dari-sopir-angkot-kepala-bkpm-kini-menteri-investasi?page=all.",
+          "access-date": "3 May 2021",
+          "publisher": "Kompas.com",
+          "date": "28 April 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Refereneces",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Indonesia",
+            "Business",
+            "Politics",
+            "Society"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "title": "Sahbirin Noor",
+  "pageID": 53355249,
+  "categories": [
+    "Governors of South Kalimantan",
+    "Indonesian Muslims",
+    "Living people",
+    "People from Banjarmasin",
+    "1967 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sahbirin Noor is an Indonesian politician and current the governor of South Kalimantan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Kalimantan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sahbirin Noor"
+                ]
+              }
+            },
+            {
+              "text": "He vice governor Rudy Resnawan rebounded after having initially looked poised to lose the gubernatorial election in 2015."
+            },
+            {
+              "text": "Noor has taken the initiative to rehabilitate about sixty-thousand hectares of degraded land in the province."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sahbirin Noor"
+          },
+          "image": {
+            "text": "Sahbirin Noor.png"
+          },
+          "office": {
+            "text": "Governor of South Kalimantan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Kalimantan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 February 2016"
+          },
+          "president": {
+            "text": "Joko Widodo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joko Widodo"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Rudy Resnawan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rudy Resnawan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Tarmizi Abdul Karim"
+          },
+          "birth_date": {
+            "text": "12 November 1967"
+          },
+          "birth_place": {
+            "text": "Banjarmasin, South Kalimantan, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banjarmasin"
+              },
+              {
+                "type": "internal",
+                "page": "Indonesia"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Indonesian"
+          },
+          "spouse": {
+            "text": "Hj. Raudatul Jannah, SKM"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "indonesia-stub"
+        },
+        {
+          "template": "current governors of indonesian provinces"
+        }
+      ]
+    }
+  ]
+}

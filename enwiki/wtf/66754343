@@ -1,0 +1,207 @@
+{
+  "title": "I Gusti Ayu Bintang Darmawati",
+  "pageID": 66754343,
+  "categories": [
+    "Living people",
+    "1968 births",
+    "Place of birth missing (living people)",
+    "21st-century Indonesian politicians",
+    "Women government ministers of Indonesia",
+    "Onward Indonesia Cabinet",
+    "Balinese people",
+    "21st-century Indonesian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "I Gusti Ayu Bintang Darmawati (born 24 November 1968) is an Indonesian politician.",
+              "formatting": {
+                "bold": [
+                  "I Gusti Ayu Bintang Darmawati"
+                ]
+              }
+            },
+            {
+              "text": "She is also known as Bintang Puspayoga as she is married to Indonesian politician Anak Agung Gede Ngurah Puspayoga.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anak Agung Gede Ngurah Puspayoga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bintang Puspayoga"
+                ]
+              }
+            },
+            {
+              "text": ", she serves as Minister of Women Empowerment and Child Protection in the 41st Cabinet of Indonesia.",
+              "links": [
+                {
+                  "text": "Minister of Women Empowerment and Child Protection",
+                  "type": "internal",
+                  "page": "Ministry of Women Empowerment and Child Protection"
+                },
+                {
+                  "text": "41st Cabinet of Indonesia",
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1968",
+          "month": "11",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2019",
+            "10",
+            "23"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "I Gusti Ayu Bintang Darmawati"
+          },
+          "image": {
+            "text": "KIM Gusti Ayu Bintang Darmawati.jpg"
+          },
+          "office": {
+            "text": "Minister of Women Empowerment and Child Protection",
+            "links": [
+              {
+                "text": "Minister of Women Empowerment and Child Protection",
+                "type": "internal",
+                "page": "Ministry of Women Empowerment and Child Protection"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 October 2019"
+          },
+          "predecessor": {
+            "text": "Yohana Yembise",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yohana Yembise"
+              }
+            ]
+          },
+          "party": {
+            "text": "Indonesian Democratic Party of Struggle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indonesian Democratic Party of Struggle"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anak Agung Gede Ngurah Puspayoga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anak Agung Gede Ngurah Puspayoga"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 24, 1968"
+          },
+          "birth_place": {
+            "text": "Denpasar, Bali, Indonesia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denpasar"
+              },
+              {
+                "type": "internal",
+                "page": "Bali"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "23 October 2019",
+          "title": "BREAKING: Jokowi announces his new Cabinet. Here's the line up",
+          "work": "The Jakarta Post",
+          "url": "https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "url-status": "live",
+          "access-date": "12 September 2020",
+          "archive-url": "https://web.archive.org/web/20200607083117/https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "archive-date": "7 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "15 January 2021",
+          "title": "Women an important force in COVID-19 handling: minister",
+          "work": "Antara News",
+          "url": "https://en.antaranews.com/news/165980/women-an-important-force-in-covid-19-handling-minister",
+          "url-status": "live",
+          "access-date": "14 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Yohana Yembise",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Women Empowerment and Child Protection",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

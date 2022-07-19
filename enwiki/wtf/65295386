@@ -1,0 +1,244 @@
+{
+  "title": "Ida Fauziyah",
+  "pageID": 65295386,
+  "categories": [
+    "Living people",
+    "1969 births",
+    "Place of birth missing (living people)",
+    "21st-century Indonesian politicians",
+    "Onward Indonesia Cabinet",
+    "National Awakening Party politicians",
+    "Women government ministers of Indonesia",
+    "21st-century Indonesian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ida Fauziyah (born 17 July 1969) is an Indonesian politician.",
+              "formatting": {
+                "bold": [
+                  "Ida Fauziyah"
+                ]
+              }
+            },
+            {
+              "text": ", she serves as Minister of Manpower in the 41st Cabinet of Indonesia.",
+              "links": [
+                {
+                  "text": "Minister of Manpower",
+                  "type": "internal",
+                  "page": "Ministry of Manpower (Indonesia)"
+                },
+                {
+                  "text": "41st Cabinet of Indonesia",
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "She is affiliated with the National Awakening Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Awakening Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Indonesian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1969",
+          "month": "7",
+          "day": "17",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2019",
+            "10",
+            "23"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ida Fauziyah"
+          },
+          "image": {
+            "text": "Ida Fauziyah.jpg"
+          },
+          "office": {
+            "text": "Minister of Manpower",
+            "links": [
+              {
+                "text": "Minister of Manpower",
+                "type": "internal",
+                "page": "Ministry of Manpower (Indonesia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 October 2019"
+          },
+          "predecessor": {
+            "text": "Muhammad Hanif Dhakiri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Hanif Dhakiri"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Awakening Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Awakening Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 17, 1969"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Biography",
+          "url": "https://kemnaker.go.id/unit/biography/menaker",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200912145739/https://kemnaker.go.id/unit/biography/menaker",
+          "archive-date": "12 September 2020",
+          "access-date": "12 September 2020",
+          "website": "Ministry of Manpower",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "23 October 2019",
+          "title": "BREAKING: Jokowi announces his new Cabinet. Here’s the line up",
+          "work": "The Jakarta Post",
+          "url": "https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "url-status": "live",
+          "access-date": "12 September 2020",
+          "archive-url": "https://web.archive.org/web/20200607083117/https://www.thejakartapost.com/news/2019/10/23/breaking-jokowis-new-cabinet-announced-here-is-the-lineup.html",
+          "archive-date": "7 June 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Health",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 3 December 2020, Ida was tested positive for COVID-19.",
+              "links": [
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Indonesia"
+                }
+              ]
+            },
+            {
+              "text": "She was the fourth minister in the Onward Indonesia Cabinet to be declared COVID-19 positive after Minister of Transportation Budi Karya Sumadi, Minister of Maritime Affairs and Fisheries Edhy Prabowo (resigned due to corruption), and Minister of Religion Affairs Fachrul Razi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Onward Indonesia Cabinet"
+                },
+                {
+                  "text": "Minister of Transportation",
+                  "type": "internal",
+                  "page": "Ministry of Transportation (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Budi Karya Sumadi"
+                },
+                {
+                  "text": "Minister of Maritime Affairs and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Maritime Affairs and Fisheries (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edhy Prabowo"
+                },
+                {
+                  "text": "Minister of Religion Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Religious Affairs (Indonesia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fachrul Razi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Menaker Ida Fauziyah Positif Terpapar COVID-19",
+          "url": "https://www.cnnindonesia.com/ekonomi/20201203154948-532-577613/menaker-ida-fauziyah-positif-terpapar-covid-19",
+          "access-date": "3 December 2020",
+          "date": "3 December 2020",
+          "work": "CNN Indonesia",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "3 December 2020",
+          "title": "Indonesia's manpower minister tests positive for COVID-19",
+          "work": "Xinhuanet",
+          "url": "http://www.xinhuanet.com/english/2020-12/03/c_139561462.htm",
+          "url-status": "live",
+          "access-date": "5 December 2020",
+          "archive-url": "https://web.archive.org/web/20201205195227/http://www.xinhuanet.com/english/2020-12/03/c_139561462.htm",
+          "archive-date": "5 December 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "indonesia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
