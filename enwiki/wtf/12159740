@@ -186,17 +186,23 @@
               }
             ]
           },
-          "order3": {
-            "text": "2nd"
-          },
           "office3": {
-            "text": "Rector (academia)"
+            "text": "Rector of Paramadina University",
+            "links": [
+              {
+                "text": "Rector",
+                "type": "internal",
+                "page": "Rector (academia)"
+              }
+            ]
           },
           "term_start3": {
-            "text": "15 May 2007"
+            "text": "2007",
+            "number": 2007
           },
           "term_end3": {
-            "text": "6 January 2015"
+            "text": "2015",
+            "number": 2015
           },
           "predecessor3": {
             "text": "Nurcholish Madjid",
@@ -338,14 +344,13 @@
           "access-date": "6 January 2021",
           "work": "BBC News Indonesia",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "title": "Jokowi Lantik Anies-Sandi, Sah Jakarta Punya Gubernur-Wagub Baru",
           "url": "https://nasional.kompas.com/read/2017/10/16/16162801/jokowi-lantik-anies-sandi-sah-jakarta-punya-gubernur-wagub-baru?page=all",
           "access-date": "6 January 2021",
           "work": "Kompas Media",
-          "date": "16 October 2017",
           "template": "citation",
           "type": "web"
         }
@@ -714,7 +719,7 @@
               ]
             },
             {
-              "text": "In December 2011, he also served in a panel to select potential members of the General Election Commission."
+              "text": "On December 2011, he also served in a panel to select potential members of the General Election Commission."
             }
           ]
         },
@@ -850,7 +855,7 @@
               ]
             },
             {
-              "text": "The transition team was intended to prepare the cabinet and perfect the program prior to the official appointment of Joko Widodo, and Jusuf Kalla as president and Vice President.",
+              "text": "The transition team was intended to prepare the cabinet and perfect the program prior to the official appointment of Joko Widodo, and Jusuf Kalla as President and Vice President.",
               "links": [
                 {
                   "type": "internal",
@@ -1001,10 +1006,9 @@
         {
           "date": "2016-08-30",
           "title": "Memajukan Pendidikan & Kebudayaan Indonesia {{!}} Mendikbud: Nilai UN Tak Hanya Berupa Angka, Ada Penjelasannya!",
-          "url": "http://lipsus.kompas.com/kemdikbud/read/2015/04/20/17362261/Mendikbud.Nilai.UN.Tak.Hanya.Berupa.Angka.Ada.Penjelasannya.",
+          "url": "https://web.archive.org/web/20160830011727/http://lipsus.kompas.com/kemdikbud/read/2015/04/20/17362261/Mendikbud.Nilai.UN.Tak.Hanya.Berupa.Angka.Ada.Penjelasannya.",
           "access-date": "2021-10-03",
-          "archive-url": "https://web.archive.org/web/20160830011727/http://lipsus.kompas.com/kemdikbud/read/2015/04/20/17362261/Mendikbud.Nilai.UN.Tak.Hanya.Berupa.Angka.Ada.Penjelasannya.",
-          "archive-date": "30 August 2016",
+          "website": "web.archive.org",
           "template": "citation",
           "type": "web"
         },
@@ -1060,7 +1064,7 @@
               "text": "On 19 April 2017 Baswedan won the runoff election, with approximately 58% of the votes, ahead of Ahok's 42%."
             },
             {
-              "text": "In September 2017, it was announced that Anies' program will have an OK Trip for TransJakarta."
+              "text": "On September 2017, it was announced that Anies' program will have an OK Trip for TransJakarta."
             },
             {
               "text": "He was officially inaugurated as governor on 16 October 2017, replacing interim governor Djarot Saiful Hidayat.",
@@ -1139,6 +1143,123 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Controversies",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During his tenure as Governor of Jakarta, Baswedan attracted numerous controversies for his public statements."
+            },
+            {
+              "text": "During his inaguration speech in 2017, he stated \"pribumi\" which was prohibited words on law."
+            },
+            {
+              "text": "In 2018, he stated that water from rainfall must be returned to Earth, as the Lord wills, instead of being flowed out to the sea."
+            },
+            {
+              "text": "He echoed similar remarks during his campaign for governorship on 2017."
+            },
+            {
+              "text": "His policies regarding building permits on reclaimed land on the north of Jakarta and demolishing slums without permits have run contrary to his campaign promises in 2017."
+            },
+            {
+              "text": "He also gained more controversy due to the mistake city officials made during the budgeting process, resulting in highly inflated prices such as Aibon glue that costs around 82 billion rupiah (around $6 million dollars).",
+              "links": [
+                {
+                  "text": "rupiah",
+                  "type": "internal",
+                  "page": "rupiah"
+                }
+              ]
+            },
+            {
+              "text": "During his tenure, the city gave an award to Colosseum Club 1001, a nightclub in Kuningan, Jakarta."
+            },
+            {
+              "text": "This award was later revoked when it was found that the club had numerous issues with drugs and narcotics."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Komara",
+          "first": "Indra",
+          "title": "Anies: Jika Air Hujan Masuk ke Tanah, Insyaallah Tak Ada Banjir",
+          "url": "https://news.detik.com/berita/d-4309249/anies-jika-air-hujan-masuk-ke-tanah-insyaallah-tak-ada-banjir",
+          "access-date": "2020-02-26",
+          "website": "detiknews",
+          "language": "id-ID",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kejamnya Jejak Digital, Video Anies Baswedan Soal Air Turun dari Langit Tak Boleh Dialirkan ke Laut Kembali Viral dan Tuai Protes Karena Dianggap Plin-plan: Jakarta Telah Mengambil Keputusan yang Fatal! - Semua Halaman - Grid.ID",
+          "url": "https://www.grid.id/read/041974570/kejamnya-jejak-digital-video-anies-baswedan-soal-air-turun-dari-langit-tak-boleh-dialirkan-ke-laut-kembali-viral-dan-tuai-protes-karena-dianggap-plin-plan-jakarta-te",
+          "access-date": "2020-02-26",
+          "website": "grid.id",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Media",
+          "first": "Kompas Cyber",
+          "title": "Terbitkan IMB di Pulau Reklamasi, Anies Klaim Tak Ingkar Janji",
+          "url": "https://megapolitan.kompas.com/read/2019/07/02/06564041/terbitkan-imb-di-pulau-reklamasi-anies-klaim-tak-ingkar-janji",
+          "access-date": "2020-02-26",
+          "website": "KOMPAS.com",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dulu Anies Bilang Tak Menggusur, Kini Gusur Bangunan di Sunter {{!}} Jakarta",
+          "url": "https://jakarta.bisnis.com/read/20191119/77/1171795/dulu-anies-bilang-tak-menggusur-kini-gusur-bangunan-di-sunter",
+          "access-date": "2020-02-26",
+          "website": "Bisnis.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Franedya",
+          "first": "Roy",
+          "title": "Lem Aibon Rp 82 M, E-Budgeting Versi Ahok dan Anies Baswedan",
+          "url": "https://www.cnbcindonesia.com/tech/20191101060024-37-111868/lem-aibon-rp-82-m-e-budgeting-versi-ahok-dan-anies-baswedan",
+          "access-date": "2020-02-26",
+          "website": "tech",
+          "language": "id-ID",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Murti",
+          "first": "Markus Wisnu",
+          "date": "2019-12-16",
+          "title": "Anies Baswedan Annuls Award to Colosseum After FPI Protest",
+          "url": "https://en.tempo.co/read/1284411/anies-baswedan-annuls-award-to-colosseum-after-fpi-protest",
+          "access-date": "2020-02-26",
+          "website": "Tempo",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1537,13 +1658,311 @@
       ]
     },
     {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "National"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Harian Rakyat Merdeka presented The Golden Awards in commemoration of this daily's 14th Anniversary in June 2013."
+            },
+            {
+              "text": "Anies was chosen for his inspiration in the field of education through the Indonesian Teaching Movement."
+            },
+            {
+              "text": "Apart from Anies, the figures who received this award were Johan Budi SP (Spokesperson for the KPK) and Ignasius Jonan (President Director of PT KAI).[91] In August 2013, Anies Baswedan received the National Integrity Award from the Anti-Bribery Entrepreneurs Community (Kupas) and the Indonesian Chamber of Commerce and Industry (Kadin)."
+            },
+            {
+              "text": "This assessment is based on a survey conducted in 2012 on public perceptions of a number of national figures."
+            },
+            {
+              "text": "Anies was elected along with several other figures such as Komaruddin Hidayat, Abraham Samad, and Mahfud MD. According to the Head of Peeling, Ai Mulyadi Mamoer, those who were elected were those who were honest, responsible, visionary, disciplined, able to work together, fairly and cared."
+            },
+            {
+              "text": "Dompet Dhuafa gave the Dompet Dhuafa Award 2013 to Anies Baswedan in July 2013."
+            },
+            {
+              "text": "This award is given to figures who are considered to have inspired virtue for the community and contributed to the nation."
+            },
+            {
+              "text": "Anies Baswedan received an award in the education category."
+            },
+            {
+              "text": "He was chosen because of his efforts to fulfill the promise of independence in the field of education through the Indonesian Teaching Movement."
+            },
+            {
+              "text": "Apart from Anies Baswedan, several prominent figures received this award, including Jusuf Kalla (Former Vice President), Warsito Purwo (General Chair of the Indonesian Society and Technological Scientist), and Irma Suryati (activator for people with disabilities).[93] Anies Baswedan also received the Inspirational Figure award at the Indonesian Literature Day Award."
+            },
+            {
+              "text": "This award was given during the celebration of National Literature Day on July 3, 2013 at the Language Center Cultural Center, Rawamangun, Jakarta."
+            },
+            {
+              "text": "Anies received an award in the category of inspirational figure."
+            },
+            {
+              "text": "Anies is considered to have a track record and concern in fighting for progress for Indonesia"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "International"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gerald Maryanov Award"
+            },
+            {
+              "text": "In 2004 Anies Baswedan received the Gerald Maryanov Fellow award from the Department of Political Science at Northern Illinois University."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "World's 100 Public Intellectuals"
+            },
+            {
+              "text": "In 2008 Foreign Policy Magazine included Anies Baswedan in the 100 World Public Intellectuals."
+            },
+            {
+              "text": "Anies is the only Indonesian on the list of the magazine's releases."
+            },
+            {
+              "text": "In the list, Anies' name is in line with world figures such as Noam Chomsky (a peace figure), Nobel laureates such as Shirin Ebadi, Al Gore, Muhammad Yunus, and Amartya Sen."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Young Global Leaders"
+            },
+            {
+              "text": "Anies Baswedan's leadership spirit also bore fruit with the presence of Anies' name in one of the Young Global Leaders in February 2009 given by the World Economic Forum."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "20 People Who Changed the World"
+            },
+            {
+              "text": "Two years later, after being awarded the 100 World Public Intellectuals, in April 2010, Anies Baswedan was selected as one of 20 figures who will bring about world change for the next 20 years from the Foresight magazine published in Japan."
+            },
+            {
+              "text": "In the special issue of “20 people 20 years old”, this Magazine features 20 figures who are expected to attract worldwide attention."
+            },
+            {
+              "text": "They will play a role in changing the world in the next two decades."
+            },
+            {
+              "text": "According to the magazine, Anies Baswedan is considered as one of Indonesia's future leaders."
+            },
+            {
+              "text": "Anies name is side by side with Vladimir Putin (Russian Prime Minister), Hugo Chavez (Former President of Venezuela), David Miliband (British Foreign Minister), Rahul Gandi (Secretary General of the Indian National Congress India), and Paul Ryan (young Republican politician and member of the House of Representatives)."
+            },
+            {
+              "text": "of Representatives USA)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "PASIAD Education Award"
+            },
+            {
+              "text": "Anies Baswedan received an award from The Association of Social and Economic Solidarity with Pacific Countries (PASIAD) in the Education category from the Turkish Government in 2010."
+            },
+            {
+              "text": "This award is given to teachers, students and individuals who have contributed to the world of education."
+            },
+            {
+              "text": "Anies Baswedan received this award for making the best young people to teach in remote areas far from access to education through the Indonesia Mengajar program."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nakasone Yasuhiro Award"
+            },
+            {
+              "text": "Anies Baswedan received Nakasone Yasuhiro in June 2010."
+            },
+            {
+              "text": "This award was given directly by the Former Prime Minister of Japan, Yasuhiro Nakasone."
+            },
+            {
+              "text": "This award is given to visionaries who bring about change and have the power to break through, in order to achieve a brighter 21st century."
+            },
+            {
+              "text": "Anies is considered to be one of these visionary figures."
+            },
+            {
+              "text": "Only a few people from Indonesia have ever received this prestigious award, such as Rizal Sukma (CSIS Researcher) and Wayan Karna (Dean of ISI Denpasar)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "500 Influential Muslims in the World"
+            },
+            {
+              "text": "The award received by Anies Baswedan was also present from the Middle East region."
+            },
+            {
+              "text": "The Royal Islamic Strategic Studies Center, Jordan, included Anies' name in the list of The 500 Most Influential Muslims in July 2010."
+            },
+            {
+              "text": "This award is given to the 500 most influential Muslim figures in the world."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Honors"
+            },
+            {
+              "text": "Non-Governmental Organizations and others:"
+            },
+            {
+              "text": "Brother by Betawi Deliberative Body — 2017[98]"
+            },
+            {
+              "text": "Main Leader of Betawi Culture by Betawi Deliberative Body — 2021[99]"
+            },
+            {
+              "text": "United Development Figures by the Regional Leadership Council of the United Development Party for the Province of the Special Capital Region of Jakarta — 2022"
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "No": {
+              "text": "1",
+              "number": 1
+            },
+            "Award from": {
+              "text": "Transformative Urban Mobility Initiative (TUMI) TUMI is a German non-profit organization that promotes sustainable urban transport policy initiatives around the world."
+            },
+            "Award category / Award name": {
+              "text": "21 Heroes 2021"
+            },
+            "Award Information": {
+              "text": "\"21 Heroes 2021\" honors those who achieved transport success in 2020, despite the historic challenges faced, and laid the groundwork for even more successful and sustainable mobility initiatives in 2021."
+            }
+          },
+          {
+            "No": {
+              "text": "2",
+              "number": 2
+            },
+            "Award from": {
+              "text": "Institute for Transportation and Development Policy (ITDP) ITDP is a nonprofit organization headquartered in New York City with offices in Brazil, China, India, Indonesia, Kenya, Mexico, and the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institute for Transportation and Development Policy"
+                },
+                {
+                  "type": "internal",
+                  "page": "New York City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                },
+                {
+                  "type": "internal",
+                  "page": "India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indonesia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mexico"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            "Award category / Award name": {
+              "text": "Jakarta is the winner of the Sustainable Transport Award 2021"
+            },
+            "Award Information": {
+              "text": "The city has taken concrete steps to shift its car-oriented city planning paradigm and provide seamless mobility through the Jak Lingko scheme, an interconnected transit trip for the passenger.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jak Lingko"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Jak Lingko"
+                ]
+              }
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.transformative-mobility.org/publications/21heroes2021",
+          "title": "21Heroes2021",
+          "website": "www.transformative-mobility.org",
+          "access-date": "2 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://staward.org/winners/2021-jakarta-indonesia/",
+          "title": "2021: Jakarta, Indonesia",
+          "website": "www.staward.org",
+          "access-date": "2 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Works",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Baswedan's publications include \"Political Islam in Indonesia: Present and Future Trajectory,\" Asian Survey, a Bimonthly Review of Contemporary Asian Affairs published by University of California, Berkeley, Indonesian Politics in 2007: The Presidency, Local Elections and The Future of Democracy published by BIES, Australian National University and numerous op-ed articles in leading newspapers and magazines in Indonesia.",
+              "text": "Baswedan’s publications include \"Political Islam in Indonesia: Present and Future Trajectory,\" Asian Survey, a Bimonthly Review of Contemporary Asian Affairs published by University of California, Berkeley, Indonesian Politics in 2007: The Presidency, Local Elections and The Future of Democracy published by BIES, Australian National University and numerous op-ed articles in leading newspapers and magazines in Indonesia.",
               "links": [
                 {
                   "type": "internal",
@@ -1692,7 +2111,7 @@
               ]
             },
             {
-              "text": "He is also the first cousin of corruption investigator Novel Baswedan, who was injured in an acid attack in 2017.",
+              "text": "He is also the first cousin of corruption investogator Novel Baswedan, who was injured in an acid attack in 2017.",
               "links": [
                 {
                   "text": "first cousin",
