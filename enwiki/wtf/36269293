@@ -180,7 +180,21 @@
             "text": "Atalia Praratya (m. 7 December 1996)"
           },
           "children": {
-            "text": "3 (1 adopted)"
+            "text": "3 (1 adopted; including Emmeril Kahn Mumtadz (1999–2022), who died at Aare River in Bern, Switzerland on 26 May 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aare River"
+              },
+              {
+                "type": "internal",
+                "page": "Bern"
+              },
+              {
+                "type": "internal",
+                "page": "Switzerland"
+              }
+            ]
           },
           "parents": {
             "text": "Atje Misbach Muhjiddin Tjutju Sukaesih"
