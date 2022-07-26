@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Commander of Army Strategic Command (Indonesia)"
+      ],
+      "stated_as": "Commander of Army Strategic Command"
+    },
+    "P580": "2015-07-31",
+    "P1365": {
+      "links": [
+        "Lieutenant General",
+        "Mulyono"
+      ],
+      "stated_as": "Lieutenant General Mulyono"
+    },
+    "P582": "2018-01-04",
+    "P1366": {
+      "links": [
+        "Lieutenant General",
+        ":id:Agus Kriswanto"
+      ],
+      "stated_as": "Lieutenant General Agus Kriswanto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Football Association of Indonesia"
+      ],
+      "stated_as": "Chairman of PSSI"
+    },
+    "P580": "2016-11-10",
+    "P1365": {
+      "links": [
+        "La Nyalla Matalitti"
+      ],
+      "stated_as": "La Nyalla Matalitti"
+    },
+    "P582": "2019-01-20",
+    "P1366": {
+      "links": [
+        ":id:Joko Driyono"
+      ],
+      "stated_as": "Joko Driyono (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of North Sumatra"
+      ],
+      "stated_as": "Governor of North Sumatra"
+    },
+    "P580": "2018-09-05",
+    "P1365": {
+      "links": [
+        "Tengku Erry Nuradi"
+      ],
+      "stated_as": "Tengku Erry Nuradi"
+    }
+  }
+]

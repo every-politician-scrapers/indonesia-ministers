@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Indonesia Investment Coordinating Board"
+      ],
+      "stated_as": "Chairman of Indonesia Investment Coordinating Board"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Thomas Trikasih Lembong"
+      ],
+      "stated_as": "Thomas Trikasih Lembong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Investment (Indonesia)"
+      ],
+      "stated_as": "Minister of Investment"
+    },
+    "P580": "2021-04-28",
+    "P1365": {
+      "links": [
+        "Marzuki Usman"
+      ],
+      "stated_as": "Marzuki Usman"
+    }
+  }
+]

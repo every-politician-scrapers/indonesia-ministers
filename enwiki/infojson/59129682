@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+        "Commander of Army Strategic Command (Indonesia)"
+      ],
+      "stated_as": "39th Commander of Army Strategic Command"
+    },
+    "P580": "2018-07-14",
+    "P1365": {
+      "links": [
+        "Lieutenant General",
+        ":id:Agus Kriswanto"
+      ],
+      "stated_as": "Lieutenant General Agus Kriswanto"
+    },
+    "P582": "2018-11-29",
+    "P1366": {
+      "links": [
+        "Lieutenant General",
+        ":id:Besar Harto Karyawan"
+      ],
+      "stated_as": "Lieutenant General Besar Harto Karyawan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Staff of the Indonesian Army"
+      ],
+      "stated_as": "32nd Chief of Staff of the Army"
+    },
+    "P580": "2018-11-22",
+    "P1365": {
+      "links": [
+        "General",
+        "Mulyono"
+      ],
+      "stated_as": "General Mulyono"
+    },
+    "P582": "2021-11-17",
+    "P1366": {
+      "links": [
+        "General",
+        "Dudung Abdurachman"
+      ],
+      "stated_as": "General Dudung Abdurachman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Commander of the Indonesian National Armed Forces"
+      ],
+      "stated_as": "21st Commander of the National Armed Forces"
+    },
+    "P580": "2021-11-17",
+    "P1365": {
+      "links": [
+        "Air Chief Marshall",
+        "Hadi Tjahjanto"
+      ],
+      "stated_as": "ACM Hadi Tjahjanto"
+    }
+  }
+]

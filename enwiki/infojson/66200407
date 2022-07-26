@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rembang Regency"
+      ],
+      "stated_as": "Deputy Regent of Rembang"
+    },
+    "P580": "2005",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nasirul Mahasin"
+    },
+    "P582": "2010",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Abdul Hafidz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2015-01-27",
+    "P1365": {
+      "links": [
+        "Muhammad Hanif Dhakiri"
+      ],
+      "stated_as": "Muhammad Hanif Dhakiri"
+    },
+    "P582": "2020-12-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ansor Youth Movement"
+      ],
+      "stated_as": "General Chairman of GP Ansor"
+    },
+    "P580": "2015-11-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nusron Wahid"
+    },
+    "P582": "2020-12-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Religious Affairs (Indonesia)"
+      ],
+      "stated_as": "24th Minister of Religious Affairs"
+    },
+    "P580": "2020-12-23",
+    "P1365": {
+      "links": [
+        "Fachrul Razi"
+      ],
+      "stated_as": "Fachrul Razi"
+    }
+  }
+]

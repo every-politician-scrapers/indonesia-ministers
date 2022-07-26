@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rector (academia)"
+      ],
+      "stated_as": "Rector of Paramadina University"
+    },
+    "P580": "2007",
+    "P1365": {
+      "links": [
+        "Nurcholish Madjid"
+      ],
+      "stated_as": "Nurcholish Madjid"
+    },
+    "P582": "2015",
+    "P1366": {
+      "links": [
+        "Firmanzah"
+      ],
+      "stated_as": "Firmanzah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Culture of Indonesia"
+    },
+    "P1545": "27",
+    "P580": "2014-10-27",
+    "P1365": {
+      "links": [
+        "Muhammad Nuh"
+      ],
+      "stated_as": "Muhammad Nuh"
+    },
+    "P582": "2016-07-27",
+    "P1366": {
+      "links": [
+        "Muhadjir Effendy"
+      ],
+      "stated_as": "Muhadjir Effendy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Jakarta"
+      ],
+      "stated_as": "18th Governor of Jakarta"
+    },
+    "P580": "2017-10-16",
+    "P1365": {
+      "links": [
+        "Djarot Saiful Hidayat"
+      ],
+      "stated_as": "Djarot Saiful Hidayat"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Depok"
+      ],
+      "stated_as": "3rd Deputy Mayor of Depok"
+    },
+    "P580": "2011-01-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Yuyun Wirasaputra"
+    },
+    "P582": "2016-02-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pradi Supriatna"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Depok"
+      ],
+      "stated_as": "3rd Mayor of Depok"
+    },
+    "P580": "2016-02-17",
+    "P1365": {
+      "links": [
+        "Nur Mahmudi Ismail"
+      ],
+      "stated_as": "Nur Mahmudi Ismail\nArifin Harun Kertasaputra (Act.)\nSri Utomo (Act.)"
+    }
+  }
+]

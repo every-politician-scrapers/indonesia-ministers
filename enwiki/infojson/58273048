@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Southeast Sulawesi"
+      ],
+      "stated_as": "7th Governor of Southeast Sulawesi"
+    },
+    "P580": "2003-07-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Laode Kaminuddin"
+    },
+    "P582": "2008-02-18",
+    "P1366": {
+      "links": [
+        "Nur Alam"
+      ],
+      "stated_as": "Nur Alam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Southeast Sulawesi"
+      ],
+      "stated_as": "7th Governor of Southeast Sulawesi"
+    },
+    "P580": "2018-09-05",
+    "P1365": {
+      "links": [
+        "Saleh Lasata",
+        "Teguh Setyabudi"
+      ],
+      "stated_as": "Saleh Lasata\nTeguh Setyabudi (act.)"
+    }
+  }
+]

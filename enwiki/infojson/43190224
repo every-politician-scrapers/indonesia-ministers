@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Surabaya"
+      ],
+      "stated_as": "23rd Mayor of Surabaya"
+    },
+    "P580": "2010-09-28",
+    "P1365": {
+      "links": [
+        "Bambang Dwi Hartono"
+      ],
+      "stated_as": "Bambang Dwi Hartono"
+    },
+    "P582": "2020-12-23",
+    "P1366": {
+      "links": [
+        "Whisnu Sakti Buana",
+        "Eri Cahyadi"
+      ],
+      "stated_as": "Whisnu Sakti Buana (Acting) Eri Cahyadi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Affairs (Indonesia)"
+      ],
+      "stated_as": "31st Minister of Social Affairs"
+    },
+    "P580": "2020-12-23",
+    "P1365": {
+      "links": [
+        "Juliari Batubara"
+      ],
+      "stated_as": "Juliari Batubara"
+    }
+  }
+]

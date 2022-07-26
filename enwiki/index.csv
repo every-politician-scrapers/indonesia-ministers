@@ -1,62 +1,62 @@
-pageid,title
-2829084,Prabowo Subianto
-12159740,Anies Baswedan
-17460908,Sri Mulyani
-24770137,Mahfud MD
-27289825,Sandiaga Uno
-29410367,Joko Widodo
-34354747,Erick Thohir
-36269293,Ridwan Kamil
-42488874,Teten Masduki
-42671352,Moeldoko
-43190224,Tri Rismaharini
-44220253,Retno Marsudi
-44494216,Luhut Binsar Pandjaitan
-51073634,Tito Karnavian
-51118329,Pratikno
-51337818,Muhammad Syarifuddin
-52368253,Yasonna Laoly
-52468232,Khofifah Indar Parawansa
-53205404,Ma'ruf Amin
-53355249,Sahbirin Noor
-54721377,Lukas Enembe
-55081338,Abdul Ghani Kasuba
-55213516,Mohammad Idris
-55281989,Syahrul Yasin Limpo
-55456538,Mahyeldi Ansharullah
-55511537,Ganjar Pranowo
-55731297,Puan Maharani
-55986713,Hadi Tjahjanto
-56056556,Airlangga Hartarto
-56543907,Basuki Hadimuljono
-57036558,Perry Warjiyo
-57167153,Siti Nurbaya Bakar
-57227124,Olly Dondokambey
-57419016,Suharso Monoarfa
-58178021,Edy Rahmayadi
-58273048,Ali Mazi
-59044948,Budi Karya Sumadi
-59129682,Andika Perkasa
-59794913,Muhadjir Effendy
-60323431,Nadiem Makarim
-60528859,Agus Gumiwang Kartasasmita
-60645801,Ahmad Riza Patria
-62138971,Arifin Tasrif
-62534043,Johnny G. Plate
-62874870,Sanitiar Burhanuddin
-63697747,Budi Gunawan
-65295386,Ida Fauziyah
-65362867,Abdul Halim Iskandar
-66172174,Eri Cahyadi
-66200407,Yaqut Cholil Qoumas
-66226629,Ansar Ahmad (Indonesian politician)
-66238043,Rohidin Mersyah
-66648578,Budi Gunadi Sadikin
-66648669,Sakti Wahyu Trenggono
-66712955,Listyo Sigit Prabowo
-66750698,Zainudin Amali
-66754343,I Gusti Ayu Bintang Darmawati
-67522760,Bahlil Lahadalia
-68625489,Murad Ismail (politician)
-68842710,Syamsuar
-69730879,Andi Sudirman Sulaiman
+pageid,title,wikidata,label
+2829084,Prabowo Subianto,Q2107268,Prabowo Subianto
+12159740,Anies Baswedan,Q4263230,Anies Baswedan
+17460908,Sri Mulyani,Q3177708,Sri Mulyani Indrawati
+24770137,Mahfud MD,Q6892160,Mahfud MD
+27289825,Sandiaga Uno,Q7416335,Sandiaga Uno
+29410367,Joko Widodo,Q3318231,Joko Widodo
+34354747,Erick Thohir,Q5388188,Erick Thohir
+36269293,Ridwan Kamil,Q7333042,Ridwan Kamil
+42488874,Teten Masduki,Q12521107,Teten Masduki
+42671352,Moeldoko,Q12498731,Moeldoko
+43190224,Tri Rismaharini,Q12522317,Tri Rismaharini
+44220253,Retno Marsudi,Q18342668,Retno Marsudi
+44494216,Luhut Binsar Pandjaitan,Q14917375,Luhut Binsar Panjaitan
+51073634,Tito Karnavian,Q12521705,Tito Karnavian
+51118329,Pratikno,Q12506406,Pratikno
+51337818,Muhammad Syarifuddin,Q25469938,Muhammad Syarifuddin
+52368253,Yasonna Laoly,Q12525045,Yasonna Hamonangan Laoly
+52468232,Khofifah Indar Parawansa,Q12491600,Khofifah Indar Parawansa
+53205404,Ma'ruf Amin,Q12497177,Ma'ruf Amin
+53355249,Sahbirin Noor,Q25467522,Sahbirin Noor
+54721377,Lukas Enembe,Q12495539,Lukas Enembe
+55081338,Abdul Ghani Kasuba,Q16162222,Abdul Ghani Kasuba
+55213516,Mohammad Idris,Q25461525,Mohammad Idris Abdul Shomad
+55281989,Syahrul Yasin Limpo,Q10860301,Syahrul Yasin Limpo
+55456538,Mahyeldi Ansharullah,Q17410383,Mahyeldi
+55511537,Ganjar Pranowo,Q12483474,Ganjar Pranowo
+55731297,Puan Maharani,Q15646541,Puan Maharani
+55986713,Hadi Tjahjanto,Q25469937,Hadi Tjahjanto
+56056556,Airlangga Hartarto,Q12471140,Airlangga Hartarto
+56543907,Basuki Hadimuljono,Q18421298,Basuki Hadimuljono
+57036558,Perry Warjiyo,Q51417348,Perry Warjiyo
+57167153,Siti Nurbaya Bakar,Q18421248,Siti Nurbaya Bakar
+57227124,Olly Dondokambey,Q25467525,Olly Dondokambey
+57419016,Suharso Monoarfa,Q12516581,Suharso Monoarfa
+58178021,Edy Rahmayadi,Q19725548,Edy Rahmayadi
+58273048,Ali Mazi,Q12471485,Ali Mazi
+59044948,Budi Karya Sumadi,Q28723650,Budi Karya Sumadi
+59129682,Andika Perkasa,Q18421241,Andika Perkasa
+59794913,Muhadjir Effendy,Q26236935,Muhadjir Effendy
+60323431,Nadiem Makarim,Q25464675,Nadiem Makarim
+60528859,Agus Gumiwang Kartasasmita,Q12470931,Agus Gumiwang Kartasasmita
+60645801,Ahmad Riza Patria,Q12470965,Ahmad Riza Patria
+62138971,Arifin Tasrif,Q12472460,Arifin Tasrif
+62534043,Johnny G. Plate,Q72119052,Johnny G. Plate
+62874870,Sanitiar Burhanuddin,Q83236699,Sanitiar Burhanuddin
+63697747,Budi Gunawan,Q12477379,Budi Gunawan
+65295386,Ida Fauziyah,Q17410595,Ida Fauziyah
+65362867,Abdul Halim Iskandar,Q72061441,Abdul Halim Iskandar
+66172174,Eri Cahyadi,Q104417591,Eri Cahyadi
+66200407,Yaqut Cholil Qoumas,Q56391957,Yaqut Cholil Qoumas
+66226629,Ansar Ahmad (Indonesian politician),Q49250480,Ansar Ahmad
+66238043,Rohidin Mersyah,Q25467863,Rohidin Mersyah
+66648578,Budi Gunadi Sadikin,Q85989277,Budi Gunadi Sadikin
+66648669,Sakti Wahyu Trenggono,Q73854259,Sakti Wahyu Trenggono
+66712955,Listyo Sigit Prabowo,Q28723955,Listyo Sigit Prabowo
+66750698,Zainudin Amali,Q72061950,Zainudin Amali
+66754343,I Gusti Ayu Bintang Darmawati,Q72117992,I Gusti Ayu Bintang Darmawati
+67522760,Bahlil Lahadalia,Q65204620,Bahlil Lahadalia
+68625489,Murad Ismail (politician),Q19943861,Murad Ismail
+68842710,Syamsuar,Q61119218,Syamsuar
+69730879,Andi Sudirman Sulaiman,Q49252587,Andi Sudirman Sulaiman

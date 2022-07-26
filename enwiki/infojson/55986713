@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of Staff of the Indonesian Air Force"
+      ],
+      "stated_as": "Chief of Staff of the Air Force"
+    },
+    "P580": "2017-01-18",
+    "P1365": {
+      "links": [
+        "Air Chief Marshal",
+        ":id:Agus Supriatna"
+      ],
+      "stated_as": "Air Chief Marshal Agus Supriatna"
+    },
+    "P582": "2018-01-17",
+    "P1366": {
+      "links": [
+        "Air Chief Marshal",
+        "Yuyu Sutisna"
+      ],
+      "stated_as": "Air Chief Marshal Yuyu Sutisna"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Commander of the Indonesian National Armed Forces"
+      ],
+      "stated_as": "Commander of the National Armed Forces"
+    },
+    "P580": "2017-12-08",
+    "P1365": {
+      "links": [
+        "General",
+        "Gatot Nurmantyo"
+      ],
+      "stated_as": "General Gatot Nurmantyo"
+    },
+    "P582": "2021-11-17",
+    "P1366": {
+      "links": [
+        "General",
+        "Andika Perkasa"
+      ],
+      "stated_as": "General Andika Perkasa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Minister of Agrarian Affairs and Spatial Planning"
+      ],
+      "stated_as": "14th Minister of Agrarian and Spatial Planning"
+    },
+    "P580": "2022-06-15",
+    "P1365": {
+      "links": [
+        "Sofyan Djalil"
+      ],
+      "stated_as": "Sofyan Djalil"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bintan Regency"
+      ],
+      "stated_as": "Regent of Bintan"
+    },
+    "P580": "2005-08-10",
+    "P582": "2015-08-10"
+  },
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2019-10-01",
+    "P582": "2020-09-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Cen Sui Lan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Riau Islands"
+      ],
+      "stated_as": "Governor of Riau Islands"
+    },
+    "P580": "2021-02-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Isdianto"
+    }
+  }
+]

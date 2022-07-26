@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Chief of the Maluku Regional Police"
+    },
+    "P580": "2013-04",
+    "P1365": {
+      "links": [
+        "Herry Prastowo"
+      ],
+      "stated_as": "Herry Prastowo"
+    },
+    "P582": "2013-12-15",
+    "P1366": {
+      "links": [
+        "Musa Ginting (Policeman)"
+      ],
+      "stated_as": "Musa Ginting"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Maluku"
+    },
+    "P1545": "13",
+    "P580": "2019-04-24",
+    "P1365": {
+      "links": [
+        "Said Assagaff"
+      ],
+      "stated_as": "Said Assagaff Hamim bin Tahir"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Maluku Regional Police Chief"
+    },
+    "P580": "2022-07-15",
+    "P1365": {
+      "links": [
+        "Muktiono"
+      ],
+      "stated_as": "Muktiono"
+    },
+    "P582": "2022-07-31",
+    "P1366": {
+      "links": [
+        "Ilham Salahudin"
+      ],
+      "stated_as": "Ilham Salahudin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Commander of the Police Mobile Brigade Corps"
+    },
+    "P580": "2022-07-31",
+    "P1365": {
+      "links": [
+        "Robby Kaligis"
+      ],
+      "stated_as": "Robby Kaligis"
+    },
+    "P582": "2018-01-05",
+    "P1366": {
+      "links": [
+        "Rudy Sufahriadi"
+      ],
+      "stated_as": "Rudy Sufahriadi"
+    }
+  }
+]

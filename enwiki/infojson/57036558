@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "International Monetary Fund"
+      ],
+      "stated_as": "Executive Director of the IMF"
+    },
+    "P580": "2007",
+    "P582": "2009"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Governor of Bank Indonesia"
+    },
+    "P580": "2013-04-15",
+    "P582": "2018-05-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Bank Indonesia"
+      ],
+      "stated_as": "Governor of Bank Indonesia"
+    },
+    "P580": "2018-05-24",
+    "P1365": {
+      "links": [
+        "Agus Martowardojo"
+      ],
+      "stated_as": "Agus Martowardojo"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2009-10-02",
+    "P582": "2014-10-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Coordinating Ministry for Human Development and Cultural Affairs (Indonesia)"
+      ],
+      "stated_as": "16th Coordinating Minister for Human Development and Cultural Affairs"
+    },
+    "P580": "2014-10-27",
+    "P1365": {
+      "links": [
+        "Agung Laksono"
+      ],
+      "stated_as": "Agung Laksono"
+    },
+    "P582": "2019-10-01",
+    "P1366": {
+      "links": [
+        "Darmin Nasution"
+      ],
+      "stated_as": "Darmin Nasution (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2019-10-01"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the People's Representative Council"
+    },
+    "P1545": "19",
+    "P580": "2019-10-01",
+    "P1365": {
+      "links": [
+        "Bambang Soesatyo"
+      ],
+      "stated_as": "Bambang Soesatyo"
+    }
+  }
+]
