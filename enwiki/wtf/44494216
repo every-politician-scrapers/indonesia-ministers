@@ -1349,34 +1349,94 @@
       "lists": [
         [
           {
-            "text": "1) 2nd Lieutenant Inf (1970)"
+            "text": "1) Second Lieutenant (1970)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Second Lieutenant"
+              }
+            ]
           },
           {
-            "text": "2) 1st Lieutenant Inf (1973)"
+            "text": "2) First Lieutenant (1973)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Lieutenant"
+              }
+            ]
           },
           {
-            "text": "3) Captain Inf (1975)"
+            "text": "3) Captain (1975)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Captain"
+              }
+            ]
           },
           {
-            "text": "4) Major Inf (1980)"
+            "text": "4) Major (1980)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Major"
+              }
+            ]
           },
           {
-            "text": "5) Lieutenant Colonel Inf (1983)"
+            "text": "5) Lieutenant Colonel (1983)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant Colonel"
+              }
+            ]
           },
           {
-            "text": "6) Colonel Inf (1990)"
+            "text": "6) Colonel (1990)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonel"
+              }
+            ]
           },
           {
-            "text": "7) Brigadier General/BG (1995)"
+            "text": "7) Brigadier General (1995)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier General"
+              }
+            ]
           },
           {
-            "text": "8) Major General/MG (1996)"
+            "text": "8) Major General (1996)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Major General"
+              }
+            ]
           },
           {
-            "text": "9) Lieutenant General/LTG (1997)"
+            "text": "9) Lieutenant General (1997)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
           },
           {
-            "text": "10) General/GEN (1 November 2000) (HOR)"
+            "text": "10) General (1 November 2000) (Honorary)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General"
+              }
+            ]
           }
         ]
       ]
