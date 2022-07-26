@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Mayor of Padang"
+    },
+    "P580": "2009-02-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Yusman Kasim"
+    },
+    "P582": "2014-02-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Emzalmi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Padang"
+    },
+    "P1545": "14",
+    "P580": "2014-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Erizal Agus (acting)"
+    },
+    "P582": "2021-02-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hendri Septa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Governors of West Sumatra"
+      ],
+      "stated_as": "10th Governor of West Sumatra"
+    },
+    "P580": "2021-02-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hamdani (interim)"
+    }
+  }
+]

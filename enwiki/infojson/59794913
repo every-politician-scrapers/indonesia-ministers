@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Culture of Indonesia"
+    },
+    "P1545": "28",
+    "P580": "2016-07-27",
+    "P1365": {
+      "links": [
+        "Anies Baswedan"
+      ],
+      "stated_as": "Anies Baswedan"
+    },
+    "P582": "2019-10-20",
+    "P1366": {
+      "links": [
+        "Nadiem Makarim"
+      ],
+      "stated_as": "Nadiem Makarim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Coordinating Ministry for Human Development and Cultural Affairs (Indonesia)"
+      ],
+      "stated_as": "17th Coordinating Minister for Human Development and Cultural Affairs"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Darmin Nasution",
+        "Puan Maharani"
+      ],
+      "stated_as": "Darmin Nasution (acting)\nPuan Maharani"
+    }
+  }
+]

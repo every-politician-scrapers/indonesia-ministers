@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Puncak Jaya Regency"
+      ],
+      "stated_as": "Regent of Puncak Jaya"
+    },
+    "P580": "2007",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Elieser Renmaur"
+    },
+    "P582": "2012",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Henock Ibo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Papua"
+      ],
+      "stated_as": "13th Governor of Papua"
+    },
+    "P580": "2013-04-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constant Karma"
+    }
+  }
+]

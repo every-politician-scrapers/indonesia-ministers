@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2014-10-01",
+    "P582": "2019-10-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communication and Information Technology (Indonesia)"
+      ],
+      "stated_as": "Minister of Communication and Information Technology"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Rudiantara"
+      ],
+      "stated_as": "Rudiantara"
+    }
+  }
+]

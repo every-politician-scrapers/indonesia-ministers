@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bandung"
+      ],
+      "stated_as": "26th Mayor of Bandung"
+    },
+    "P580": "2013-09-16",
+    "P1365": {
+      "links": [
+        "Dada Rosada"
+      ],
+      "stated_as": "Dada Rosada"
+    },
+    "P582": "2018-09-05",
+    "P1366": {
+      "links": [
+        "Oded Muhammad Danial"
+      ],
+      "stated_as": "Oded Muhammad Danial"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "West Java"
+      ],
+      "stated_as": "15th Governor of West Java"
+    },
+    "P580": "2018-09-05",
+    "P1365": {
+      "links": [
+        "Ahmad Heryawan"
+      ],
+      "stated_as": "Ahmad Heryawan\nMochamad Iriawan (interim)"
+    }
+  }
+]

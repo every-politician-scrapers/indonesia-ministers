@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Surakarta"
+      ],
+      "stated_as": "15th Mayor of Surakarta"
+    },
+    "P580": "2005-07-28",
+    "P1365": {
+      "links": [
+        "Slamet Suryanto"
+      ],
+      "stated_as": "Slamet Suryanto"
+    },
+    "P582": "2012-10-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "F. X. Hadi Rudyatmo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Jakarta"
+      ],
+      "stated_as": "14th Governor of Jakarta"
+    },
+    "P580": "2012-10-15",
+    "P1365": {
+      "links": [
+        "Fauzi Bowo"
+      ],
+      "stated_as": "Fauzi Bowo"
+    },
+    "P582": "2014-10-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Basuki Tjahaja Purnama"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Indonesia"
+    },
+    "P1545": "7",
+    "P580": "2014-10-20",
+    "P1365": {
+      "links": [
+        "Susilo Bambang Yudhoyono"
+      ],
+      "stated_as": "Susilo Bambang Yudhoyono"
+    }
+  }
+]

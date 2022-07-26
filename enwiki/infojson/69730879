@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of South Sulawesi"
+    },
+    "P580": "2018-09-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Agus Arifin Nu'mang"
+    },
+    "P582": "2022-03-10"
+  },
+  {
+    "office": {
+      "links": [
+        "South Sulawesi"
+      ],
+      "stated_as": "Governor of South Sulawesi"
+    },
+    "P580": "2022-03-10",
+    "P1365": {
+      "links": [
+        "Nurdin Abdullah"
+      ],
+      "stated_as": "Nurdin Abdullah"
+    }
+  }
+]

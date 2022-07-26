@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Indonesia to Norway"
+    },
+    "P580": "2005",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hatanto Reksodiputro"
+    },
+    "P582": "2008",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Esti Andayani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Indonesia to the Netherlands"
+    },
+    "P580": "2011-12-21",
+    "P1365": {
+      "links": [
+        "Junus Effendi Habibie"
+      ],
+      "stated_as": "Junus Effendi Habibie"
+    },
+    "P582": "2015-01-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "I Gusti Agung Wesaka Puja"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Foreign Minister of Indonesia"
+    },
+    "P1545": "17",
+    "P580": "2014-10-27",
+    "P1365": {
+      "links": [
+        "Marty Natalegawa"
+      ],
+      "stated_as": "Marty Natalegawa"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "office": {
+      "links": [
+        "Gowa Regency"
+      ],
+      "stated_as": "Regent of Gowa"
+    },
+    "P580": "1994",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Azis Umar"
+    },
+    "P582": "2002",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hasbullah Djabar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "South Sulawesi"
+      ],
+      "stated_as": "Vice Governor of South Sulawesi"
+    },
+    "P580": "2003-01-19",
+    "P582": "2008-01-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Agus Arifin Nu'mang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "South Sulawesi"
+      ],
+      "stated_as": "Governor of South Sulawesi"
+    },
+    "P580": "2008-04-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Amin Sjam"
+    },
+    "P582": "2018-04-08",
+    "P1366": {
+      "links": [
+        "Soni Sumarsono",
+        "Nurdin Abdullah"
+      ],
+      "stated_as": "Soni Sumarsono (act.) Nurdin Abdullah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P1545": "28",
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Amran Sulaiman"
+      ],
+      "stated_as": "Amran Sulaiman"
+    }
+  }
+]

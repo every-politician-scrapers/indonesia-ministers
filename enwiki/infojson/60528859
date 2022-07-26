@@ -1,0 +1,51 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Representative Council"
+      ],
+      "stated_as": "Member of People's Representative Council"
+    },
+    "P580": "2009-10-01",
+    "P582": "2018-08-24"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Social Affairs"
+    },
+    "P1545": "29",
+    "P580": "2018-08-24",
+    "P1365": {
+      "links": [
+        "Idrus Marham"
+      ],
+      "stated_as": "Idrus Marham"
+    },
+    "P582": "2019-10-20",
+    "P1366": {
+      "links": [
+        "Juliari Batubara"
+      ],
+      "stated_as": "Juliari Batubara"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Industry"
+    },
+    "P1545": "26",
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Airlangga Hartarto"
+      ],
+      "stated_as": "Airlangga Hartarto"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Chief Justice of the Supreme Court of Indonesia"
+      ],
+      "stated_as": "Deputy Chief Justice of the Supreme Court of Indonesia, Judicial Affairs"
+    },
+    "P580": "2016-05-03",
+    "P1365": {
+      "links": [
+        "Mohammad Saleh"
+      ],
+      "stated_as": "Mohammad Saleh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of the Supreme Court of Indonesia"
+    },
+    "P1545": "14",
+    "P580": "2020-04-30",
+    "P1365": {
+      "links": [
+        "Muhammad Hatta Ali"
+      ],
+      "stated_as": "Muhammad Hatta Ali"
+    }
+  }
+]

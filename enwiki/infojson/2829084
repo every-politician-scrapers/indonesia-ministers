@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kopassus"
+      ],
+      "stated_as": "15th General Commander of Kopassus"
+    },
+    "P580": "1995-12-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Subagyo Hadi Siswoyo"
+    },
+    "P582": "1998-03-20",
+    "P1366": {
+      "links": [
+        "Muchdi Purwopranjono"
+      ],
+      "stated_as": "Muchdi Purwopranjono"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Commander of Army Strategic Command (Indonesia)"
+      ],
+      "stated_as": "22nd Commander of Kostrad"
+    },
+    "P580": "1998-03-20",
+    "P1365": {
+      "links": [
+        "Commander of Army Strategic Command (Indonesia)"
+      ],
+      "stated_as": "Soegijono"
+    },
+    "P582": "1998-05-22",
+    "P1366": {
+      "links": [
+        "Commander of Army Strategic Command (Indonesia)"
+      ],
+      "stated_as": "Johny Lumintang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Great Indonesia Movement Party"
+      ],
+      "stated_as": "Leader of Gerindra"
+    },
+    "P580": "2014-09-20",
+    "P1365": {
+      "links": [
+        "Great Indonesia Movement Party"
+      ],
+      "stated_as": "Suhardi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense (Indonesia)"
+      ],
+      "stated_as": "26th Minister of Defense"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Ryamizard Ryacudu"
+      ],
+      "stated_as": "Ryamizard Ryacudu"
+    }
+  }
+]

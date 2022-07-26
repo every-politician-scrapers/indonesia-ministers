@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Representative Council",
+        "West Java"
+      ],
+      "stated_as": "Member of People's Representative Council from West Java 5th District"
+    },
+    "P580": "2004-10-01",
+    "P582": "2016-07-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Industry (Indonesia)"
+      ],
+      "stated_as": "25th Minister of Industry of Indonesia"
+    },
+    "P580": "2016-07-27",
+    "P1365": {
+      "links": [
+        "Saleh Husin"
+      ],
+      "stated_as": "Saleh Husin"
+    },
+    "P582": "2019-10-20",
+    "P1366": {
+      "links": [
+        "Agus Gumiwang Kartasasmita"
+      ],
+      "stated_as": "Agus Gumiwang Kartasasmita"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Golkar"
+      ],
+      "stated_as": "Leader of Golkar"
+    },
+    "P580": "2017-12-13",
+    "P1365": {
+      "links": [
+        "Setya Novanto"
+      ],
+      "stated_as": "Setya Novanto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Coordinating Minister for Economic Affairs of Indonesia"
+      ],
+      "stated_as": "17th Coordinating Minister for Economic Affairs of Indonesia"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Darmin Nasution"
+      ],
+      "stated_as": "Darmin Nasution"
+    },
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nawafie Saleh"
+    }
+  }
+]

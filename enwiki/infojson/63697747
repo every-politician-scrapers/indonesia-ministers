@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Indonesian National Police"
+      ],
+      "stated_as": "Deputy Chief of Indonesian National Police"
+    },
+    "P580": "2015-04-22",
+    "P1365": {
+      "links": [
+        "Badrodin Haiti"
+      ],
+      "stated_as": "Badrodin Haiti"
+    },
+    "P582": "2016-09-09",
+    "P1366": {
+      "links": [
+        "Syafruddin"
+      ],
+      "stated_as": "Syafruddin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Badan Intelijen Negara"
+      ],
+      "stated_as": "16th Director of State Intelligence Agency"
+    },
+    "P580": "2016-09-09",
+    "P1365": {
+      "links": [
+        "Sutiyoso"
+      ],
+      "stated_as": "Sutiyoso"
+    }
+  }
+]

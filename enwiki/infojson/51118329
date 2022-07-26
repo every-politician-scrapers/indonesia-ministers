@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rector (academia)"
+      ],
+      "stated_as": "Rector of Gadjah Mada University"
+    },
+    "P580": "2012-07-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Soedjarwadi"
+    },
+    "P582": "2014-11-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dwikorita Karnawati"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of State Secretariat (Indonesia)"
+      ],
+      "stated_as": "State Secretary of Indonesia"
+    },
+    "P580": "2014-10-27",
+    "P1365": {
+      "links": [
+        "Sudi Silalahi"
+      ],
+      "stated_as": "Sudi Silalahi"
+    }
+  }
+]

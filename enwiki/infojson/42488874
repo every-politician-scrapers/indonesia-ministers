@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Presidential Staff Office (Indonesia)"
+      ],
+      "stated_as": "2nd Presidential Chief of Staff"
+    },
+    "P1545": "2",
+    "P580": "2015-09-02",
+    "P1365": {
+      "links": [
+        "Luhut Binsar Pandjaitan"
+      ],
+      "stated_as": "Luhut Binsar Pandjaitan"
+    },
+    "P582": "2018-01-17",
+    "P1366": {
+      "links": [
+        "Moeldoko"
+      ],
+      "stated_as": "Moeldoko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Cooperatives and SMEs"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Anak Agung Gede Ngurah Puspayoga"
+      ],
+      "stated_as": "Anak Agung Gede Ngurah Puspayoga"
+    }
+  }
+]

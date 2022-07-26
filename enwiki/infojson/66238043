@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Bengkulu"
+    },
+    "P580": "2016-02-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sultan Bachtiar Najamudin"
+    },
+    "P582": "2017-06-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dedy Ermansyah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bengkulu"
+      ],
+      "stated_as": "10th Governor of Bengkulu"
+    },
+    "P580": "2018-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ridwan Mukti"
+    },
+    "P582": "2021-02-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hamka Sabri (caretaker)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bengkulu"
+      ],
+      "stated_as": "10th Governor of Bengkulu"
+    },
+    "P580": "2021-02-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Robert Simbolon (acting)"
+    }
+  }
+]
