@@ -3591,6 +3591,37 @@
             "Reference": {
               "text": ""
             }
+          },
+          {
+            "Ribbon": {
+              "text": ""
+            },
+            "Distinction": {
+              "text": "Grand Commander of the Order of Malacca",
+              "links": [
+                {
+                  "text": "Grand Commander of the Order of Malacca",
+                  "type": "internal",
+                  "page": "List of post-nominal letters (Malacca)"
+                }
+              ]
+            },
+            "Country": {
+              "text": "🇲🇾 Malaysia",
+              "links": [
+                {
+                  "text": "Malaysia",
+                  "type": "internal",
+                  "page": "malaysia"
+                }
+              ]
+            },
+            "Date": {
+              "text": "26 July 2022"
+            },
+            "Reference": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -3606,6 +3637,13 @@
           "number": "0",
           "type": "award-star",
           "ribbon": "Order of Military Merit (Jordan) - Grand Cordon.png",
+          "width": "80",
+          "template": "ribbon devices"
+        },
+        {
+          "number": "0",
+          "type": "award-star",
+          "ribbon": "MY-MAL Exalted Order of Malacca.svg",
           "width": "80",
           "template": "ribbon devices"
         }
@@ -3648,6 +3686,15 @@
           "url": "https://cdn-2.tstatic.net/style/foto/bank/images/prabowo-subianto_20161011_154702.jpg",
           "archive-url": "https://web.archive.org/web/20220523162815/https://cdn-2.tstatic.net/style/foto/bank/images/prabowo-subianto_20161011_154702.jpg",
           "archive-date": "23 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.inews.id/news/nasional/saat-prabowo-dianugerahi-gelar-kehormatan-datuk-seri-darjah-gemilang-seri-melaka",
+          "title": "Saat Prabowo Dianugerahi Gelar Kehormatan Datuk Seri Darjah Gemilang Seri Melaka",
+          "date": "26 July 2022",
+          "access-date": "26 July 2022",
+          "language": "id",
           "template": "citation",
           "type": "web"
         }
