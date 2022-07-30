@@ -113,12 +113,6 @@
           "template": "multiple issues"
         },
         {
-          "list": [
-            "Indonesia"
-          ],
-          "template": "negara"
-        },
-        {
           "year": "1959",
           "month": "12",
           "day": "11",
@@ -137,7 +131,7 @@
             ]
           },
           "birth_place": {
-            "text": "Surakarta, Jawa Tengah",
+            "text": "Surakarta, Jawa Tengah, Indonesia",
             "links": [
               {
                 "type": "internal",
@@ -146,6 +140,10 @@
               {
                 "type": "internal",
                 "page": "Jawa Tengah"
+              },
+              {
+                "type": "internal",
+                "page": "Indonesia"
               }
             ]
           },
